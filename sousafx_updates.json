@@ -1,0 +1,18 @@
+{
+	"pattrstorage" : 	{
+		"name" : "sousafx_updates",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"last_checked" : [ "Last checked on January 17th, 2024" ],
+					"auto-check" : [ 0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

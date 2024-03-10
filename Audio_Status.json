@@ -38,7 +38,7 @@
 					"adstatusOut24" : [ "21 MADI 17" ],
 					"adstatusOut25" : [ "22 MADI 18" ],
 					"mono_or_stereo" : [ 0 ],
-					"main_audio_input_selection" : [ 2 ],
+					"main_audio_input_selection" : [ 3 ],
 					"adstatusIn19" : [ "Off" ],
 					"adstatusIn20" : [ "Off" ],
 					"adstatusIn21" : [ "Off" ],
@@ -49,7 +49,9 @@
 					"adstatusOut28" : [ "25 MADI 21" ],
 					"adstatusOut29" : [ "26 MADI 22" ],
 					"adstatusOut30" : [ "27 MADI 23" ],
-					"adstatusOut31" : [ "28 MADI 24" ]
+					"adstatusOut31" : [ "28 MADI 24" ],
+					"adstatusOut13" : [ "40 MADI 36" ],
+					"adstatusIn18" : [ "18 MADI 14" ]
 				}
 
 			}

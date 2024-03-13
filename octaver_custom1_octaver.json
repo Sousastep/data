@@ -1,12 +1,11 @@
 {
 	"pattrstorage" : 	{
-		"name" : "crossover_plugin_or_gen",
+		"name" : "octaver_custom1_octaver",
 		"slots" : 		{
 			"1" : 			{
 				"id" : 1,
 				"data" : 				{
-					"gen_or_plugin" : [ 1 ],
-					"freq" : [ 115.0 ]
+					"submix" : [ 0.0 ]
 				}
 
 			}

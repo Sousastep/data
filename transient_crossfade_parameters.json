@@ -6,16 +6,16 @@
 				"id" : 1,
 				"data" : 				{
 					"transient_helper" : [ 1 ],
-					"env_decay" : [ 1692.778850708672735 ],
+					"env_decay" : [ 699.999999999999886 ],
 					"noise_gate" : [ 0.146005499737801 ],
-					"interpolate_crossfades" : [ 12.0 ],
-					"env_attack" : [ 3.0 ],
+					"interpolate_crossfades" : [ 0.0 ],
+					"env_attack" : [ 60.0 ],
 					"lock_low_mod" : [ 1 ],
 					"lock_very_low_mod" : [ 1 ],
-					"low_crossfade_offset" : [ 10.0 ],
-					"crossfade_env_sens" : [ 1.2 ],
-					"mix_env_logic::env_bottom" : [ 4.0 ],
-					"mix_env_logic::env_top" : [ 96.0 ],
+					"low_crossfade_offset" : [ 65.354330708661436 ],
+					"crossfade_env_sens" : [ 0.7 ],
+					"mix_env_logic::env_bottom" : [ 0.0 ],
+					"mix_env_logic::env_top" : [ 100.0 ],
 					"mix_env_logic::easing_function" : [ 1 ],
 					"mix_env_logic::invert" : [ 1 ]
 				}

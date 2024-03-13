@@ -5,13 +5,13 @@
 			"1" : 			{
 				"id" : 1,
 				"data" : 				{
-					"very_low_volume" : [ -14.0 ],
-					"low_volume" : [ -19.0 ],
+					"very_low_volume" : [ -17.0 ],
+					"low_volume" : [ -14.0 ],
 					"high_volume" : [ 0.0 ],
 					"auto-mute octaver while tuba's soloing" : [ 1 ],
-					"HiDryTrim" : [ 0.0 ],
-					"LoDryTrim" : [ -9.0 ],
-					"VeryLoDryTrim" : [ -9.0 ],
+					"HiDryTrim" : [ -3.000000000000005 ],
+					"LoDryTrim" : [ -4.000000000000002 ],
+					"VeryLoDryTrim" : [ -5.999999999999995 ],
 					"attack_low::muted" : [ 0.0 ],
 					"attack_octave::muted" : [ 0.0 ],
 					"sustain_octave::muted" : [ 0.0 ],

@@ -1801,7 +1801,7 @@
 					"LFO Sync-Free Crossfade (uni)::available transition options::when to relinquish var2[1]" : [ 0 ],
 					"LFO Sync-Free Crossfade (uni)::available transition options::when to control" : [ 2 ],
 					"LFO Ceiling Envelope Curve (bi)::invert_control" : [ 1 ],
-					"LFO Ceiling Envelope Curve (bi)::curve[1]" : [ 26.771653543307128 ],
+					"LFO Ceiling Envelope Curve (bi)::curve[1]" : [ -66.929133858267704 ],
 					"LFO Ceiling Envelope Curve (bi)::value to set when control relinquished" : [ 0.5 ],
 					"LFO Ceiling Envelope Curve (bi)::curve polarity" : [ 0.0 ],
 					"LFO Ceiling Envelope Curve (bi)::available transition options[1]::when to relinquish var1" : [ 2 ],

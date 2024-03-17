@@ -5,9 +5,9 @@
 			"1" : 			{
 				"id" : 1,
 				"data" : 				{
-					"software_or_hardware_delays" : [ 1 ],
+					"software_or_hardware_delays" : [ 0 ],
 					"delays_input_selection" : [ 0 ],
-					"delay_output_volume" : [ 0.0 ],
+					"delay_output_volume" : [ -4.720919785855987 ],
 					"reverb_output_volume[1]" : [ 0.0 ],
 					"looper volume into delay" : [ -6 ],
 					"max dub send[1]" : [ 1.1003937007874 ],

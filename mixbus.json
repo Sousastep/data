@@ -5,7 +5,7 @@
 			"1" : 			{
 				"id" : 1,
 				"data" : 				{
-					"very_low_volume" : [ -17.0 ],
+					"very_low_volume" : [ -20.0 ],
 					"low_volume" : [ -14.0 ],
 					"high_volume" : [ 0.0 ],
 					"auto-mute octaver while tuba's soloing" : [ 1 ],

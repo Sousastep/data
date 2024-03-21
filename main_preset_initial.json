@@ -1,0 +1,17 @@
+{
+	"pattrstorage" : 	{
+		"name" : "main_preset_initial",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"init_preset" : [ 1.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

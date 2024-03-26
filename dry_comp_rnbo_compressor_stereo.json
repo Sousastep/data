@@ -43,7 +43,7 @@
 								}
 ,
 								"sustain" : 								{
-									"value" : 70.0
+									"value" : 38.0
 								}
 ,
 								"attack" : 								{
@@ -52,7 +52,7 @@
 ,
 								"__presetid" : "compressor_stereo",
 								"softclip" : 								{
-									"value" : 1.0
+									"value" : 0.0
 								}
 ,
 								"comp" : 								{
@@ -64,7 +64,7 @@
 								}
 ,
 								"volume" : 								{
-									"value" : -12.0
+									"value" : -18.0
 								}
 ,
 								"lookahead" : 								{

@@ -9,7 +9,7 @@
 					"low_volume" : [ -14.0 ],
 					"high_volume" : [ 0.0 ],
 					"auto-mute octaver while tuba's soloing" : [ 1 ],
-					"HiDryTrim" : [ -3.000000000000005 ],
+					"HiDryTrim" : [ 0.0 ],
 					"LoDryTrim" : [ -4.000000000000002 ],
 					"VeryLoDryTrim" : [ -5.999999999999995 ],
 					"attack_low::muted" : [ 0.0 ],

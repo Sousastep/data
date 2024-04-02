@@ -1253,7 +1253,7 @@
 					"crosspatch" : [ 						{
 							"data" : 							{
 								"numins" : 50,
-								"numouts" : 71,
+								"numouts" : 69,
 								"connections" : [ 									{
 										"in" : 26,
 										"out" : 30,

@@ -6,10 +6,10 @@
 				"id" : 1,
 				"data" : 				{
 					"preferred audio interface" : [ "\"MADIface Pro (79250639)\"" ],
-					"paused" : [ 0 ],
+					"paused" : [ 1 ],
 					"FX rig" : [ 2 ],
-					"VFX rig" : [ 1 ],
-					"playback rig" : [ 2 ],
+					"VFX rig" : [ 0 ],
+					"playback rig" : [ 1 ],
 					"custom playback file" : [ "\"Macintosh HD:/Users/jbaylies/Documents/Max 8/Projects/sousastep/SousaPlayback Project/SousaPlaybackPlugins.als\"" ]
 				}
 

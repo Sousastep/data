@@ -1,0 +1,68 @@
+{
+	"pattrstorage" : 	{
+		"name" : "Audio_Status[1]",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"adstatusOut1" : [ "1 Analog 1" ],
+					"adstatusOut2" : [ "2 Analog 2" ],
+					"adstatusOut3" : [ "3 Phones 3" ],
+					"adstatusOut4" : [ "4 Phones 4" ],
+					"adstatusOut5" : [ "Off" ],
+					"adstatusOut6" : [ "Off" ],
+					"adstatusOut7" : [ "Off" ],
+					"adstatusOut8" : [ "Off" ],
+					"adstatusOut9" : [ "Off" ],
+					"adstatusOut10" : [ "Off" ],
+					"adstatusOut11" : [ "Off" ],
+					"adstatusOut12" : [ "Off" ],
+					"adstatusOut23" : [ "Off" ],
+					"adstatusIn1" : [ "1 Mic/Line 1" ],
+					"adstatusIn2" : [ "Off" ],
+					"adstatusIn3" : [ "Off" ],
+					"adstatusIn4" : [ "Off" ],
+					"adstatusIn5" : [ "Off" ],
+					"adstatusIn6" : [ "Off" ],
+					"adstatusIn7" : [ "Off" ],
+					"adstatusIn8" : [ "Off" ],
+					"adstatusIn9" : [ "Off" ],
+					"adstatusIn10" : [ "Off" ],
+					"adstatusIn11" : [ "Off" ],
+					"adstatusIn12" : [ "Off" ],
+					"adstatusIn13" : [ "Off" ],
+					"adstatusIn14" : [ "Off" ],
+					"adstatusIn15" : [ "Off" ],
+					"adstatusIn16" : [ "Off" ],
+					"adstatusIn17" : [ "Off" ],
+					"adstatusOut24" : [ "Off" ],
+					"adstatusOut25" : [ "Off" ],
+					"mono_or_stereo" : [ 0 ],
+					"main_audio_input_selection" : [ 2 ],
+					"adstatusIn19" : [ "Off" ],
+					"adstatusIn20" : [ "Off" ],
+					"adstatusIn21" : [ "Off" ],
+					"adstatusIn22" : [ "Off" ],
+					"adstatusIn23" : [ "Off" ],
+					"adstatusIn24" : [ "Off" ],
+					"adstatusOut27" : [ "Off" ],
+					"adstatusOut28" : [ "Off" ],
+					"adstatusOut29" : [ "Off" ],
+					"adstatusOut30" : [ "Off" ],
+					"adstatusOut31" : [ "Off" ],
+					"adstatusOut13" : [ "Off" ],
+					"adstatusIn18" : [ "Off" ],
+					"adstatusIn25" : [ "Off" ],
+					"adstatusIn26" : [ "Off" ],
+					"adstatusIn27" : [ "Off" ],
+					"adstatusIn28" : [ "Off" ],
+					"adstatusIn29" : [ "Off" ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

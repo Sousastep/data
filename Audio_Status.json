@@ -34,7 +34,7 @@
 					"adstatusIn14" : [ "Off" ],
 					"adstatusIn15" : [ "Off" ],
 					"adstatusIn16" : [ "Off" ],
-					"adstatusIn17" : [ "Off" ],
+					"adstatusIn17" : [ "17 MADI 13" ],
 					"adstatusOut24" : [ "Off" ],
 					"adstatusOut25" : [ "Off" ],
 					"mono_or_stereo" : [ 0 ],
@@ -57,8 +57,8 @@
 					"adstatusIn27" : [ "Off" ],
 					"adstatusIn28" : [ "Off" ],
 					"adstatusIn29" : [ "Off" ],
-					"adstatusIn30" : [ "Off" ],
-					"adstatusIn31" : [ "Off" ]
+					"adstatusIn30" : [ "53 MADI 49" ],
+					"adstatusIn31" : [ "54 MADI 50" ]
 				}
 
 			}

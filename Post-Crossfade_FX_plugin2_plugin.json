@@ -1,0 +1,40 @@
+{
+	"pattrstorage" : 	{
+		"name" : "Post-Crossfade_FX_plugin2_plugin",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"name" : "Chorus DIMENSION-D",
+				"data" : 				{
+					"plugin" : [ 						{
+							"filetype" : "C74Snapshot",
+							"version" : 2,
+							"minorversion" : 0,
+							"name" : "Chorus DIMENSION-D",
+							"origin" : "Chorus DIMENSION-D.auinfo",
+							"type" : "AudioUnit",
+							"subtype" : "MidiEffect",
+							"embed" : 1,
+							"snapshot" : 							{
+								"pluginname" : "Chorus DIMENSION-D.auinfo",
+								"plugindisplayname" : "Chorus DIMENSION-D",
+								"pluginsavedname" : "",
+								"pluginsaveduniqueid" : 1684960343,
+								"version" : 1,
+								"isbank" : 0,
+								"isbase64" : 1,
+								"blob" : "2028.hAGaoMGcv.C1AHv.DTfAGfPBJrvDTTgEWvUag4VclE1XzUmbkIGUjEFcgwUYrUVak4Fcs3VXsU1WP.wPu4Fcx8FarUlbfLEcgQWYWMWchQWdvU1U1Ulbyk1atQEc4AWYT4VXsUlDAIGc08DDLC..............X....D..........B7iJptJ...v..........PvO........E.........fA+.H......bvOyLyL....X7C.......PF+........nwO........a7C........G+........zwO........d7C.......vG+.........xO........g7C.......fH+........LB.........j.........PI.........XB.........m..........J.....HMCM3PDQESTxD8CPDELYMEckIWYuARRtE8CRn0TzUlbk8FHOUGcOEgAjHiLfLWYxkVXrkldgQWZu4lN5DlbigVZ1UFHw.CHv.xMf.CH2.RLx.hPgM2bfTTahIWXiUFH1.xTzUlbk8FH0PCHx.CHJUVXt0RSoMFZkwFHBwVXtMFZkQGHy.RSogGHv.BLf.CHv.RLf.CHv.BHwXiLvLSN0HyM4.RLv.RLtPiKv3BMzTyMf.CHv.BLf.CHv.BLf.CHv.BHv.BLfLCHv.BLf.CHwTCHCgVXxE1XzUlboMGcoM1bfXCNfLDZgIWXiQWYxk1bzk1XywxT44Fcnw2Q0kFcgIGeKUVdysyQk4lbkMGK3.yb6LEc4wVYywxUgIWa7QEZoM1Z7cUZjU1NfbCHSUmXzkGbkAhMfLDZuIWcyABMfPUdvUFHw.CHM8FY0wVXzk1atABLf.CHv.xMf.CHv.BLf.CHv.BLfDSLf.CHv.BLfXCHBkGbgM2bf.CHwPCHDkVak41bo8lafzzajUFHv3hM1XiM1XiM4.RL1.BQo0VYtMWZu4FHM8FYkABMf.CHwLCHDkmag0VZiAxPuw1axARLfjCHI4Fb0QGHMkFdf.CH4.BSF8DHSgVXvUFHv.RLx.RSIQTRfLDZg4lakwFHv.RLv.xS0QGb0Q2Qgklaf.iK0.RLv.hUgIWZgQWZu41bf.CHy.xUkQGHv3RMfTCHWkFYzgFHv3hM4jSN4jSN4.BMx.BLfDCNfzTZjk1Pu4Fcx8FarUlbNEVakAxLx.B...........................................RLz.xWegzUe0TXvAWYj80Wv.BMf7++++OHwPCHe8ERW8USgAGbkQ1WeECHz.x+++++fDSMf70WHc0WMEFbvUFYe8ULv.BMf7++++OHwTCHe8ERW8USgAGbkQ1WeESLfPCH+++++CRL0.xWegzUe0TXvAWYj80WwHCHz.x+++++fDSMf70WHc0WMEFbvUFYe8ULy.BMf7++++OHwTCHe8ERW8USgAGbkQ1WeECMfPCH+++++CRL0.xWegzUe0TXvAWYj80WwTCHz.x+++++fDSMf70WHc0WMEFbvUFYe8UL1.BMf7++++OHwTCHe8ERW8USgAGbkQ1WeEyMfPCH+++++CRL0.xWegzUe0TXvAWYj80WwfCHz.x+++++fDSMf70WHc0WMEFbvUFYe8UL4.BMf7++++OHwPCHe8ERW8USgAGbkQ1WeICHz.x+++++fDCMf70WHc0WMEFbvUFYe80LfPCH+++++CRLz.xWegzUe0TXvAWYj80Wz.BMf7++++OHwPCHe8ERW8USgAGbkQ1WeUCHz.x+++++fDCMf70WHc0WMEFbvUFYe8kMfPCH+++++CRLz.xWegzUe0TXvAWYj80W2.BMf7++++OHwPCHe8ERW8USgAGbkQ1WegCHz.x+++++fDCMf70WHc0WMEFbvUFYe8UNfPCH+++++CRLw.xWe0TXvAWYj80Wv.BMf7++++OHwDCHe8USgAGbkQ1WeECHz.x+++++fDiLf70WMEFbvUFYe8ULv.BMf7++++OHwHCHe8USgAGbkQ1WeESLfPCH+++++CRLx.xWe0TXvAWYj80WwHCHz.x+++++fDiLf70WMEFbvUFYe8ULy.BMf7++++OHwHCHe8USgAGbkQ1WeECMfPCH+++++CRLx.xWe0TXvAWYj80WwTCHz.x+++++fDiLf70WMEFbvUFYe8UL1.BMf7++++OHwHCHe8USgAGbkQ1WeEyMfPCH+++++CRLx.xWe0TXvAWYj80WwfCHz.x+++++fDiLf70WMEFbvUFYe8UL4.BMf7++++OHwDCHe8USgAGbkQ1WeICHz.x+++++fDSLf70WMEFbvUFYe80LfPCH+++++CRLw.xWe0TXvAWYj80Wz.BMf7++++OHwDCHe8USgAGbkQ1WeUCHz.x+++++fDSLf70WMEFbvUFYe8kMfPCH+++++CRLw.xWe0TXvAWYj80W2.BMf7++++OHwDCHe8USgAGbkQ1WegCHz.x+++++fDSLf70WMEFbvUFYe8UNfPCH+++++ChL2.xWeMEUAQUQe8kTEMUQRYUQD80WM8DQIYTREQDHw.RLJHAQo0FQP.fDgUWalgUUtQWZzwVYjA.B.jA.l.vJ.fC.KAvT.rE.fAPY.nV.4DfOA.T.BEPQAbT.QE.UA70AGd.iG33ASB.......HP..........fA..................b.m"
+							}
+
+						}
+ ],
+					"latency" : [ 44 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

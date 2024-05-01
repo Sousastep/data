@@ -1,0 +1,29 @@
+{
+	"pattrstorage" : 	{
+		"name" : "transient_crossfade_parameters[1]",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"transient_helper" : [ 1 ],
+					"env_decay" : [ 946.161390116818666 ],
+					"noise_gate" : [ 0.124652946103025 ],
+					"interpolate_crossfades" : [ 49.0 ],
+					"env_attack" : [ 3.0 ],
+					"lock_low_mod" : [ 0 ],
+					"lock_very_low_mod" : [ 0 ],
+					"low_crossfade_offset" : [ 40.157480314960559 ],
+					"crossfade_env_sens" : [ 1.882936959658533 ],
+					"mix_env_logic::env_bottom" : [ 0.0 ],
+					"mix_env_logic::env_top" : [ 100.0 ],
+					"mix_env_logic::easing_function" : [ 0 ],
+					"mix_env_logic::invert" : [ 1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

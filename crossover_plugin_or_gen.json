@@ -1,0 +1,22 @@
+{
+	"pattrstorage" : 	{
+		"name" : "crossover_plugin_or_gen",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"gen_or_plugin" : [ 0 ],
+					"freq" : [ 105.0 ],
+					"bypass Attack FX highpass" : [ 0 ],
+					"bypass Sustain FX highpass" : [ 0 ],
+					"bypass lows lowpass" : [ 0 ],
+					"bypass octaver's lowpass" : [ 0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

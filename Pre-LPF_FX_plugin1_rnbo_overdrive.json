@@ -1,0 +1,32 @@
+{
+	"pattrstorage" : 	{
+		"name" : "Pre-LPF_FX_plugin1_rnbo_overdrive",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"bass" : [ "bass", -20.0 ],
+					"drive" : [ "drive", 66.0 ],
+					"highcut" : [ "highcut", 0.0 ],
+					"lowcut" : [ "lowcut", 0.0 ],
+					"mid" : [ "mid", 20.0 ],
+					"midfreq" : [ "midfreq", 100.0 ],
+					"mix" : [ "mix", 100.0 ],
+					"treble" : [ "treble", 20.0 ],
+					"volume" : [ "volume", -90.0 ],
+					"fx_chain_order" : [ 1 ],
+					"harmonic_mult" : [ 5.0 ],
+					"harmonic_mix" : [ 18.897637795275578 ],
+					"fm_mult" : [ 6.0 ],
+					"fm_depth" : [ 0.546841093682186 ],
+					"bias" : [ 0.0 ],
+					"drive[1]" : [ 1.968503937007874 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

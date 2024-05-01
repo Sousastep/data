@@ -1,0 +1,87 @@
+{
+	"pattrstorage" : 	{
+		"name" : "mod_comp_rnbo_compressor_stereo",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"rnbo_compressor_stereo" : [ 						{
+							"filetype" : "C74Snapshot",
+							"version" : 2,
+							"minorversion" : 0,
+							"name" : "compressor_stereo",
+							"origin" : "compressor_stereo",
+							"type" : "rnbo",
+							"subtype" : "",
+							"embed" : 1,
+							"snapshot" : 							{
+								"__sps" : 								{
+									"HighMid~" : 									{
+
+									}
+,
+									"Compensation~" : 									{
+
+									}
+,
+									"Compression~" : 									{
+
+									}
+,
+									"Volume&Clip~" : 									{
+
+									}
+,
+									"Lookahead~" : 									{
+
+									}
+
+								}
+,
+								"himidfq" : 								{
+									"value" : 1500.0
+								}
+,
+								"sustain" : 								{
+									"value" : 34.0
+								}
+,
+								"attack" : 								{
+									"value" : 38.0
+								}
+,
+								"__presetid" : "compressor_stereo",
+								"softclip" : 								{
+									"value" : 0.0
+								}
+,
+								"comp" : 								{
+									"value" : 58.0
+								}
+,
+								"himid" : 								{
+									"value" : 12.0
+								}
+,
+								"volume" : 								{
+									"value" : -15.0
+								}
+,
+								"lookahead" : 								{
+									"value" : 1.0
+								}
+
+							}
+
+						}
+ ],
+					"preset" : [ 0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

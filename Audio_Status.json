@@ -58,7 +58,15 @@
 					"adstatusIn28" : [ "27 MADI 23" ],
 					"adstatusIn29" : [ "28 MADI 24" ],
 					"adstatusIn30" : [ "53 MADI 49" ],
-					"adstatusIn31" : [ "54 MADI 50" ]
+					"adstatusIn31" : [ "54 MADI 50" ],
+					"adstatusOut32" : [ "51 MADI 47" ],
+					"adstatusOut33" : [ "52 MADI 48" ],
+					"adstatusOut34" : [ "53 MADI 49" ],
+					"adstatusOut35" : [ "54 MADI 50" ],
+					"adstatusOut36" : [ "55 MADI 51" ],
+					"adstatusOut37" : [ "56 MADI 52" ],
+					"adstatusOut38" : [ "57 MADI 53" ],
+					"adstatusOut39" : [ "58 MADI 54" ]
 				}
 
 			}

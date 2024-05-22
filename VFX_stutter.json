@@ -1,0 +1,23 @@
+{
+	"pattrstorage" : 	{
+		"name" : "VFX_stutter",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"stutterLFO::stutter volume[1]" : [ 0.0 ],
+					"stutterLFO::inthru" : [ 1.0 ],
+					"stutterLFO::window" : [ 16.0 ],
+					"stutterLFO::offset[1]" : [ 0.03 ],
+					"stutterLFO::bypass_hipass" : [ 1 ],
+					"stutterLFO::accel-vol-dip" : [ 13.0 ],
+					"stutterLFO::subdiv-behavior" : [ 0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

@@ -14,7 +14,8 @@
 					"stutter-intelligence" : [ 1 ],
 					"main_mix" : [ 74.803149606299129 ],
 					"timeFX_mix" : [ 79.527559055118175 ],
-					"loopers_mix" : [ 0.0 ]
+					"loopers_mix" : [ 0.0 ],
+					"smooth samples" : [ 10.0 ]
 				}
 
 			}

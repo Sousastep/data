@@ -10,6 +10,8 @@
 					"auto-rec" : [ 0 ],
 					"num b4 auto-rec" : [ 3 ],
 					"play random riser" : [ 1 ],
+					"looper triggers tempo change" : [ 1 ],
+					"number b4 tempo change" : [ 3 ],
 					"looper1::looper_volume" : [ 0.0 ],
 					"looper1::fade-out" : [ 1.0 ],
 					"looper1::beats-per-loop" : [ 32.0 ],

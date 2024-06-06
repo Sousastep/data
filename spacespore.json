@@ -297,7 +297,7 @@
 					"SpaceSpore_zoom::pitch_range_low" : [ 70.0 ],
 					"SpaceSpore_zoom::rslider" : [ 0.0, 0.292446674854376 ],
 					"SpaceSpore_zoom::slide_down" : [ 0 ],
-					"SpaceSpore_zoom::slide_up" : [ 0 ],
+					"SpaceSpore_zoom::slide_up" : [ 2 ],
 					"SpaceSpore_zoom::function_visualizer_clear_line::function_visualizer_floats::function" : [ 1.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 1.0, 1.0, 0, 0.205, "curve" ],
 					"SpaceSpore_rate::invert" : [ 0.0 ],
 					"SpaceSpore_rate::linkphasor_rate" : [ 1.0 ],

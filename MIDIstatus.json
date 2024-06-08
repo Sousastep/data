@@ -55,7 +55,10 @@
 					"MIDI MAP OUT[13]::Talkback Mic Mute [ v ] MIDIOUT" : [ 50 ],
 					"MIDI MAP OUT[15]::Drum Clip Stutter Gated or Thru MIDIOUT" : [ 77 ],
 					"playback bus monitor mix vol::playback bus monitor mix vol MIDIOUT" : [ 80 ],
-					"playback bus monitor mix vol[1]::Scene Selector MIDIOUT" : [ 101 ]
+					"playback bus monitor mix vol[1]::Scene Selector MIDIOUT" : [ 101 ],
+					"MIDI note output 8-bar trig" : [ 56 ],
+					"midi note in fadeout almost done" : [ 52 ],
+					"midi note in disable solofx" : [ 53 ]
 				}
 
 			}

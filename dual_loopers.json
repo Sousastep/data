@@ -12,6 +12,7 @@
 					"play random riser" : [ 1 ],
 					"looper triggers tempo change" : [ 1 ],
 					"number b4 tempo change" : [ 3 ],
+					"when to disable soloFX" : [ 1 ],
 					"looper1::looper_volume" : [ 0.0 ],
 					"looper1::fade-out" : [ 1.0 ],
 					"looper1::beats-per-loop" : [ 32.0 ],
@@ -30,7 +31,7 @@
 					"DJfilter::smooth_freq_mod" : [ 21.344361429481385 ],
 					"sousaFX_tremolo::duty" : [ 0.0 ],
 					"sousaFX_tremolo::phase" : [ 0.0 ],
-					"sousaFX_tremolo::smooth[1]" : [ 25.196850393700775 ]
+					"sousaFX_tremolo::smooth[1]" : [ 100.0 ]
 				}
 
 			}

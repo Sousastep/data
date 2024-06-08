@@ -39,7 +39,7 @@
 								}
 ,
 								"comp" : 								{
-									"value" : 75.0
+									"value" : 40.0
 								}
 ,
 								"attack" : 								{
@@ -52,7 +52,7 @@
 								}
 ,
 								"volume" : 								{
-									"value" : 0.0
+									"value" : 100.0
 								}
 ,
 								"lookahead" : 								{

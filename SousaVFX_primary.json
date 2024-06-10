@@ -3365,10 +3365,10 @@
 			"241" : 			{
 				"id" : 241,
 				"data" : 				{
-					"primary-preset-description" : [ "" ],
+					"primary-preset-description" : [ "shader dub 2" ],
 					"blur_enable" : [ 0.0 ],
 					"torus_knot_preset_number" : [ 0 ],
-					"dude_shader_preset_number" : [ 0 ],
+					"dude_shader_preset_number" : [ 4 ],
 					"scrolling_text_preset_number" : [ 0 ],
 					"shapes_preset_number" : [ 0 ],
 					"ISF_preset_number" : [ 0 ]

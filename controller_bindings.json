@@ -2383,7 +2383,7 @@
 					"LFO Ceiling Envelope Curve (bi)[1]::available transition options::when to relinquish var2[1]" : [ 0 ],
 					"LFO Ceiling Envelope Curve (bi)[1]::available transition options::when to control" : [ 1 ],
 					"Envelope Crossfade Position (bi)[1]::invert_control" : [ 0 ],
-					"Envelope Crossfade Position (bi)[1]::curve[1]" : [ -58.267716535433053 ],
+					"Envelope Crossfade Position (bi)[1]::curve[1]" : [ 60.629921259842526 ],
 					"Envelope Crossfade Position (bi)[1]::value to set when control relinquished" : [ 0.0 ],
 					"Envelope Crossfade Position (bi)[1]::curve polarity" : [ 0.0 ],
 					"Envelope Crossfade Position (bi)[1]::available transition options[1]::when to relinquish var1" : [ 0 ],

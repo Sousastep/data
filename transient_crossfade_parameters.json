@@ -6,7 +6,7 @@
 				"id" : 1,
 				"data" : 				{
 					"transient_helper" : [ 1 ],
-					"env_decay" : [ 393.451705391850737 ],
+					"env_decay" : [ 1027.520673008984659 ],
 					"noise_gate" : [ 0.051090245500513 ],
 					"interpolate_crossfades" : [ 71.0 ],
 					"env_attack" : [ 8.0 ],

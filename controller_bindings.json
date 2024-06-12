@@ -1260,11 +1260,6 @@
 								"numins" : 50,
 								"numouts" : 71,
 								"connections" : [ 									{
-										"in" : 26,
-										"out" : 30,
-										"gain" : 1.0
-									}
-, 									{
 										"in" : 23,
 										"out" : 27,
 										"gain" : 1.0
@@ -1455,11 +1450,6 @@
 										"gain" : 1.0
 									}
 , 									{
-										"in" : 1,
-										"out" : 12,
-										"gain" : 1.0
-									}
-, 									{
 										"in" : 16,
 										"out" : 34,
 										"gain" : 1.0
@@ -1490,18 +1480,8 @@
 										"gain" : 1.0
 									}
 , 									{
-										"in" : 0,
-										"out" : 63,
-										"gain" : 1.0
-									}
-, 									{
 										"in" : 41,
 										"out" : 49,
-										"gain" : 1.0
-									}
-, 									{
-										"in" : 27,
-										"out" : 23,
 										"gain" : 1.0
 									}
 , 									{
@@ -1527,6 +1507,21 @@
 , 									{
 										"in" : 38,
 										"out" : 4,
+										"gain" : 1.0
+									}
+, 									{
+										"in" : 26,
+										"out" : 23,
+										"gain" : 1.0
+									}
+, 									{
+										"in" : 0,
+										"out" : 12,
+										"gain" : 1.0
+									}
+, 									{
+										"in" : 1,
+										"out" : 63,
 										"gain" : 1.0
 									}
  ]
@@ -1854,7 +1849,7 @@
 					"LPF Resonance Amount (either)::available transition options::when to relinquish var2[1]" : [ 0 ],
 					"LPF Resonance Amount (either)::available transition options::when to control" : [ 2 ],
 					"Envelope Crossfade Position (bi)::invert_control" : [ 0 ],
-					"Envelope Crossfade Position (bi)::curve[1]" : [ 32.283464566929318 ],
+					"Envelope Crossfade Position (bi)::curve[1]" : [ -24.409448818897374 ],
 					"Envelope Crossfade Position (bi)::value to set when control relinquished" : [ 1.0 ],
 					"Envelope Crossfade Position (bi)::curve polarity" : [ 1.0 ],
 					"Envelope Crossfade Position (bi)::available transition options[1]::when to relinquish var1" : [ 2 ],

@@ -6,7 +6,7 @@
 				"id" : 1,
 				"data" : 				{
 					"very_low_volume" : [ -26.0 ],
-					"low_volume" : [ -15.0 ],
+					"low_volume" : [ -26.254683681781213 ],
 					"high_volume" : [ -6.0 ],
 					"auto-mute octaver while tuba's soloing" : [ 1 ],
 					"HiDryTrim" : [ 0.0 ],

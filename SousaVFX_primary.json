@@ -201,7 +201,7 @@
 			"15" : 			{
 				"id" : 15,
 				"data" : 				{
-					"primary-preset-description" : [ "" ],
+					"primary-preset-description" : [ "pinwheel dub 2" ],
 					"blur_enable" : [ 0.0 ],
 					"torus_knot_preset_number" : [ 0 ],
 					"dude_shader_preset_number" : [ 0 ],

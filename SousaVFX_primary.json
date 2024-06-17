@@ -173,7 +173,7 @@
 			"13" : 			{
 				"id" : 13,
 				"data" : 				{
-					"primary-preset-description" : [ "" ],
+					"primary-preset-description" : [ "pin dub 1" ],
 					"blur_enable" : [ 0.0 ],
 					"torus_knot_preset_number" : [ 0 ],
 					"dude_shader_preset_number" : [ 0 ],
@@ -481,7 +481,7 @@
 			"35" : 			{
 				"id" : 35,
 				"data" : 				{
-					"primary-preset-description" : [ "" ],
+					"primary-preset-description" : [ "glowring idle" ],
 					"blur_enable" : [ 0.0 ],
 					"torus_knot_preset_number" : [ 0 ],
 					"dude_shader_preset_number" : [ 0 ],
@@ -636,7 +636,7 @@
 				"id" : 46,
 				"data" : 				{
 					"primary-preset-description" : [ "spore idle" ],
-					"blur_enable" : [ 1.0 ],
+					"blur_enable" : [ 0.0 ],
 					"torus_knot_preset_number" : [ 0 ],
 					"dude_shader_preset_number" : [ 0 ],
 					"scrolling_text_preset_number" : [ 0 ],

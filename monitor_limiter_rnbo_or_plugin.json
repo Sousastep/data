@@ -1,11 +1,11 @@
 {
 	"pattrstorage" : 	{
-		"name" : "mod_comp_rnbo_or_plugin",
+		"name" : "monitor_limiter_rnbo_or_plugin",
 		"slots" : 		{
 			"1" : 			{
 				"id" : 1,
 				"data" : 				{
-					"rnbo_or_plugin" : [ 0 ]
+					"rnbo_or_plugin" : [ 1 ]
 				}
 
 			}

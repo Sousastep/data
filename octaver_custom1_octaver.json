@@ -9,9 +9,9 @@
 					"pitchslideup" : [ 4800 ],
 					"pitchslidedown" : [ 9600 ],
 					"pitchquantize" : [ 1 ],
-					"lowrange" : [ 30.0 ],
+					"lowrange" : [ 36.0 ],
 					"highrange" : [ 200.0 ],
-					"enablesweepdown" : [ 0 ]
+					"enablesweepdown" : [ 1 ]
 				}
 
 			}

@@ -15,7 +15,7 @@
 					"sustain fx chooser::Pre-LPF_FX_when_to_bypass" : [ 2.0 ],
 					"sustain fx chooser::Pre-LPF_FX_randomize" : [ 1 ],
 					"post-crossfade fx chooser::Post-Crossfade_FX_plugin_choice" : [ 3, 0, 1.0 ],
-					"post-crossfade fx chooser::Post-Crossfade_FX_when_to_bypass" : [ 1.0 ],
+					"post-crossfade fx chooser::Post-Crossfade_FX_when_to_bypass" : [ 0.0 ],
 					"post-crossfade fx chooser::Post-Crossfade_FX_randomize" : [ 1 ],
 					"attack fx chooser::Dry-ish_FX_plugin_choice" : [ 2, 0, 1.0 ],
 					"attack fx chooser::Dry-ish_FX_when_to_bypass" : [ 0.0 ],
@@ -61,7 +61,6 @@
 					"mod params::wah sens reduc" : [ 0.65984251968504 ],
 					"mod params::transient_detect::transient_definition" : [ 0 ],
 					"umenu_presets::main_preset_initial" : [ 1 ],
-					"plugin_or_rnbo_selector[7]::main_reverb_rnbo_or_plugin" : [ 1 ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [ 1 ],
 					"metronome[1]::metronome_settings[1]" : [ 1 ],
 					"Loopers::dual_loopers[1]" : [ 1 ],
@@ -86,13 +85,20 @@
 					"four_plugin_selectors::plugin_selector[3]::Pre-LPF_FX_plugin4_plugin" : [ 1 ],
 					"lowpassfilter_selector::lowpassfilter_selector[2]" : [ 1 ],
 					"SousaFX_Audio_Status::Audio_Status[1]" : [ 1 ],
-					"plugin_or_rnbo_selector[3]::main_compressor_rnbo_or_plugin" : [ 1 ],
 					"sidechained_kick_params::sidechained_kick_params" : [ 1 ],
-					"patcher[1]::monitor_mix" : [ 1 ],
 					"patcher[2]::SousaFX Background Color Preference" : [ 1 ],
 					"patcher::Main Input stutter tremolo filters" : [ 1 ],
 					"envelope_parameters::main_env_params" : [ 1 ],
-					"patcher[3]::VFX_stutter" : [ 1 ]
+					"patcher[3]::VFX_stutter" : [ 1 ],
+					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [ 1 ],
+					"plugin_or_rnbo_selector[10]::monitor_EQ_rnbo_or_plugin" : [ 1 ],
+					"plugin_or_rnbo_selector[11]::plugin_selector::Post-Crossfade_FX_plugin1_rnbo_or_plugin" : [ 1 ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[1]::Post-Crossfade_FX_plugin2_plugin" : [ 1 ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[2]::Post-Crossfade_FX_plugin3_plugin" : [ 1 ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [ 1 ],
+					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [ 1 ],
+					"FOH_and_monitor_mix::mon_and_foh_mix" : [ 1 ],
+					"patcher[1]::Main Input stutter tremolo filters" : [ 1 ]
 				}
 
 			}
@@ -156,7 +162,6 @@
 					"mod params::wah sens reduc" : [  ],
 					"mod params::transient_detect::transient_definition" : [  ],
 					"umenu_presets::main_preset_initial" : [  ],
-					"plugin_or_rnbo_selector[7]::main_reverb_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
 					"Loopers::dual_loopers[1]" : [  ],
@@ -181,13 +186,20 @@
 					"four_plugin_selectors::plugin_selector[3]::Pre-LPF_FX_plugin4_plugin" : [  ],
 					"lowpassfilter_selector::lowpassfilter_selector[2]" : [  ],
 					"SousaFX_Audio_Status::Audio_Status[1]" : [  ],
-					"plugin_or_rnbo_selector[3]::main_compressor_rnbo_or_plugin" : [  ],
 					"sidechained_kick_params::sidechained_kick_params" : [  ],
-					"patcher[1]::monitor_mix" : [  ],
 					"patcher[2]::SousaFX Background Color Preference" : [  ],
 					"patcher::Main Input stutter tremolo filters" : [  ],
 					"envelope_parameters::main_env_params" : [  ],
-					"patcher[3]::VFX_stutter" : [  ]
+					"patcher[3]::VFX_stutter" : [  ],
+					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[10]::monitor_EQ_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector::Post-Crossfade_FX_plugin1_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[1]::Post-Crossfade_FX_plugin2_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[2]::Post-Crossfade_FX_plugin3_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
+					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
+					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
+					"patcher[1]::Main Input stutter tremolo filters" : [  ]
 				}
 
 			}
@@ -251,7 +263,6 @@
 					"mod params::wah sens reduc" : [  ],
 					"mod params::transient_detect::transient_definition" : [  ],
 					"umenu_presets::main_preset_initial" : [  ],
-					"plugin_or_rnbo_selector[7]::main_reverb_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
 					"Loopers::dual_loopers[1]" : [  ],
@@ -276,13 +287,20 @@
 					"four_plugin_selectors::plugin_selector[3]::Pre-LPF_FX_plugin4_plugin" : [  ],
 					"lowpassfilter_selector::lowpassfilter_selector[2]" : [  ],
 					"SousaFX_Audio_Status::Audio_Status[1]" : [  ],
-					"plugin_or_rnbo_selector[3]::main_compressor_rnbo_or_plugin" : [  ],
 					"sidechained_kick_params::sidechained_kick_params" : [  ],
-					"patcher[1]::monitor_mix" : [  ],
 					"patcher[2]::SousaFX Background Color Preference" : [  ],
 					"patcher::Main Input stutter tremolo filters" : [  ],
 					"envelope_parameters::main_env_params" : [  ],
-					"patcher[3]::VFX_stutter" : [  ]
+					"patcher[3]::VFX_stutter" : [  ],
+					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[10]::monitor_EQ_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector::Post-Crossfade_FX_plugin1_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[1]::Post-Crossfade_FX_plugin2_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[2]::Post-Crossfade_FX_plugin3_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
+					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
+					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
+					"patcher[1]::Main Input stutter tremolo filters" : [  ]
 				}
 
 			}
@@ -346,7 +364,6 @@
 					"mod params::wah sens reduc" : [  ],
 					"mod params::transient_detect::transient_definition" : [  ],
 					"umenu_presets::main_preset_initial" : [  ],
-					"plugin_or_rnbo_selector[7]::main_reverb_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
 					"Loopers::dual_loopers[1]" : [  ],
@@ -371,13 +388,20 @@
 					"four_plugin_selectors::plugin_selector[3]::Pre-LPF_FX_plugin4_plugin" : [  ],
 					"lowpassfilter_selector::lowpassfilter_selector[2]" : [  ],
 					"SousaFX_Audio_Status::Audio_Status[1]" : [  ],
-					"plugin_or_rnbo_selector[3]::main_compressor_rnbo_or_plugin" : [  ],
 					"sidechained_kick_params::sidechained_kick_params" : [  ],
-					"patcher[1]::monitor_mix" : [  ],
 					"patcher[2]::SousaFX Background Color Preference" : [  ],
 					"patcher::Main Input stutter tremolo filters" : [  ],
 					"envelope_parameters::main_env_params" : [  ],
-					"patcher[3]::VFX_stutter" : [  ]
+					"patcher[3]::VFX_stutter" : [  ],
+					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[10]::monitor_EQ_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector::Post-Crossfade_FX_plugin1_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[1]::Post-Crossfade_FX_plugin2_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[2]::Post-Crossfade_FX_plugin3_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
+					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
+					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
+					"patcher[1]::Main Input stutter tremolo filters" : [  ]
 				}
 
 			}
@@ -441,7 +465,6 @@
 					"mod params::wah sens reduc" : [  ],
 					"mod params::transient_detect::transient_definition" : [  ],
 					"umenu_presets::main_preset_initial" : [  ],
-					"plugin_or_rnbo_selector[7]::main_reverb_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
 					"Loopers::dual_loopers[1]" : [  ],
@@ -466,13 +489,20 @@
 					"four_plugin_selectors::plugin_selector[3]::Pre-LPF_FX_plugin4_plugin" : [  ],
 					"lowpassfilter_selector::lowpassfilter_selector[2]" : [  ],
 					"SousaFX_Audio_Status::Audio_Status[1]" : [  ],
-					"plugin_or_rnbo_selector[3]::main_compressor_rnbo_or_plugin" : [  ],
 					"sidechained_kick_params::sidechained_kick_params" : [  ],
-					"patcher[1]::monitor_mix" : [  ],
 					"patcher[2]::SousaFX Background Color Preference" : [  ],
 					"patcher::Main Input stutter tremolo filters" : [  ],
 					"envelope_parameters::main_env_params" : [  ],
-					"patcher[3]::VFX_stutter" : [  ]
+					"patcher[3]::VFX_stutter" : [  ],
+					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[10]::monitor_EQ_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector::Post-Crossfade_FX_plugin1_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[1]::Post-Crossfade_FX_plugin2_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[2]::Post-Crossfade_FX_plugin3_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
+					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
+					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
+					"patcher[1]::Main Input stutter tremolo filters" : [  ]
 				}
 
 			}
@@ -536,7 +566,6 @@
 					"mod params::wah sens reduc" : [  ],
 					"mod params::transient_detect::transient_definition" : [  ],
 					"umenu_presets::main_preset_initial" : [  ],
-					"plugin_or_rnbo_selector[7]::main_reverb_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
 					"Loopers::dual_loopers[1]" : [  ],
@@ -561,13 +590,20 @@
 					"four_plugin_selectors::plugin_selector[3]::Pre-LPF_FX_plugin4_plugin" : [  ],
 					"lowpassfilter_selector::lowpassfilter_selector[2]" : [  ],
 					"SousaFX_Audio_Status::Audio_Status[1]" : [  ],
-					"plugin_or_rnbo_selector[3]::main_compressor_rnbo_or_plugin" : [  ],
 					"sidechained_kick_params::sidechained_kick_params" : [  ],
-					"patcher[1]::monitor_mix" : [  ],
 					"patcher[2]::SousaFX Background Color Preference" : [  ],
 					"patcher::Main Input stutter tremolo filters" : [  ],
 					"envelope_parameters::main_env_params" : [  ],
-					"patcher[3]::VFX_stutter" : [  ]
+					"patcher[3]::VFX_stutter" : [  ],
+					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[10]::monitor_EQ_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector::Post-Crossfade_FX_plugin1_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[1]::Post-Crossfade_FX_plugin2_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[2]::Post-Crossfade_FX_plugin3_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
+					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
+					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
+					"patcher[1]::Main Input stutter tremolo filters" : [  ]
 				}
 
 			}
@@ -631,7 +667,6 @@
 					"mod params::wah sens reduc" : [  ],
 					"mod params::transient_detect::transient_definition" : [  ],
 					"umenu_presets::main_preset_initial" : [  ],
-					"plugin_or_rnbo_selector[7]::main_reverb_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
 					"Loopers::dual_loopers[1]" : [  ],
@@ -656,13 +691,20 @@
 					"four_plugin_selectors::plugin_selector[3]::Pre-LPF_FX_plugin4_plugin" : [  ],
 					"lowpassfilter_selector::lowpassfilter_selector[2]" : [  ],
 					"SousaFX_Audio_Status::Audio_Status[1]" : [  ],
-					"plugin_or_rnbo_selector[3]::main_compressor_rnbo_or_plugin" : [  ],
 					"sidechained_kick_params::sidechained_kick_params" : [  ],
-					"patcher[1]::monitor_mix" : [  ],
 					"patcher[2]::SousaFX Background Color Preference" : [  ],
 					"patcher::Main Input stutter tremolo filters" : [  ],
 					"envelope_parameters::main_env_params" : [  ],
-					"patcher[3]::VFX_stutter" : [  ]
+					"patcher[3]::VFX_stutter" : [  ],
+					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[10]::monitor_EQ_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector::Post-Crossfade_FX_plugin1_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[1]::Post-Crossfade_FX_plugin2_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[2]::Post-Crossfade_FX_plugin3_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
+					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
+					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
+					"patcher[1]::Main Input stutter tremolo filters" : [  ]
 				}
 
 			}
@@ -726,7 +768,6 @@
 					"mod params::wah sens reduc" : [  ],
 					"mod params::transient_detect::transient_definition" : [  ],
 					"umenu_presets::main_preset_initial" : [  ],
-					"plugin_or_rnbo_selector[7]::main_reverb_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
 					"Loopers::dual_loopers[1]" : [  ],
@@ -751,13 +792,20 @@
 					"four_plugin_selectors::plugin_selector[3]::Pre-LPF_FX_plugin4_plugin" : [  ],
 					"lowpassfilter_selector::lowpassfilter_selector[2]" : [  ],
 					"SousaFX_Audio_Status::Audio_Status[1]" : [  ],
-					"plugin_or_rnbo_selector[3]::main_compressor_rnbo_or_plugin" : [  ],
 					"sidechained_kick_params::sidechained_kick_params" : [  ],
-					"patcher[1]::monitor_mix" : [  ],
 					"patcher[2]::SousaFX Background Color Preference" : [  ],
 					"patcher::Main Input stutter tremolo filters" : [  ],
 					"envelope_parameters::main_env_params" : [  ],
-					"patcher[3]::VFX_stutter" : [  ]
+					"patcher[3]::VFX_stutter" : [  ],
+					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[10]::monitor_EQ_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector::Post-Crossfade_FX_plugin1_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[1]::Post-Crossfade_FX_plugin2_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[2]::Post-Crossfade_FX_plugin3_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
+					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
+					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
+					"patcher[1]::Main Input stutter tremolo filters" : [  ]
 				}
 
 			}
@@ -821,7 +869,6 @@
 					"mod params::wah sens reduc" : [  ],
 					"mod params::transient_detect::transient_definition" : [  ],
 					"umenu_presets::main_preset_initial" : [  ],
-					"plugin_or_rnbo_selector[7]::main_reverb_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
 					"Loopers::dual_loopers[1]" : [  ],
@@ -846,13 +893,20 @@
 					"four_plugin_selectors::plugin_selector[3]::Pre-LPF_FX_plugin4_plugin" : [  ],
 					"lowpassfilter_selector::lowpassfilter_selector[2]" : [  ],
 					"SousaFX_Audio_Status::Audio_Status[1]" : [  ],
-					"plugin_or_rnbo_selector[3]::main_compressor_rnbo_or_plugin" : [  ],
 					"sidechained_kick_params::sidechained_kick_params" : [  ],
-					"patcher[1]::monitor_mix" : [  ],
 					"patcher[2]::SousaFX Background Color Preference" : [  ],
 					"patcher::Main Input stutter tremolo filters" : [  ],
 					"envelope_parameters::main_env_params" : [  ],
-					"patcher[3]::VFX_stutter" : [  ]
+					"patcher[3]::VFX_stutter" : [  ],
+					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[10]::monitor_EQ_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector::Post-Crossfade_FX_plugin1_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[1]::Post-Crossfade_FX_plugin2_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[2]::Post-Crossfade_FX_plugin3_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
+					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
+					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
+					"patcher[1]::Main Input stutter tremolo filters" : [  ]
 				}
 
 			}
@@ -916,7 +970,6 @@
 					"mod params::wah sens reduc" : [  ],
 					"mod params::transient_detect::transient_definition" : [  ],
 					"umenu_presets::main_preset_initial" : [  ],
-					"plugin_or_rnbo_selector[7]::main_reverb_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
 					"Loopers::dual_loopers[1]" : [  ],
@@ -941,13 +994,20 @@
 					"four_plugin_selectors::plugin_selector[3]::Pre-LPF_FX_plugin4_plugin" : [  ],
 					"lowpassfilter_selector::lowpassfilter_selector[2]" : [  ],
 					"SousaFX_Audio_Status::Audio_Status[1]" : [  ],
-					"plugin_or_rnbo_selector[3]::main_compressor_rnbo_or_plugin" : [  ],
 					"sidechained_kick_params::sidechained_kick_params" : [  ],
-					"patcher[1]::monitor_mix" : [  ],
 					"patcher[2]::SousaFX Background Color Preference" : [  ],
 					"patcher::Main Input stutter tremolo filters" : [  ],
 					"envelope_parameters::main_env_params" : [  ],
-					"patcher[3]::VFX_stutter" : [  ]
+					"patcher[3]::VFX_stutter" : [  ],
+					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[10]::monitor_EQ_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector::Post-Crossfade_FX_plugin1_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[1]::Post-Crossfade_FX_plugin2_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[2]::Post-Crossfade_FX_plugin3_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
+					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
+					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
+					"patcher[1]::Main Input stutter tremolo filters" : [  ]
 				}
 
 			}
@@ -1011,7 +1071,6 @@
 					"mod params::wah sens reduc" : [  ],
 					"mod params::transient_detect::transient_definition" : [  ],
 					"umenu_presets::main_preset_initial" : [  ],
-					"plugin_or_rnbo_selector[7]::main_reverb_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
 					"Loopers::dual_loopers[1]" : [  ],
@@ -1036,13 +1095,20 @@
 					"four_plugin_selectors::plugin_selector[3]::Pre-LPF_FX_plugin4_plugin" : [  ],
 					"lowpassfilter_selector::lowpassfilter_selector[2]" : [  ],
 					"SousaFX_Audio_Status::Audio_Status[1]" : [  ],
-					"plugin_or_rnbo_selector[3]::main_compressor_rnbo_or_plugin" : [  ],
 					"sidechained_kick_params::sidechained_kick_params" : [  ],
-					"patcher[1]::monitor_mix" : [  ],
 					"patcher[2]::SousaFX Background Color Preference" : [  ],
 					"patcher::Main Input stutter tremolo filters" : [  ],
 					"envelope_parameters::main_env_params" : [  ],
-					"patcher[3]::VFX_stutter" : [  ]
+					"patcher[3]::VFX_stutter" : [  ],
+					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[10]::monitor_EQ_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector::Post-Crossfade_FX_plugin1_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[1]::Post-Crossfade_FX_plugin2_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[2]::Post-Crossfade_FX_plugin3_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
+					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
+					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
+					"patcher[1]::Main Input stutter tremolo filters" : [  ]
 				}
 
 			}
@@ -1106,7 +1172,6 @@
 					"mod params::wah sens reduc" : [  ],
 					"mod params::transient_detect::transient_definition" : [  ],
 					"umenu_presets::main_preset_initial" : [  ],
-					"plugin_or_rnbo_selector[7]::main_reverb_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
 					"Loopers::dual_loopers[1]" : [  ],
@@ -1131,13 +1196,20 @@
 					"four_plugin_selectors::plugin_selector[3]::Pre-LPF_FX_plugin4_plugin" : [  ],
 					"lowpassfilter_selector::lowpassfilter_selector[2]" : [  ],
 					"SousaFX_Audio_Status::Audio_Status[1]" : [  ],
-					"plugin_or_rnbo_selector[3]::main_compressor_rnbo_or_plugin" : [  ],
 					"sidechained_kick_params::sidechained_kick_params" : [  ],
-					"patcher[1]::monitor_mix" : [  ],
 					"patcher[2]::SousaFX Background Color Preference" : [  ],
 					"patcher::Main Input stutter tremolo filters" : [  ],
 					"envelope_parameters::main_env_params" : [  ],
-					"patcher[3]::VFX_stutter" : [  ]
+					"patcher[3]::VFX_stutter" : [  ],
+					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[10]::monitor_EQ_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector::Post-Crossfade_FX_plugin1_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[1]::Post-Crossfade_FX_plugin2_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[2]::Post-Crossfade_FX_plugin3_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
+					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
+					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
+					"patcher[1]::Main Input stutter tremolo filters" : [  ]
 				}
 
 			}
@@ -1201,7 +1273,6 @@
 					"mod params::wah sens reduc" : [  ],
 					"mod params::transient_detect::transient_definition" : [  ],
 					"umenu_presets::main_preset_initial" : [  ],
-					"plugin_or_rnbo_selector[7]::main_reverb_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
 					"Loopers::dual_loopers[1]" : [  ],
@@ -1226,13 +1297,20 @@
 					"four_plugin_selectors::plugin_selector[3]::Pre-LPF_FX_plugin4_plugin" : [  ],
 					"lowpassfilter_selector::lowpassfilter_selector[2]" : [  ],
 					"SousaFX_Audio_Status::Audio_Status[1]" : [  ],
-					"plugin_or_rnbo_selector[3]::main_compressor_rnbo_or_plugin" : [  ],
 					"sidechained_kick_params::sidechained_kick_params" : [  ],
-					"patcher[1]::monitor_mix" : [  ],
 					"patcher[2]::SousaFX Background Color Preference" : [  ],
 					"patcher::Main Input stutter tremolo filters" : [  ],
 					"envelope_parameters::main_env_params" : [  ],
-					"patcher[3]::VFX_stutter" : [  ]
+					"patcher[3]::VFX_stutter" : [  ],
+					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[10]::monitor_EQ_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector::Post-Crossfade_FX_plugin1_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[1]::Post-Crossfade_FX_plugin2_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[2]::Post-Crossfade_FX_plugin3_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
+					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
+					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
+					"patcher[1]::Main Input stutter tremolo filters" : [  ]
 				}
 
 			}
@@ -1296,7 +1374,6 @@
 					"mod params::wah sens reduc" : [  ],
 					"mod params::transient_detect::transient_definition" : [  ],
 					"umenu_presets::main_preset_initial" : [  ],
-					"plugin_or_rnbo_selector[7]::main_reverb_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
 					"Loopers::dual_loopers[1]" : [  ],
@@ -1321,13 +1398,20 @@
 					"four_plugin_selectors::plugin_selector[3]::Pre-LPF_FX_plugin4_plugin" : [  ],
 					"lowpassfilter_selector::lowpassfilter_selector[2]" : [  ],
 					"SousaFX_Audio_Status::Audio_Status[1]" : [  ],
-					"plugin_or_rnbo_selector[3]::main_compressor_rnbo_or_plugin" : [  ],
 					"sidechained_kick_params::sidechained_kick_params" : [  ],
-					"patcher[1]::monitor_mix" : [  ],
 					"patcher[2]::SousaFX Background Color Preference" : [  ],
 					"patcher::Main Input stutter tremolo filters" : [  ],
 					"envelope_parameters::main_env_params" : [  ],
-					"patcher[3]::VFX_stutter" : [  ]
+					"patcher[3]::VFX_stutter" : [  ],
+					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[10]::monitor_EQ_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector::Post-Crossfade_FX_plugin1_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[1]::Post-Crossfade_FX_plugin2_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[2]::Post-Crossfade_FX_plugin3_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
+					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
+					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
+					"patcher[1]::Main Input stutter tremolo filters" : [  ]
 				}
 
 			}
@@ -1391,7 +1475,6 @@
 					"mod params::wah sens reduc" : [  ],
 					"mod params::transient_detect::transient_definition" : [  ],
 					"umenu_presets::main_preset_initial" : [  ],
-					"plugin_or_rnbo_selector[7]::main_reverb_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
 					"Loopers::dual_loopers[1]" : [  ],
@@ -1416,13 +1499,20 @@
 					"four_plugin_selectors::plugin_selector[3]::Pre-LPF_FX_plugin4_plugin" : [  ],
 					"lowpassfilter_selector::lowpassfilter_selector[2]" : [  ],
 					"SousaFX_Audio_Status::Audio_Status[1]" : [  ],
-					"plugin_or_rnbo_selector[3]::main_compressor_rnbo_or_plugin" : [  ],
 					"sidechained_kick_params::sidechained_kick_params" : [  ],
-					"patcher[1]::monitor_mix" : [  ],
 					"patcher[2]::SousaFX Background Color Preference" : [  ],
 					"patcher::Main Input stutter tremolo filters" : [  ],
 					"envelope_parameters::main_env_params" : [  ],
-					"patcher[3]::VFX_stutter" : [  ]
+					"patcher[3]::VFX_stutter" : [  ],
+					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[10]::monitor_EQ_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector::Post-Crossfade_FX_plugin1_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[1]::Post-Crossfade_FX_plugin2_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[2]::Post-Crossfade_FX_plugin3_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
+					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
+					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
+					"patcher[1]::Main Input stutter tremolo filters" : [  ]
 				}
 
 			}
@@ -1486,7 +1576,6 @@
 					"mod params::wah sens reduc" : [  ],
 					"mod params::transient_detect::transient_definition" : [  ],
 					"umenu_presets::main_preset_initial" : [  ],
-					"plugin_or_rnbo_selector[7]::main_reverb_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
 					"Loopers::dual_loopers[1]" : [  ],
@@ -1511,13 +1600,20 @@
 					"four_plugin_selectors::plugin_selector[3]::Pre-LPF_FX_plugin4_plugin" : [  ],
 					"lowpassfilter_selector::lowpassfilter_selector[2]" : [  ],
 					"SousaFX_Audio_Status::Audio_Status[1]" : [  ],
-					"plugin_or_rnbo_selector[3]::main_compressor_rnbo_or_plugin" : [  ],
 					"sidechained_kick_params::sidechained_kick_params" : [  ],
-					"patcher[1]::monitor_mix" : [  ],
 					"patcher[2]::SousaFX Background Color Preference" : [  ],
 					"patcher::Main Input stutter tremolo filters" : [  ],
 					"envelope_parameters::main_env_params" : [  ],
-					"patcher[3]::VFX_stutter" : [  ]
+					"patcher[3]::VFX_stutter" : [  ],
+					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[10]::monitor_EQ_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector::Post-Crossfade_FX_plugin1_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[1]::Post-Crossfade_FX_plugin2_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[2]::Post-Crossfade_FX_plugin3_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
+					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
+					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
+					"patcher[1]::Main Input stutter tremolo filters" : [  ]
 				}
 
 			}
@@ -1581,7 +1677,6 @@
 					"mod params::wah sens reduc" : [  ],
 					"mod params::transient_detect::transient_definition" : [  ],
 					"umenu_presets::main_preset_initial" : [  ],
-					"plugin_or_rnbo_selector[7]::main_reverb_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
 					"Loopers::dual_loopers[1]" : [  ],
@@ -1606,13 +1701,20 @@
 					"four_plugin_selectors::plugin_selector[3]::Pre-LPF_FX_plugin4_plugin" : [  ],
 					"lowpassfilter_selector::lowpassfilter_selector[2]" : [  ],
 					"SousaFX_Audio_Status::Audio_Status[1]" : [  ],
-					"plugin_or_rnbo_selector[3]::main_compressor_rnbo_or_plugin" : [  ],
 					"sidechained_kick_params::sidechained_kick_params" : [  ],
-					"patcher[1]::monitor_mix" : [  ],
 					"patcher[2]::SousaFX Background Color Preference" : [  ],
 					"patcher::Main Input stutter tremolo filters" : [  ],
 					"envelope_parameters::main_env_params" : [  ],
-					"patcher[3]::VFX_stutter" : [  ]
+					"patcher[3]::VFX_stutter" : [  ],
+					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[10]::monitor_EQ_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector::Post-Crossfade_FX_plugin1_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[1]::Post-Crossfade_FX_plugin2_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[2]::Post-Crossfade_FX_plugin3_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
+					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
+					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
+					"patcher[1]::Main Input stutter tremolo filters" : [  ]
 				}
 
 			}
@@ -1676,7 +1778,6 @@
 					"mod params::wah sens reduc" : [  ],
 					"mod params::transient_detect::transient_definition" : [  ],
 					"umenu_presets::main_preset_initial" : [  ],
-					"plugin_or_rnbo_selector[7]::main_reverb_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
 					"Loopers::dual_loopers[1]" : [  ],
@@ -1701,13 +1802,20 @@
 					"four_plugin_selectors::plugin_selector[3]::Pre-LPF_FX_plugin4_plugin" : [  ],
 					"lowpassfilter_selector::lowpassfilter_selector[2]" : [  ],
 					"SousaFX_Audio_Status::Audio_Status[1]" : [  ],
-					"plugin_or_rnbo_selector[3]::main_compressor_rnbo_or_plugin" : [  ],
 					"sidechained_kick_params::sidechained_kick_params" : [  ],
-					"patcher[1]::monitor_mix" : [  ],
 					"patcher[2]::SousaFX Background Color Preference" : [  ],
 					"patcher::Main Input stutter tremolo filters" : [  ],
 					"envelope_parameters::main_env_params" : [  ],
-					"patcher[3]::VFX_stutter" : [  ]
+					"patcher[3]::VFX_stutter" : [  ],
+					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[10]::monitor_EQ_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector::Post-Crossfade_FX_plugin1_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[1]::Post-Crossfade_FX_plugin2_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[2]::Post-Crossfade_FX_plugin3_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
+					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
+					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
+					"patcher[1]::Main Input stutter tremolo filters" : [  ]
 				}
 
 			}
@@ -1771,7 +1879,6 @@
 					"mod params::wah sens reduc" : [  ],
 					"mod params::transient_detect::transient_definition" : [  ],
 					"umenu_presets::main_preset_initial" : [  ],
-					"plugin_or_rnbo_selector[7]::main_reverb_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
 					"Loopers::dual_loopers[1]" : [  ],
@@ -1796,13 +1903,20 @@
 					"four_plugin_selectors::plugin_selector[3]::Pre-LPF_FX_plugin4_plugin" : [  ],
 					"lowpassfilter_selector::lowpassfilter_selector[2]" : [  ],
 					"SousaFX_Audio_Status::Audio_Status[1]" : [  ],
-					"plugin_or_rnbo_selector[3]::main_compressor_rnbo_or_plugin" : [  ],
 					"sidechained_kick_params::sidechained_kick_params" : [  ],
-					"patcher[1]::monitor_mix" : [  ],
 					"patcher[2]::SousaFX Background Color Preference" : [  ],
 					"patcher::Main Input stutter tremolo filters" : [  ],
 					"envelope_parameters::main_env_params" : [  ],
-					"patcher[3]::VFX_stutter" : [  ]
+					"patcher[3]::VFX_stutter" : [  ],
+					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[10]::monitor_EQ_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector::Post-Crossfade_FX_plugin1_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[1]::Post-Crossfade_FX_plugin2_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[2]::Post-Crossfade_FX_plugin3_plugin" : [  ],
+					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
+					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
+					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
+					"patcher[1]::Main Input stutter tremolo filters" : [  ]
 				}
 
 			}

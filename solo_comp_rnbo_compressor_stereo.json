@@ -1,6 +1,6 @@
 {
 	"pattrstorage" : 	{
-		"name" : "dry_comp_rnbo_compressor_stereo",
+		"name" : "solo_comp_rnbo_compressor_stereo",
 		"slots" : 		{
 			"1" : 			{
 				"id" : 1,
@@ -39,15 +39,15 @@
 								}
 ,
 								"himidfq" : 								{
-									"value" : 2000.0
+									"value" : 2500.0
 								}
 ,
 								"sustain" : 								{
-									"value" : 50.0
+									"value" : 25.0
 								}
 ,
 								"attack" : 								{
-									"value" : 100.0
+									"value" : 25.0
 								}
 ,
 								"__presetid" : "compressor_stereo",
@@ -56,15 +56,15 @@
 								}
 ,
 								"comp" : 								{
-									"value" : 60.0
+									"value" : 25.0
 								}
 ,
 								"himid" : 								{
-									"value" : 16.0
+									"value" : 12.0
 								}
 ,
 								"volume" : 								{
-									"value" : -13.0
+									"value" : 0.0
 								}
 ,
 								"lookahead" : 								{
@@ -75,7 +75,7 @@
 
 						}
  ],
-					"preset" : [ 2 ],
+					"preset" : [ 0 ],
 					"active" : [ "active", 1 ]
 				}
 

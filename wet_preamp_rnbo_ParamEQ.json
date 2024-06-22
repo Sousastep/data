@@ -1,6 +1,6 @@
 {
 	"pattrstorage" : 	{
-		"name" : "dry_preamp_rnbo_ParamEQ[1]",
+		"name" : "wet_preamp_rnbo_ParamEQ[1]",
 		"slots" : 		{
 			"1" : 			{
 				"id" : 1,
@@ -43,11 +43,11 @@
 								}
 ,
 								"lomid" : 								{
-									"value" : -3.0
+									"value" : -4.0
 								}
 ,
 								"himidfq" : 								{
-									"value" : 2200.0
+									"value" : 2100.0
 								}
 ,
 								"level" : 								{
@@ -55,7 +55,7 @@
 								}
 ,
 								"himid" : 								{
-									"value" : 6.0
+									"value" : 15.0
 								}
 ,
 								"__presetid" : "ParamEQ"

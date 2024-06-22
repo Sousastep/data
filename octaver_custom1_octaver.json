@@ -5,13 +5,13 @@
 			"1" : 			{
 				"id" : 1,
 				"data" : 				{
-					"submix" : [ 79.527559055118076 ],
+					"submix" : [ 50.0 ],
 					"pitchslideup" : [ 4800 ],
 					"pitchslidedown" : [ 9600 ],
 					"pitchquantize" : [ 1 ],
-					"lowrange" : [ 36.0 ],
+					"lowrange" : [ 20.0 ],
 					"highrange" : [ 200.0 ],
-					"enablesweepdown" : [ 1 ]
+					"enablesweepdown" : [ 0 ]
 				}
 
 			}

@@ -1370,11 +1370,6 @@
 										"gain" : 1.0
 									}
 , 									{
-										"in" : 28,
-										"out" : 44,
-										"gain" : 1.0
-									}
-, 									{
 										"in" : 40,
 										"out" : 45,
 										"gain" : 1.0
@@ -1524,6 +1519,16 @@
 										"out" : 63,
 										"gain" : 1.0
 									}
+, 									{
+										"in" : 28,
+										"out" : 23,
+										"gain" : 1.0
+									}
+, 									{
+										"in" : 27,
+										"out" : 18,
+										"gain" : 1.0
+									}
  ]
 							}
 
@@ -1548,7 +1553,7 @@
 					"Drum Clip Crossfade (bi)::available transition options[2]::when to relinquish var2" : [ 0 ],
 					"Drum Clip Crossfade (bi)::available transition options[2]::when to relinquish var1[1]" : [ 1 ],
 					"Drum Clip Crossfade (bi)::available transition options[2]::when to relinquish var2[1]" : [ 1 ],
-					"Drum Clip Crossfade (bi)::available transition options[2]::when to control" : [ 3 ],
+					"Drum Clip Crossfade (bi)::available transition options[2]::when to control" : [ 1 ],
 					"Drum Clip Crossfade (bi)::available transition options[3]::when to relinquish var1" : [ 2 ],
 					"Drum Clip Crossfade (bi)::available transition options[3]::when to relinquish var2" : [ 1 ],
 					"Drum Clip Crossfade (bi)::available transition options[3]::when to relinquish var1[1]" : [ 0 ],
@@ -2396,7 +2401,7 @@
 					"Envelope Crossfade Position (bi)[1]::available transition options[3]::when to relinquish var1[1]" : [ 0 ],
 					"Envelope Crossfade Position (bi)[1]::available transition options[3]::when to relinquish var2[1]" : [ 0 ],
 					"Envelope Crossfade Position (bi)[1]::available transition options[3]::when to control" : [ 2 ],
-					"Envelope Crossfade Position (bi)[1]::available transition options::when to relinquish var1" : [ 2 ],
+					"Envelope Crossfade Position (bi)[1]::available transition options::when to relinquish var1" : [ 1 ],
 					"Envelope Crossfade Position (bi)[1]::available transition options::when to relinquish var2" : [ 0 ],
 					"Envelope Crossfade Position (bi)[1]::available transition options::when to relinquish var1[1]" : [ 1 ],
 					"Envelope Crossfade Position (bi)[1]::available transition options::when to relinquish var2[1]" : [ 1 ],
@@ -2412,14 +2417,14 @@
 					"LFO Duty Cycle (bi)[1]::available transition options[1]::when to control" : [ 1 ],
 					"LFO Duty Cycle (bi)[1]::available transition options[2]::when to relinquish var1" : [ 0 ],
 					"LFO Duty Cycle (bi)[1]::available transition options[2]::when to relinquish var2" : [ 0 ],
-					"LFO Duty Cycle (bi)[1]::available transition options[2]::when to relinquish var1[1]" : [ 0 ],
+					"LFO Duty Cycle (bi)[1]::available transition options[2]::when to relinquish var1[1]" : [ 1 ],
 					"LFO Duty Cycle (bi)[1]::available transition options[2]::when to relinquish var2[1]" : [ 1 ],
-					"LFO Duty Cycle (bi)[1]::available transition options[2]::when to control" : [ 1 ],
+					"LFO Duty Cycle (bi)[1]::available transition options[2]::when to control" : [ 3 ],
 					"LFO Duty Cycle (bi)[1]::available transition options[3]::when to relinquish var1" : [ 0 ],
 					"LFO Duty Cycle (bi)[1]::available transition options[3]::when to relinquish var2" : [ 0 ],
-					"LFO Duty Cycle (bi)[1]::available transition options[3]::when to relinquish var1[1]" : [ 0 ],
-					"LFO Duty Cycle (bi)[1]::available transition options[3]::when to relinquish var2[1]" : [ 0 ],
-					"LFO Duty Cycle (bi)[1]::available transition options[3]::when to control" : [ 1 ],
+					"LFO Duty Cycle (bi)[1]::available transition options[3]::when to relinquish var1[1]" : [ 1 ],
+					"LFO Duty Cycle (bi)[1]::available transition options[3]::when to relinquish var2[1]" : [ 1 ],
+					"LFO Duty Cycle (bi)[1]::available transition options[3]::when to control" : [ 3 ],
 					"LFO Duty Cycle (bi)[1]::available transition options::when to relinquish var1" : [ 0 ],
 					"LFO Duty Cycle (bi)[1]::available transition options::when to relinquish var2" : [ 0 ],
 					"LFO Duty Cycle (bi)[1]::available transition options::when to relinquish var1[1]" : [ 0 ],

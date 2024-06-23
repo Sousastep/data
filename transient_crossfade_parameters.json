@@ -11,7 +11,7 @@
 					"interpolate_crossfades" : [ 71.0 ],
 					"env_attack" : [ 8.0 ],
 					"lock_low_mod" : [ 0 ],
-					"lock_very_low_mod" : [ 1 ],
+					"lock_very_low_mod" : [ 0 ],
 					"low_crossfade_offset" : [ 40.157480314960559 ],
 					"crossfade_env_sens" : [ 1.758786766504442 ],
 					"mix_env_logic::env_bottom" : [ 0.0 ],

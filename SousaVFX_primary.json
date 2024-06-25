@@ -608,7 +608,7 @@
 				"id" : 44,
 				"data" : 				{
 					"primary-preset-description" : [ "" ],
-					"blur_enable" : [ 1.0 ],
+					"blur_enable" : [ 0.0 ],
 					"torus_knot_preset_number" : [ 0 ],
 					"dude_shader_preset_number" : [ 0 ],
 					"scrolling_text_preset_number" : [ 0 ],

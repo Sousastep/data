@@ -11,7 +11,8 @@
 					"risset-accel-or-decel" : [ 0 ],
 					"phasor direct or link" : [ 0 ],
 					"auto-set tempo source" : [ 0 ],
-					"tempo source" : [ 1 ]
+					"tempo source" : [ 1 ],
+					"auto-metro_enable" : [ 0.2 ]
 				}
 
 			}

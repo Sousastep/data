@@ -7,7 +7,8 @@
 				"data" : 				{
 					"sousaFX_tremolo::duty" : [ 0.0 ],
 					"sousaFX_tremolo::phase" : [ 0.0 ],
-					"sousaFX_tremolo::smooth[1]" : [ 29.133858267716494 ],
+					"sousaFX_tremolo::smooth[1]" : [ 11.023622047244071 ],
+					"sousaFX_tremolo::boost[1]" : [ 8.976377952755895 ],
 					"stutterstep::stutter volume[1]" : [ -4.0 ],
 					"stutterstep::inthru" : [ 1.0 ],
 					"stutterstep::window" : [ 20.0 ],
@@ -15,6 +16,7 @@
 					"stutterstep::bypass_hipass" : [ 0 ],
 					"stutterstep::accel-vol-dip" : [ 88.0 ],
 					"stutterstep::subdiv-behavior" : [ 0 ],
+					"stutterstep::subdiv-mult" : [ 0.0 ],
 					"DJfilter::smooth_freq_mod" : [ 135.605611254585995 ]
 				}
 

@@ -13,6 +13,7 @@
 					"looper triggers tempo change" : [ 1 ],
 					"number b4 tempo change" : [ 2 ],
 					"when to disable soloFX" : [ 1 ],
+					"droplet" : [ 0 ],
 					"looper1::looper_volume" : [ 0.0 ],
 					"looper1::fade-out" : [ 1.0 ],
 					"looper1::DJfilter::smooth_freq_mod" : [ 78.593807896277241 ],
@@ -24,14 +25,17 @@
 					"stutterstep::accel-vol-dip" : [ 99.0 ],
 					"stutterstep::subdiv-behavior" : [ 0 ],
 					"stutterstep::subdiv-mult" : [ 0.0 ],
+					"stutterstep::staircase[1]" : [ 100.0 ],
+					"stutterstep::staircase-mode" : [ 1 ],
 					"looper2::looper_volume" : [ 0.0 ],
 					"looper2::fade-out" : [ 2.0 ],
 					"looper2::DJfilter::smooth_freq_mod" : [ 78.593807896277241 ],
 					"DJfilter::smooth_freq_mod" : [ 21.344361429481385 ],
-					"sousaFX_tremolo::duty" : [ 0.000000000000044 ],
+					"sousaFX_tremolo::duty" : [ 0.0 ],
 					"sousaFX_tremolo::phase" : [ 0.0 ],
 					"sousaFX_tremolo::smooth[1]" : [ 23.622047244094475 ],
-					"sousaFX_tremolo::boost[1]" : [ 6.047244094488182 ]
+					"sousaFX_tremolo::boost[1]" : [ 6.047244094488182 ],
+					"sousaFX_tremolo::subdiv-mult" : [ 0.0 ]
 				}
 
 			}

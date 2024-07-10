@@ -1375,11 +1375,6 @@
 										"gain" : 1.0
 									}
 , 									{
-										"in" : 39,
-										"out" : 46,
-										"gain" : 1.0
-									}
-, 									{
 										"in" : 45,
 										"out" : 47,
 										"gain" : 1.0
@@ -1537,6 +1532,11 @@
 , 									{
 										"in" : 46,
 										"out" : 64,
+										"gain" : 1.0
+									}
+, 									{
+										"in" : 36,
+										"out" : 46,
 										"gain" : 1.0
 									}
  ]
@@ -2008,7 +2008,7 @@
 					"Looper Stutter Enable (trig)::available transition options::when to relinquish var2[1]" : [ 1 ],
 					"Looper Stutter Enable (trig)::available transition options::when to control" : [ 3 ],
 					"Looper Tremolo Duty (bi)::invert_control" : [ 0 ],
-					"Looper Tremolo Duty (bi)::curve[1]" : [ 0.0 ],
+					"Looper Tremolo Duty (bi)::curve[1]" : [ -14.173228346456712 ],
 					"Looper Tremolo Duty (bi)::value to set when control relinquished" : [ 0.5 ],
 					"Looper Tremolo Duty (bi)::curve polarity" : [ 0.0 ],
 					"Looper Tremolo Duty (bi)::available transition options[1]::when to relinquish var1" : [ 0 ],
@@ -2320,7 +2320,7 @@
 					"Looper Stutter Accel (bi)::available transition options::when to relinquish var1[1]" : [ 0 ],
 					"Looper Stutter Accel (bi)::available transition options::when to relinquish var2[1]" : [ 1 ],
 					"Looper Stutter Accel (bi)::available transition options::when to control" : [ 3 ],
-					"Main Input Stutter Accel (bi)::invert_control" : [ 0 ],
+					"Main Input Stutter Accel (bi)::invert_control" : [ 1 ],
 					"Main Input Stutter Accel (bi)::curve[1]" : [ 0.0 ],
 					"Main Input Stutter Accel (bi)::value to set when control relinquished" : [ 0.5 ],
 					"Main Input Stutter Accel (bi)::curve polarity" : [ 0.0 ],
@@ -2369,7 +2369,7 @@
 					"LFO Sync-Free Crossfade (uni)[1]::available transition options::when to relinquish var2[1]" : [ 0 ],
 					"LFO Sync-Free Crossfade (uni)[1]::available transition options::when to control" : [ 1 ],
 					"LFO Ceiling Envelope Curve (bi)[1]::invert_control" : [ 0 ],
-					"LFO Ceiling Envelope Curve (bi)[1]::curve[1]" : [ 64.566929133858238 ],
+					"LFO Ceiling Envelope Curve (bi)[1]::curve[1]" : [ 45.0 ],
 					"LFO Ceiling Envelope Curve (bi)[1]::value to set when control relinquished" : [ 0.0 ],
 					"LFO Ceiling Envelope Curve (bi)[1]::curve polarity" : [ 0.0 ],
 					"LFO Ceiling Envelope Curve (bi)[1]::available transition options[1]::when to relinquish var1" : [ 0 ],
@@ -2417,7 +2417,7 @@
 					"Envelope Crossfade Position (bi)[1]::available transition options::when to relinquish var2[1]" : [ 1 ],
 					"Envelope Crossfade Position (bi)[1]::available transition options::when to control" : [ 3 ],
 					"LFO Duty Cycle (bi)[1]::invert_control" : [ 0 ],
-					"LFO Duty Cycle (bi)[1]::curve[1]" : [ 64.0 ],
+					"LFO Duty Cycle (bi)[1]::curve[1]" : [ 45.0 ],
 					"LFO Duty Cycle (bi)[1]::value to set when control relinquished" : [ 0.0 ],
 					"LFO Duty Cycle (bi)[1]::curve polarity" : [ 0.0 ],
 					"LFO Duty Cycle (bi)[1]::available transition options[1]::when to relinquish var1" : [ 0 ],
@@ -2429,19 +2429,19 @@
 					"LFO Duty Cycle (bi)[1]::available transition options[2]::when to relinquish var2" : [ 0 ],
 					"LFO Duty Cycle (bi)[1]::available transition options[2]::when to relinquish var1[1]" : [ 1 ],
 					"LFO Duty Cycle (bi)[1]::available transition options[2]::when to relinquish var2[1]" : [ 1 ],
-					"LFO Duty Cycle (bi)[1]::available transition options[2]::when to control" : [ 3 ],
+					"LFO Duty Cycle (bi)[1]::available transition options[2]::when to control" : [ 1 ],
 					"LFO Duty Cycle (bi)[1]::available transition options[3]::when to relinquish var1" : [ 0 ],
 					"LFO Duty Cycle (bi)[1]::available transition options[3]::when to relinquish var2" : [ 0 ],
 					"LFO Duty Cycle (bi)[1]::available transition options[3]::when to relinquish var1[1]" : [ 1 ],
 					"LFO Duty Cycle (bi)[1]::available transition options[3]::when to relinquish var2[1]" : [ 1 ],
-					"LFO Duty Cycle (bi)[1]::available transition options[3]::when to control" : [ 3 ],
+					"LFO Duty Cycle (bi)[1]::available transition options[3]::when to control" : [ 1 ],
 					"LFO Duty Cycle (bi)[1]::available transition options::when to relinquish var1" : [ 0 ],
 					"LFO Duty Cycle (bi)[1]::available transition options::when to relinquish var2" : [ 0 ],
 					"LFO Duty Cycle (bi)[1]::available transition options::when to relinquish var1[1]" : [ 0 ],
 					"LFO Duty Cycle (bi)[1]::available transition options::when to relinquish var2[1]" : [ 0 ],
 					"LFO Duty Cycle (bi)[1]::available transition options::when to control" : [ 1 ],
 					"LFO Swing Amount (uni)[1]::invert_control" : [ 0 ],
-					"LFO Swing Amount (uni)[1]::curve[1]" : [ 64.0 ],
+					"LFO Swing Amount (uni)[1]::curve[1]" : [ 45.0 ],
 					"LFO Swing Amount (uni)[1]::value to set when control relinquished" : [ 0.0 ],
 					"LFO Swing Amount (uni)[1]::curve polarity" : [ 0.0 ],
 					"LFO Swing Amount (uni)[1]::available transition options[1]::when to relinquish var1" : [ 0 ],

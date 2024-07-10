@@ -7,15 +7,13 @@
 				"data" : 				{
 					"preset descriptions" : [ "Sousastep's default preset" ],
 					"bleed[1]" : [ -70.0 ],
-					"post-crossfade FX routing" : [ 1 ],
-					"post-crossfade FX routing while soloing" : [ 0 ],
 					"pitchMixSustain" : [ 0.0 ],
 					"pitchMixAttack" : [ 0.0 ],
-					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [ 2, 0, 1.0 ],
+					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [ 3, 0, 1.0 ],
 					"sustain fx chooser::Pre-LPF_FX_randomize" : [ 4.0 ],
-					"post-crossfade fx chooser::Post-Crossfade_FX_plugin_choice" : [ 3, 0, 1.0 ],
+					"post-crossfade fx chooser::Post-Crossfade_FX_plugin_choice" : [ 0, 0, 1.0 ],
 					"post-crossfade fx chooser::Post-Crossfade_FX_randomize" : [ 1.0 ],
-					"attack fx chooser::Dry-ish_FX_plugin_choice" : [ 2, 0, 1.0 ],
+					"attack fx chooser::Dry-ish_FX_plugin_choice" : [ 3, 0, 1.0 ],
 					"attack fx chooser::Dry-ish_FX_randomize" : [ 4.0 ],
 					"mod params::aux_power" : [ 0.0 ],
 					"mod params::aux_phase_offset" : [ 51.968504000000003 ],
@@ -34,8 +32,8 @@
 					"mod params::verylow_SnTrSq" : [ 0 ],
 					"mod params::verylow_duty_cycle" : [ 0.0 ],
 					"mod params::verylow_floor" : [ 0.0 ],
-					"mod params::rez_min" : [ 17 ],
-					"mod params::rez_max" : [ 75 ],
+					"mod params::rez_min" : [ 30 ],
+					"mod params::rez_max" : [ 84 ],
 					"mod params::wah_or_trem" : [ 0 ],
 					"mod params::high_phase_offset[1]" : [ 33.070866141732246 ],
 					"mod params::high_duty_cycle" : [ 0.0 ],
@@ -44,7 +42,7 @@
 					"mod params::floor_env_smooth" : [ 200.000000000000028 ],
 					"mod params::diode-saturation" : [ 0.0 ],
 					"mod params::high_SnTrSq_randomize" : [ 0 ],
-					"mod params::randomize-LPF-type" : [ 0 ],
+					"mod params::randomize-LPF-type" : [ 1 ],
 					"mod params::env sens[1]" : [ 2.0 ],
 					"mod params::high_pow" : [ -6.692913385826815 ],
 					"mod params::floor_y_pos" : [ 0.10236220472441 ],
@@ -55,7 +53,7 @@
 					"mod params::pre-rate_phase_offset_high" : [ -1.574803149606296 ],
 					"mod params::pre-rate_phase_offset_low" : [ 0.0 ],
 					"mod params::pre-rate_phase_offset_verylow" : [ 0.0 ],
-					"mod params::wah sens reduc" : [ 0.65984251968504 ],
+					"mod params::wah sens reduc" : [ 0.482677165354332 ],
 					"mod params::transient_detect::transient_definition" : [ 0 ],
 					"umenu_presets::main_preset_initial" : [ 1 ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [ 1 ],
@@ -84,7 +82,7 @@
 					"SousaFX_Audio_Status::Audio_Status[1]" : [ 1 ],
 					"sidechained_kick_params::sidechained_kick_params" : [ 1 ],
 					"patcher[2]::SousaFX Background Color Preference" : [ 1 ],
-					"patcher::Main Input stutter tremolo filters" : [ 1 ],
+					"patcher::Wobble FX stutter tremolo filters" : [ 1 ],
 					"envelope_parameters::main_env_params" : [ 1 ],
 					"patcher[3]::VFX_stutter" : [ 1 ],
 					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [ 1 ],
@@ -95,7 +93,7 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [ 1 ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [ 1 ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [ 1 ],
-					"patcher[1]::Main Input stutter tremolo filters" : [ 1 ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [ 1 ]
 				}
 
 			}
@@ -105,8 +103,6 @@
 				"data" : 				{
 					"preset descriptions" : [  ],
 					"bleed[1]" : [  ],
-					"post-crossfade FX routing" : [  ],
-					"post-crossfade FX routing while soloing" : [  ],
 					"pitchMixSustain" : [  ],
 					"pitchMixAttack" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [  ],
@@ -182,7 +178,7 @@
 					"SousaFX_Audio_Status::Audio_Status[1]" : [  ],
 					"sidechained_kick_params::sidechained_kick_params" : [  ],
 					"patcher[2]::SousaFX Background Color Preference" : [  ],
-					"patcher::Main Input stutter tremolo filters" : [  ],
+					"patcher::Wobble FX stutter tremolo filters" : [  ],
 					"envelope_parameters::main_env_params" : [  ],
 					"patcher[3]::VFX_stutter" : [  ],
 					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [  ],
@@ -193,7 +189,7 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
-					"patcher[1]::Main Input stutter tremolo filters" : [  ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [  ]
 				}
 
 			}
@@ -203,8 +199,6 @@
 				"data" : 				{
 					"preset descriptions" : [  ],
 					"bleed[1]" : [  ],
-					"post-crossfade FX routing" : [  ],
-					"post-crossfade FX routing while soloing" : [  ],
 					"pitchMixSustain" : [  ],
 					"pitchMixAttack" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [  ],
@@ -280,7 +274,7 @@
 					"SousaFX_Audio_Status::Audio_Status[1]" : [  ],
 					"sidechained_kick_params::sidechained_kick_params" : [  ],
 					"patcher[2]::SousaFX Background Color Preference" : [  ],
-					"patcher::Main Input stutter tremolo filters" : [  ],
+					"patcher::Wobble FX stutter tremolo filters" : [  ],
 					"envelope_parameters::main_env_params" : [  ],
 					"patcher[3]::VFX_stutter" : [  ],
 					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [  ],
@@ -291,7 +285,7 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
-					"patcher[1]::Main Input stutter tremolo filters" : [  ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [  ]
 				}
 
 			}
@@ -301,8 +295,6 @@
 				"data" : 				{
 					"preset descriptions" : [  ],
 					"bleed[1]" : [  ],
-					"post-crossfade FX routing" : [  ],
-					"post-crossfade FX routing while soloing" : [  ],
 					"pitchMixSustain" : [  ],
 					"pitchMixAttack" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [  ],
@@ -378,7 +370,7 @@
 					"SousaFX_Audio_Status::Audio_Status[1]" : [  ],
 					"sidechained_kick_params::sidechained_kick_params" : [  ],
 					"patcher[2]::SousaFX Background Color Preference" : [  ],
-					"patcher::Main Input stutter tremolo filters" : [  ],
+					"patcher::Wobble FX stutter tremolo filters" : [  ],
 					"envelope_parameters::main_env_params" : [  ],
 					"patcher[3]::VFX_stutter" : [  ],
 					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [  ],
@@ -389,7 +381,7 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
-					"patcher[1]::Main Input stutter tremolo filters" : [  ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [  ]
 				}
 
 			}
@@ -399,8 +391,6 @@
 				"data" : 				{
 					"preset descriptions" : [  ],
 					"bleed[1]" : [  ],
-					"post-crossfade FX routing" : [  ],
-					"post-crossfade FX routing while soloing" : [  ],
 					"pitchMixSustain" : [  ],
 					"pitchMixAttack" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [  ],
@@ -476,7 +466,7 @@
 					"SousaFX_Audio_Status::Audio_Status[1]" : [  ],
 					"sidechained_kick_params::sidechained_kick_params" : [  ],
 					"patcher[2]::SousaFX Background Color Preference" : [  ],
-					"patcher::Main Input stutter tremolo filters" : [  ],
+					"patcher::Wobble FX stutter tremolo filters" : [  ],
 					"envelope_parameters::main_env_params" : [  ],
 					"patcher[3]::VFX_stutter" : [  ],
 					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [  ],
@@ -487,7 +477,7 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
-					"patcher[1]::Main Input stutter tremolo filters" : [  ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [  ]
 				}
 
 			}
@@ -497,8 +487,6 @@
 				"data" : 				{
 					"preset descriptions" : [  ],
 					"bleed[1]" : [  ],
-					"post-crossfade FX routing" : [  ],
-					"post-crossfade FX routing while soloing" : [  ],
 					"pitchMixSustain" : [  ],
 					"pitchMixAttack" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [  ],
@@ -574,7 +562,7 @@
 					"SousaFX_Audio_Status::Audio_Status[1]" : [  ],
 					"sidechained_kick_params::sidechained_kick_params" : [  ],
 					"patcher[2]::SousaFX Background Color Preference" : [  ],
-					"patcher::Main Input stutter tremolo filters" : [  ],
+					"patcher::Wobble FX stutter tremolo filters" : [  ],
 					"envelope_parameters::main_env_params" : [  ],
 					"patcher[3]::VFX_stutter" : [  ],
 					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [  ],
@@ -585,7 +573,7 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
-					"patcher[1]::Main Input stutter tremolo filters" : [  ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [  ]
 				}
 
 			}
@@ -595,8 +583,6 @@
 				"data" : 				{
 					"preset descriptions" : [  ],
 					"bleed[1]" : [  ],
-					"post-crossfade FX routing" : [  ],
-					"post-crossfade FX routing while soloing" : [  ],
 					"pitchMixSustain" : [  ],
 					"pitchMixAttack" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [  ],
@@ -672,7 +658,7 @@
 					"SousaFX_Audio_Status::Audio_Status[1]" : [  ],
 					"sidechained_kick_params::sidechained_kick_params" : [  ],
 					"patcher[2]::SousaFX Background Color Preference" : [  ],
-					"patcher::Main Input stutter tremolo filters" : [  ],
+					"patcher::Wobble FX stutter tremolo filters" : [  ],
 					"envelope_parameters::main_env_params" : [  ],
 					"patcher[3]::VFX_stutter" : [  ],
 					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [  ],
@@ -683,7 +669,7 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
-					"patcher[1]::Main Input stutter tremolo filters" : [  ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [  ]
 				}
 
 			}
@@ -693,8 +679,6 @@
 				"data" : 				{
 					"preset descriptions" : [  ],
 					"bleed[1]" : [  ],
-					"post-crossfade FX routing" : [  ],
-					"post-crossfade FX routing while soloing" : [  ],
 					"pitchMixSustain" : [  ],
 					"pitchMixAttack" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [  ],
@@ -770,7 +754,7 @@
 					"SousaFX_Audio_Status::Audio_Status[1]" : [  ],
 					"sidechained_kick_params::sidechained_kick_params" : [  ],
 					"patcher[2]::SousaFX Background Color Preference" : [  ],
-					"patcher::Main Input stutter tremolo filters" : [  ],
+					"patcher::Wobble FX stutter tremolo filters" : [  ],
 					"envelope_parameters::main_env_params" : [  ],
 					"patcher[3]::VFX_stutter" : [  ],
 					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [  ],
@@ -781,7 +765,7 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
-					"patcher[1]::Main Input stutter tremolo filters" : [  ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [  ]
 				}
 
 			}
@@ -791,8 +775,6 @@
 				"data" : 				{
 					"preset descriptions" : [  ],
 					"bleed[1]" : [  ],
-					"post-crossfade FX routing" : [  ],
-					"post-crossfade FX routing while soloing" : [  ],
 					"pitchMixSustain" : [  ],
 					"pitchMixAttack" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [  ],
@@ -868,7 +850,7 @@
 					"SousaFX_Audio_Status::Audio_Status[1]" : [  ],
 					"sidechained_kick_params::sidechained_kick_params" : [  ],
 					"patcher[2]::SousaFX Background Color Preference" : [  ],
-					"patcher::Main Input stutter tremolo filters" : [  ],
+					"patcher::Wobble FX stutter tremolo filters" : [  ],
 					"envelope_parameters::main_env_params" : [  ],
 					"patcher[3]::VFX_stutter" : [  ],
 					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [  ],
@@ -879,7 +861,7 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
-					"patcher[1]::Main Input stutter tremolo filters" : [  ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [  ]
 				}
 
 			}
@@ -889,8 +871,6 @@
 				"data" : 				{
 					"preset descriptions" : [  ],
 					"bleed[1]" : [  ],
-					"post-crossfade FX routing" : [  ],
-					"post-crossfade FX routing while soloing" : [  ],
 					"pitchMixSustain" : [  ],
 					"pitchMixAttack" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [  ],
@@ -966,7 +946,7 @@
 					"SousaFX_Audio_Status::Audio_Status[1]" : [  ],
 					"sidechained_kick_params::sidechained_kick_params" : [  ],
 					"patcher[2]::SousaFX Background Color Preference" : [  ],
-					"patcher::Main Input stutter tremolo filters" : [  ],
+					"patcher::Wobble FX stutter tremolo filters" : [  ],
 					"envelope_parameters::main_env_params" : [  ],
 					"patcher[3]::VFX_stutter" : [  ],
 					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [  ],
@@ -977,7 +957,7 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
-					"patcher[1]::Main Input stutter tremolo filters" : [  ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [  ]
 				}
 
 			}
@@ -987,8 +967,6 @@
 				"data" : 				{
 					"preset descriptions" : [  ],
 					"bleed[1]" : [  ],
-					"post-crossfade FX routing" : [  ],
-					"post-crossfade FX routing while soloing" : [  ],
 					"pitchMixSustain" : [  ],
 					"pitchMixAttack" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [  ],
@@ -1064,7 +1042,7 @@
 					"SousaFX_Audio_Status::Audio_Status[1]" : [  ],
 					"sidechained_kick_params::sidechained_kick_params" : [  ],
 					"patcher[2]::SousaFX Background Color Preference" : [  ],
-					"patcher::Main Input stutter tremolo filters" : [  ],
+					"patcher::Wobble FX stutter tremolo filters" : [  ],
 					"envelope_parameters::main_env_params" : [  ],
 					"patcher[3]::VFX_stutter" : [  ],
 					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [  ],
@@ -1075,7 +1053,7 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
-					"patcher[1]::Main Input stutter tremolo filters" : [  ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [  ]
 				}
 
 			}
@@ -1085,8 +1063,6 @@
 				"data" : 				{
 					"preset descriptions" : [  ],
 					"bleed[1]" : [  ],
-					"post-crossfade FX routing" : [  ],
-					"post-crossfade FX routing while soloing" : [  ],
 					"pitchMixSustain" : [  ],
 					"pitchMixAttack" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [  ],
@@ -1162,7 +1138,7 @@
 					"SousaFX_Audio_Status::Audio_Status[1]" : [  ],
 					"sidechained_kick_params::sidechained_kick_params" : [  ],
 					"patcher[2]::SousaFX Background Color Preference" : [  ],
-					"patcher::Main Input stutter tremolo filters" : [  ],
+					"patcher::Wobble FX stutter tremolo filters" : [  ],
 					"envelope_parameters::main_env_params" : [  ],
 					"patcher[3]::VFX_stutter" : [  ],
 					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [  ],
@@ -1173,7 +1149,7 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
-					"patcher[1]::Main Input stutter tremolo filters" : [  ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [  ]
 				}
 
 			}
@@ -1183,8 +1159,6 @@
 				"data" : 				{
 					"preset descriptions" : [  ],
 					"bleed[1]" : [  ],
-					"post-crossfade FX routing" : [  ],
-					"post-crossfade FX routing while soloing" : [  ],
 					"pitchMixSustain" : [  ],
 					"pitchMixAttack" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [  ],
@@ -1260,7 +1234,7 @@
 					"SousaFX_Audio_Status::Audio_Status[1]" : [  ],
 					"sidechained_kick_params::sidechained_kick_params" : [  ],
 					"patcher[2]::SousaFX Background Color Preference" : [  ],
-					"patcher::Main Input stutter tremolo filters" : [  ],
+					"patcher::Wobble FX stutter tremolo filters" : [  ],
 					"envelope_parameters::main_env_params" : [  ],
 					"patcher[3]::VFX_stutter" : [  ],
 					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [  ],
@@ -1271,7 +1245,7 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
-					"patcher[1]::Main Input stutter tremolo filters" : [  ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [  ]
 				}
 
 			}
@@ -1281,8 +1255,6 @@
 				"data" : 				{
 					"preset descriptions" : [  ],
 					"bleed[1]" : [  ],
-					"post-crossfade FX routing" : [  ],
-					"post-crossfade FX routing while soloing" : [  ],
 					"pitchMixSustain" : [  ],
 					"pitchMixAttack" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [  ],
@@ -1358,7 +1330,7 @@
 					"SousaFX_Audio_Status::Audio_Status[1]" : [  ],
 					"sidechained_kick_params::sidechained_kick_params" : [  ],
 					"patcher[2]::SousaFX Background Color Preference" : [  ],
-					"patcher::Main Input stutter tremolo filters" : [  ],
+					"patcher::Wobble FX stutter tremolo filters" : [  ],
 					"envelope_parameters::main_env_params" : [  ],
 					"patcher[3]::VFX_stutter" : [  ],
 					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [  ],
@@ -1369,7 +1341,7 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
-					"patcher[1]::Main Input stutter tremolo filters" : [  ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [  ]
 				}
 
 			}
@@ -1379,8 +1351,6 @@
 				"data" : 				{
 					"preset descriptions" : [  ],
 					"bleed[1]" : [  ],
-					"post-crossfade FX routing" : [  ],
-					"post-crossfade FX routing while soloing" : [  ],
 					"pitchMixSustain" : [  ],
 					"pitchMixAttack" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [  ],
@@ -1456,7 +1426,7 @@
 					"SousaFX_Audio_Status::Audio_Status[1]" : [  ],
 					"sidechained_kick_params::sidechained_kick_params" : [  ],
 					"patcher[2]::SousaFX Background Color Preference" : [  ],
-					"patcher::Main Input stutter tremolo filters" : [  ],
+					"patcher::Wobble FX stutter tremolo filters" : [  ],
 					"envelope_parameters::main_env_params" : [  ],
 					"patcher[3]::VFX_stutter" : [  ],
 					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [  ],
@@ -1467,7 +1437,7 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
-					"patcher[1]::Main Input stutter tremolo filters" : [  ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [  ]
 				}
 
 			}
@@ -1477,8 +1447,6 @@
 				"data" : 				{
 					"preset descriptions" : [  ],
 					"bleed[1]" : [  ],
-					"post-crossfade FX routing" : [  ],
-					"post-crossfade FX routing while soloing" : [  ],
 					"pitchMixSustain" : [  ],
 					"pitchMixAttack" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [  ],
@@ -1554,7 +1522,7 @@
 					"SousaFX_Audio_Status::Audio_Status[1]" : [  ],
 					"sidechained_kick_params::sidechained_kick_params" : [  ],
 					"patcher[2]::SousaFX Background Color Preference" : [  ],
-					"patcher::Main Input stutter tremolo filters" : [  ],
+					"patcher::Wobble FX stutter tremolo filters" : [  ],
 					"envelope_parameters::main_env_params" : [  ],
 					"patcher[3]::VFX_stutter" : [  ],
 					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [  ],
@@ -1565,7 +1533,7 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
-					"patcher[1]::Main Input stutter tremolo filters" : [  ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [  ]
 				}
 
 			}
@@ -1575,8 +1543,6 @@
 				"data" : 				{
 					"preset descriptions" : [  ],
 					"bleed[1]" : [  ],
-					"post-crossfade FX routing" : [  ],
-					"post-crossfade FX routing while soloing" : [  ],
 					"pitchMixSustain" : [  ],
 					"pitchMixAttack" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [  ],
@@ -1652,7 +1618,7 @@
 					"SousaFX_Audio_Status::Audio_Status[1]" : [  ],
 					"sidechained_kick_params::sidechained_kick_params" : [  ],
 					"patcher[2]::SousaFX Background Color Preference" : [  ],
-					"patcher::Main Input stutter tremolo filters" : [  ],
+					"patcher::Wobble FX stutter tremolo filters" : [  ],
 					"envelope_parameters::main_env_params" : [  ],
 					"patcher[3]::VFX_stutter" : [  ],
 					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [  ],
@@ -1663,7 +1629,7 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
-					"patcher[1]::Main Input stutter tremolo filters" : [  ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [  ]
 				}
 
 			}
@@ -1673,8 +1639,6 @@
 				"data" : 				{
 					"preset descriptions" : [  ],
 					"bleed[1]" : [  ],
-					"post-crossfade FX routing" : [  ],
-					"post-crossfade FX routing while soloing" : [  ],
 					"pitchMixSustain" : [  ],
 					"pitchMixAttack" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [  ],
@@ -1750,7 +1714,7 @@
 					"SousaFX_Audio_Status::Audio_Status[1]" : [  ],
 					"sidechained_kick_params::sidechained_kick_params" : [  ],
 					"patcher[2]::SousaFX Background Color Preference" : [  ],
-					"patcher::Main Input stutter tremolo filters" : [  ],
+					"patcher::Wobble FX stutter tremolo filters" : [  ],
 					"envelope_parameters::main_env_params" : [  ],
 					"patcher[3]::VFX_stutter" : [  ],
 					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [  ],
@@ -1761,7 +1725,7 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
-					"patcher[1]::Main Input stutter tremolo filters" : [  ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [  ]
 				}
 
 			}
@@ -1771,8 +1735,6 @@
 				"data" : 				{
 					"preset descriptions" : [  ],
 					"bleed[1]" : [  ],
-					"post-crossfade FX routing" : [  ],
-					"post-crossfade FX routing while soloing" : [  ],
 					"pitchMixSustain" : [  ],
 					"pitchMixAttack" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [  ],
@@ -1848,7 +1810,7 @@
 					"SousaFX_Audio_Status::Audio_Status[1]" : [  ],
 					"sidechained_kick_params::sidechained_kick_params" : [  ],
 					"patcher[2]::SousaFX Background Color Preference" : [  ],
-					"patcher::Main Input stutter tremolo filters" : [  ],
+					"patcher::Wobble FX stutter tremolo filters" : [  ],
 					"envelope_parameters::main_env_params" : [  ],
 					"patcher[3]::VFX_stutter" : [  ],
 					"plugin_or_rnbo_selector[8]::monitor_limiter_rnbo_or_plugin" : [  ],
@@ -1859,7 +1821,7 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
-					"patcher[1]::Main Input stutter tremolo filters" : [  ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [  ]
 				}
 
 			}

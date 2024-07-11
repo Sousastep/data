@@ -5,8 +5,8 @@
 			"1" : 			{
 				"id" : 1,
 				"data" : 				{
-					"mix" : [ "mix", 63.0 ],
-					"spread" : [ "spread", 19.0 ],
+					"mix" : [ "mix", 35.0 ],
+					"spread" : [ "spread", 9.0 ],
 					"transp" : [ "transp", 0.0 ],
 					"window" : [ "window", 80.0 ]
 				}

@@ -1539,6 +1539,26 @@
 										"out" : 46,
 										"gain" : 1.0
 									}
+, 									{
+										"in" : 4,
+										"out" : 33,
+										"gain" : 1.0
+									}
+, 									{
+										"in" : 5,
+										"out" : 33,
+										"gain" : 1.0
+									}
+, 									{
+										"in" : 6,
+										"out" : 33,
+										"gain" : 1.0
+									}
+, 									{
+										"in" : 7,
+										"out" : 33,
+										"gain" : 1.0
+									}
  ]
 							}
 
@@ -1674,9 +1694,9 @@
 					"Drum Clip Delay Send (uni)::curve[1]" : [ 22.047244094488285 ],
 					"Drum Clip Delay Send (uni)::value to set when control relinquished" : [ 0.0 ],
 					"Drum Clip Delay Send (uni)::curve polarity" : [ 0.0 ],
-					"Drum Clip Delay Send (uni)::available transition options[1]::when to relinquish var1" : [ 2 ],
+					"Drum Clip Delay Send (uni)::available transition options[1]::when to relinquish var1" : [ 0 ],
 					"Drum Clip Delay Send (uni)::available transition options[1]::when to relinquish var2" : [ 0 ],
-					"Drum Clip Delay Send (uni)::available transition options[1]::when to relinquish var1[1]" : [ 0 ],
+					"Drum Clip Delay Send (uni)::available transition options[1]::when to relinquish var1[1]" : [ 2 ],
 					"Drum Clip Delay Send (uni)::available transition options[1]::when to relinquish var2[1]" : [ 1 ],
 					"Drum Clip Delay Send (uni)::available transition options[1]::when to control" : [ 3 ],
 					"Drum Clip Delay Send (uni)::available transition options[2]::when to relinquish var1" : [ 2 ],
@@ -1691,7 +1711,7 @@
 					"Drum Clip Delay Send (uni)::available transition options[3]::when to control" : [ 1 ],
 					"Drum Clip Delay Send (uni)::available transition options::when to relinquish var1" : [ 0 ],
 					"Drum Clip Delay Send (uni)::available transition options::when to relinquish var2" : [ 0 ],
-					"Drum Clip Delay Send (uni)::available transition options::when to relinquish var1[1]" : [ 1 ],
+					"Drum Clip Delay Send (uni)::available transition options::when to relinquish var1[1]" : [ 2 ],
 					"Drum Clip Delay Send (uni)::available transition options::when to relinquish var2[1]" : [ 1 ],
 					"Drum Clip Delay Send (uni)::available transition options::when to control" : [ 3 ],
 					"Drum Clip Tremolo Depth (uni)::invert_control" : [ 0 ],
@@ -2426,10 +2446,10 @@
 					"LFO Duty Cycle (bi)[1]::available transition options[1]::when to relinquish var2[1]" : [ 0 ],
 					"LFO Duty Cycle (bi)[1]::available transition options[1]::when to control" : [ 1 ],
 					"LFO Duty Cycle (bi)[1]::available transition options[2]::when to relinquish var1" : [ 1 ],
-					"LFO Duty Cycle (bi)[1]::available transition options[2]::when to relinquish var2" : [ 0 ],
+					"LFO Duty Cycle (bi)[1]::available transition options[2]::when to relinquish var2" : [ 1 ],
 					"LFO Duty Cycle (bi)[1]::available transition options[2]::when to relinquish var1[1]" : [ 1 ],
-					"LFO Duty Cycle (bi)[1]::available transition options[2]::when to relinquish var2[1]" : [ 1 ],
-					"LFO Duty Cycle (bi)[1]::available transition options[2]::when to control" : [ 1 ],
+					"LFO Duty Cycle (bi)[1]::available transition options[2]::when to relinquish var2[1]" : [ 0 ],
+					"LFO Duty Cycle (bi)[1]::available transition options[2]::when to control" : [ 2 ],
 					"LFO Duty Cycle (bi)[1]::available transition options[3]::when to relinquish var1" : [ 0 ],
 					"LFO Duty Cycle (bi)[1]::available transition options[3]::when to relinquish var2" : [ 0 ],
 					"LFO Duty Cycle (bi)[1]::available transition options[3]::when to relinquish var1[1]" : [ 1 ],
@@ -2490,7 +2510,7 @@
 					"LFO Auto-Wah Pause (uni)::available transition options::when to relinquish var2[1]" : [ 0 ],
 					"LFO Auto-Wah Pause (uni)::available transition options::when to control" : [ 1 ],
 					"LFO Env Pause (uni)::invert_control" : [ 0 ],
-					"LFO Env Pause (uni)::curve[1]" : [ 0.0 ],
+					"LFO Env Pause (uni)::curve[1]" : [ 67.716535433070831 ],
 					"LFO Env Pause (uni)::value to set when control relinquished" : [ 0.0 ],
 					"LFO Env Pause (uni)::curve polarity" : [ 0.0 ],
 					"LFO Env Pause (uni)::available transition options[1]::when to relinquish var1" : [ 0 ],

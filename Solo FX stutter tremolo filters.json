@@ -7,7 +7,7 @@
 				"data" : 				{
 					"sousaFX_tremolo::duty" : [ 65.704338924069731 ],
 					"sousaFX_tremolo::phase" : [ 0.0 ],
-					"sousaFX_tremolo::smooth[1]" : [ 9.401574803149622 ],
+					"sousaFX_tremolo::smooth[1]" : [ 18.0 ],
 					"sousaFX_tremolo::boost[1]" : [ 6.0 ],
 					"sousaFX_tremolo::subdiv-mult" : [ 2.0 ],
 					"stutterstep::stutter volume[1]" : [ -0.6 ],

@@ -33,7 +33,7 @@
 					"mod params::verylow_duty_cycle" : [ 0.0 ],
 					"mod params::verylow_floor" : [ 0.0 ],
 					"mod params::rez_min" : [ 30 ],
-					"mod params::rez_max" : [ 84 ],
+					"mod params::rez_max" : [ 100 ],
 					"mod params::wah_or_trem" : [ 0 ],
 					"mod params::high_phase_offset[1]" : [ 33.070866141732246 ],
 					"mod params::high_duty_cycle" : [ 0.0 ],

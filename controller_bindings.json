@@ -1247,7 +1247,8 @@
 					"LFO Env Pause (uni)::available transition options::when to relinquish var2" : [  ],
 					"LFO Env Pause (uni)::available transition options::when to relinquish var1[1]" : [  ],
 					"LFO Env Pause (uni)::available transition options::when to relinquish var2[1]" : [  ],
-					"LFO Env Pause (uni)::available transition options::when to control" : [  ]
+					"LFO Env Pause (uni)::available transition options::when to control" : [  ],
+					"param_info_erase_time::param_info_erase_time[1]" : [  ]
 				}
 
 			}
@@ -1557,6 +1558,11 @@
 , 									{
 										"in" : 7,
 										"out" : 33,
+										"gain" : 1.0
+									}
+, 									{
+										"in" : 37,
+										"out" : 69,
 										"gain" : 1.0
 									}
  ]
@@ -2532,7 +2538,8 @@
 					"LFO Env Pause (uni)::available transition options::when to relinquish var2" : [ 1 ],
 					"LFO Env Pause (uni)::available transition options::when to relinquish var1[1]" : [ 0 ],
 					"LFO Env Pause (uni)::available transition options::when to relinquish var2[1]" : [ 0 ],
-					"LFO Env Pause (uni)::available transition options::when to control" : [ 1 ]
+					"LFO Env Pause (uni)::available transition options::when to control" : [ 1 ],
+					"param_info_erase_time::param_info_erase_time[1]" : [ 1 ]
 				}
 
 			}
@@ -3782,7 +3789,8 @@
 					"LFO Env Pause (uni)::available transition options::when to relinquish var2" : [ 1 ],
 					"LFO Env Pause (uni)::available transition options::when to relinquish var1[1]" : [ 0 ],
 					"LFO Env Pause (uni)::available transition options::when to relinquish var2[1]" : [ 0 ],
-					"LFO Env Pause (uni)::available transition options::when to control" : [ 1 ]
+					"LFO Env Pause (uni)::available transition options::when to control" : [ 1 ],
+					"param_info_erase_time::param_info_erase_time[1]" : [  ]
 				}
 
 			}
@@ -4766,7 +4774,8 @@
 					"LFO Env Pause (uni)::available transition options::when to relinquish var2" : [  ],
 					"LFO Env Pause (uni)::available transition options::when to relinquish var1[1]" : [  ],
 					"LFO Env Pause (uni)::available transition options::when to relinquish var2[1]" : [  ],
-					"LFO Env Pause (uni)::available transition options::when to control" : [  ]
+					"LFO Env Pause (uni)::available transition options::when to control" : [  ],
+					"param_info_erase_time::param_info_erase_time[1]" : [  ]
 				}
 
 			}

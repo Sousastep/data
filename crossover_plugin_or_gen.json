@@ -5,14 +5,15 @@
 			"1" : 			{
 				"id" : 1,
 				"data" : 				{
-					"gen_or_plugin" : [ 0 ],
-					"freq" : [ 105.0 ],
+					"gen_or_plugin" : [ 1 ],
+					"freq" : [ 110.0 ],
 					"bypass Attack FX highpass" : [ 0 ],
 					"bypass Sustain FX highpass" : [ 0 ],
 					"bypass lows lowpass" : [ 0 ],
 					"bypass octaver's lowpass" : [ 1 ],
 					"u330031051" : [ 1 ],
-					"u330031051[1]" : [ 0 ]
+					"u330031051[1]" : [ 0 ],
+					"u326005293" : [ 2 ]
 				}
 
 			}

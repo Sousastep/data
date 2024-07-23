@@ -128,7 +128,7 @@
 					"Pinwheel_color1_hue::pitch_range_low" : [ 70.0 ],
 					"Pinwheel_color1_hue::rslider" : [ 0.202045840992263, 0.678156899332724 ],
 					"Pinwheel_color1_hue::slide_down" : [ 4 ],
-					"Pinwheel_color1_hue::slide_up" : [ 24 ],
+					"Pinwheel_color1_hue::slide_up" : [ 4 ],
 					"Pinwheel_color1_hue::function_visualizer_clear_line::function_visualizer_floats::function" : [ 1.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 1.0, 1.0, 0, -0.65, "curve" ],
 					"Pinwheel_color1_light::invert" : [ 0.0 ],
 					"Pinwheel_color1_light::linkphasor_rate" : [ 1.0 ],

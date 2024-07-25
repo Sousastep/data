@@ -7,8 +7,8 @@
 				"data" : 				{
 					"preset descriptions" : [ "Sousastep's default preset" ],
 					"bleed[1]" : [ -70.0 ],
-					"pitchMixSustain" : [ 0.0 ],
-					"pitchMixAttack" : [ 0.0 ],
+					"pitchMixSustain" : [ 36.200000000000003 ],
+					"pitchMixAttack" : [ 32.299999999999997 ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [ 0, 0, 1.0 ],
 					"sustain fx chooser::Pre-LPF_FX_randomize" : [ 4.0 ],
 					"post-crossfade fx chooser::Post-Crossfade_FX_plugin_choice" : [ 3, 0, 1.0 ],

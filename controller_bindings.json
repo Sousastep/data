@@ -1617,11 +1617,6 @@
 										"gain" : 1.0
 									}
 , 									{
-										"in" : 39,
-										"out" : 61,
-										"gain" : 1.0
-									}
-, 									{
 										"in" : 46,
 										"out" : 67,
 										"gain" : 1.0
@@ -2518,13 +2513,13 @@
 					"Main Input Filters (bi)::available transition options[1]::when to relinquish var2[1]" : [ 0 ],
 					"Main Input Filters (bi)::available transition options[1]::when to control" : [ 0 ],
 					"Main Input Filters (bi)::available transition options[1]::tuba or button" : [ 0 ],
-					"Main Input Filters (bi)::available transition options[2]::when to relinquish var1" : [ 2 ],
+					"Main Input Filters (bi)::available transition options[2]::when to relinquish var1" : [ 0 ],
 					"Main Input Filters (bi)::available transition options[2]::when to relinquish var2" : [ 0 ],
 					"Main Input Filters (bi)::available transition options[2]::when to relinquish var1[1]" : [ 0 ],
 					"Main Input Filters (bi)::available transition options[2]::when to relinquish var2[1]" : [ 0 ],
 					"Main Input Filters (bi)::available transition options[2]::when to control" : [ 0 ],
 					"Main Input Filters (bi)::available transition options[2]::tuba or button" : [ 0 ],
-					"Main Input Filters (bi)::available transition options[3]::when to relinquish var1" : [ 2 ],
+					"Main Input Filters (bi)::available transition options[3]::when to relinquish var1" : [ 0 ],
 					"Main Input Filters (bi)::available transition options[3]::when to relinquish var2" : [ 0 ],
 					"Main Input Filters (bi)::available transition options[3]::when to relinquish var1[1]" : [ 2 ],
 					"Main Input Filters (bi)::available transition options[3]::when to relinquish var2[1]" : [ 0 ],
@@ -2534,7 +2529,7 @@
 					"Main Input Filters (bi)::available transition options::when to relinquish var2" : [ 0 ],
 					"Main Input Filters (bi)::available transition options::when to relinquish var1[1]" : [ 1 ],
 					"Main Input Filters (bi)::available transition options::when to relinquish var2[1]" : [ 1 ],
-					"Main Input Filters (bi)::available transition options::when to control" : [ 3 ],
+					"Main Input Filters (bi)::available transition options::when to control" : [ 0 ],
 					"Main Input Filters (bi)::available transition options::tuba or button" : [ 0 ],
 					"Main Input Stutter Random Rhythm (trig)::invert_control" : [ 0 ],
 					"Main Input Stutter Random Rhythm (trig)::curve[1]" : [ 0.0 ],

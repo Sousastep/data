@@ -1,11 +1,11 @@
 {
 	"pattrstorage" : 	{
-		"name" : "solo_comp_rnbo_or_plugin",
+		"name" : "wet_preamp_rnbo_or_plugin",
 		"slots" : 		{
 			"1" : 			{
 				"id" : 1,
 				"data" : 				{
-					"rnbo_or_plugin" : [ 1 ]
+					"rnbo_or_plugin" : [ 0 ]
 				}
 
 			}

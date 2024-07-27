@@ -43,11 +43,11 @@
 								}
 ,
 								"lomid" : 								{
-									"value" : -3.0
+									"value" : -6.0
 								}
 ,
 								"himidfq" : 								{
-									"value" : 2200.0
+									"value" : 2100.0
 								}
 ,
 								"level" : 								{
@@ -55,7 +55,7 @@
 								}
 ,
 								"himid" : 								{
-									"value" : 6.0
+									"value" : 11.0
 								}
 ,
 								"__presetid" : "ParamEQ"

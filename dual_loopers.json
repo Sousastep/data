@@ -15,6 +15,7 @@
 					"when to disable soloFX" : [ 1 ],
 					"droplet" : [ 1 ],
 					"8 or 16" : [ 0.0 ],
+					"auto-adjust looper length" : [ 1 ],
 					"looper1::looper_volume" : [ 0.0 ],
 					"looper1::fade-out" : [ 2.0 ],
 					"looper1::disable noise gate referral" : [ 0 ],
@@ -37,12 +38,11 @@
 					"looper2::DJfilter::filter_boost" : [ 13.999999999999998 ],
 					"DJfilter::smooth_freq_mod" : [ 21.344361429481385 ],
 					"DJfilter::filter_boost" : [ 13.999999999999998 ],
-					"sousaFX_tremolo::duty" : [ 0.0 ],
+					"sousaFX_tremolo::duty" : [ 19.406132689494854 ],
 					"sousaFX_tremolo::phase" : [ 0.0 ],
 					"sousaFX_tremolo::smooth[1]" : [ 23.622047244094475 ],
 					"sousaFX_tremolo::boost[1]" : [ 2.5 ],
-					"sousaFX_tremolo::subdiv-mult" : [ 0.0 ],
-					"auto-adjust looper length" : [ 1 ]
+					"sousaFX_tremolo::subdiv-mult" : [ 0.0 ]
 				}
 
 			}

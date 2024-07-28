@@ -25,11 +25,11 @@
 								}
 ,
 								"thresh" : 								{
-									"value" : -0.3
+									"value" : -2.0
 								}
 ,
 								"gain" : 								{
-									"value" : 6.0
+									"value" : 0.0
 								}
 ,
 								"lookahead" : 								{

@@ -2,6 +2,33 @@
 	"pattrstorage" : 	{
 		"name" : "ISF_shaders",
 		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"UI_CandyWarp::candywarp" : [ 1 ],
+					"UI_Pinwheel::pinwheel" : [ 1 ],
+					"UI_PolarGradient::polargradient" : [ 1 ],
+					"UI_RainbowGlowRing::rainbowglowring" : [ 1 ],
+					"UI_SpaceSpore::spacespore" : [ 1 ],
+					"ISF_shader_brightness::invert" : [ 0.0 ],
+					"ISF_shader_brightness::linkphasor_rate" : [ 1.0 ],
+					"ISF_shader_brightness::param_ctrl" : [ 0.0 ],
+					"ISF_shader_brightness::pitch_range_high" : [ 340.0 ],
+					"ISF_shader_brightness::pitch_range_low" : [ 70.0 ],
+					"ISF_shader_brightness::rslider" : [ 0.5, 0.5 ],
+					"ISF_shader_brightness::slide_down" : [ 0 ],
+					"ISF_shader_brightness::slide_up" : [ 0 ],
+					"ISF_shader_brightness::function_visualizer_clear_line::function_visualizer_floats::function" : [ 1.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 1.0, 1.0, 0, 0.0, "curve" ],
+					"UI_FluidFlowSNoise::fluidflowsnoise" : [ -1 ],
+					"UI_VoronoiDuplex::voronoiduplex" : [ 1 ],
+					"UI_ButterflyEffect::butterflyeffect" : [ 1 ],
+					"UI_ColorDiffusionFlow::colordiffusionflow" : [ 1 ],
+					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
+					"ISF-pattrstorage::preset-description" : [ "default blank" ]
+				}
+
+			}
+,
 			"2" : 			{
 				"id" : 2,
 				"data" : 				{
@@ -29,29 +56,83 @@
 
 			}
 ,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"UI_CandyWarp::candywarp" : [ 3 ],
+					"UI_Pinwheel::pinwheel" : [ 1 ],
+					"UI_PolarGradient::polargradient" : [ 1 ],
+					"UI_RainbowGlowRing::rainbowglowring" : [ 1 ],
+					"UI_SpaceSpore::spacespore" : [ 1 ],
+					"ISF_shader_brightness::invert" : [ 0.0 ],
+					"ISF_shader_brightness::linkphasor_rate" : [ 1.0 ],
+					"ISF_shader_brightness::param_ctrl" : [ 0.0 ],
+					"ISF_shader_brightness::pitch_range_high" : [ 340.0 ],
+					"ISF_shader_brightness::pitch_range_low" : [ 70.0 ],
+					"ISF_shader_brightness::rslider" : [ 1.0, 1.0 ],
+					"ISF_shader_brightness::slide_down" : [ 0 ],
+					"ISF_shader_brightness::slide_up" : [ 0 ],
+					"ISF_shader_brightness::function_visualizer_clear_line::function_visualizer_floats::function" : [ 1.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 1.0, 1.0, 0, 0.0, "curve" ],
+					"UI_FluidFlowSNoise::fluidflowsnoise" : [ 1 ],
+					"UI_VoronoiDuplex::voronoiduplex" : [ 1 ],
+					"UI_ButterflyEffect::butterflyeffect" : [ 1 ],
+					"UI_ColorDiffusionFlow::colordiffusionflow" : [ 1 ],
+					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
+					"ISF-pattrstorage::preset-description" : [ "candy dub 1" ]
+				}
+
+			}
+,
 			"4" : 			{
 				"id" : 4,
 				"data" : 				{
 					"UI_CandyWarp::candywarp" : [ 4 ],
-					"UI_Pinwheel::pinwheel" : [ -1 ],
-					"UI_PolarGradient::polargradient" : [ -1 ],
-					"UI_RainbowGlowRing::rainbowglowring" : [ -1 ],
+					"UI_Pinwheel::pinwheel" : [ 1 ],
+					"UI_PolarGradient::polargradient" : [ 1 ],
+					"UI_RainbowGlowRing::rainbowglowring" : [ 1 ],
 					"UI_SpaceSpore::spacespore" : [ 1 ],
 					"ISF_shader_brightness::invert" : [ 0.0 ],
 					"ISF_shader_brightness::linkphasor_rate" : [ 1.0 ],
-					"ISF_shader_brightness::param_ctrl" : [ 2.0 ],
+					"ISF_shader_brightness::param_ctrl" : [ 0.0 ],
 					"ISF_shader_brightness::pitch_range_high" : [ 340.0 ],
 					"ISF_shader_brightness::pitch_range_low" : [ 70.0 ],
-					"ISF_shader_brightness::rslider" : [ 0.0, 1.0 ],
+					"ISF_shader_brightness::rslider" : [ 1.0, 1.0 ],
 					"ISF_shader_brightness::slide_down" : [ 0 ],
-					"ISF_shader_brightness::slide_up" : [ 12 ],
-					"ISF_shader_brightness::function_visualizer_clear_line::function_visualizer_floats::function" : [ 1.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 1.0, 1.0, 0, -0.05, "curve" ],
+					"ISF_shader_brightness::slide_up" : [ 0 ],
+					"ISF_shader_brightness::function_visualizer_clear_line::function_visualizer_floats::function" : [ 1.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 1.0, 1.0, 0, 0.0, "curve" ],
 					"UI_FluidFlowSNoise::fluidflowsnoise" : [ 1 ],
-					"UI_VoronoiDuplex::voronoiduplex" : [ -1 ],
-					"UI_ButterflyEffect::butterflyeffect" : [ -1 ],
+					"UI_VoronoiDuplex::voronoiduplex" : [ 1 ],
+					"UI_ButterflyEffect::butterflyeffect" : [ 1 ],
 					"UI_ColorDiffusionFlow::colordiffusionflow" : [ 1 ],
-					"UI_PlanetOfBaobabs::planetofbaobabs" : [ -1 ],
-					"ISF-pattrstorage::preset-description" : [ "candwarp dub 2" ]
+					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
+					"ISF-pattrstorage::preset-description" : [ "candy dub 2" ]
+				}
+
+			}
+,
+			"11" : 			{
+				"id" : 11,
+				"data" : 				{
+					"UI_CandyWarp::candywarp" : [ 1 ],
+					"UI_Pinwheel::pinwheel" : [ 1 ],
+					"UI_PolarGradient::polargradient" : [ 1 ],
+					"UI_RainbowGlowRing::rainbowglowring" : [ 1 ],
+					"UI_SpaceSpore::spacespore" : [ 1 ],
+					"ISF_shader_brightness::invert" : [ 0.0 ],
+					"ISF_shader_brightness::linkphasor_rate" : [ 1.0 ],
+					"ISF_shader_brightness::param_ctrl" : [ 0.0 ],
+					"ISF_shader_brightness::pitch_range_high" : [ 340.0 ],
+					"ISF_shader_brightness::pitch_range_low" : [ 70.0 ],
+					"ISF_shader_brightness::rslider" : [ 0.5, 0.5 ],
+					"ISF_shader_brightness::slide_down" : [ 0 ],
+					"ISF_shader_brightness::slide_up" : [ 0 ],
+					"ISF_shader_brightness::function_visualizer_clear_line::function_visualizer_floats::function" : [ 1.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 1.0, 1.0, 0, 0.0, "curve" ],
+					"UI_FluidFlowSNoise::fluidflowsnoise" : [ -1 ],
+					"UI_VoronoiDuplex::voronoiduplex" : [ 1 ],
+					"UI_ButterflyEffect::butterflyeffect" : [ 1 ],
+					"UI_ColorDiffusionFlow::colordiffusionflow" : [ 1 ],
+					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
+					"ISF-pattrstorage::preset-description" : [ "pin blank" ]
 				}
 
 			}
@@ -88,9 +169,9 @@
 				"data" : 				{
 					"UI_CandyWarp::candywarp" : [ 1 ],
 					"UI_Pinwheel::pinwheel" : [ 3 ],
-					"UI_PolarGradient::polargradient" : [ -1 ],
+					"UI_PolarGradient::polargradient" : [ 1 ],
 					"UI_RainbowGlowRing::rainbowglowring" : [ 1 ],
-					"UI_SpaceSpore::spacespore" : [ -1 ],
+					"UI_SpaceSpore::spacespore" : [ 1 ],
 					"ISF_shader_brightness::invert" : [ 0.0 ],
 					"ISF_shader_brightness::linkphasor_rate" : [ 1.0 ],
 					"ISF_shader_brightness::param_ctrl" : [ 0.0 ],
@@ -101,11 +182,11 @@
 					"ISF_shader_brightness::slide_up" : [ 0 ],
 					"ISF_shader_brightness::function_visualizer_clear_line::function_visualizer_floats::function" : [ 1.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 1.0, 1.0, 0, 0.0, "curve" ],
 					"UI_FluidFlowSNoise::fluidflowsnoise" : [ -1 ],
-					"UI_VoronoiDuplex::voronoiduplex" : [ -1 ],
-					"UI_ButterflyEffect::butterflyeffect" : [ -1 ],
-					"UI_ColorDiffusionFlow::colordiffusionflow" : [ -1 ],
+					"UI_VoronoiDuplex::voronoiduplex" : [ 1 ],
+					"UI_ButterflyEffect::butterflyeffect" : [ 1 ],
+					"UI_ColorDiffusionFlow::colordiffusionflow" : [ 1 ],
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
-					"ISF-pattrstorage::preset-description" : [ "pinwheel dub" ]
+					"ISF-pattrstorage::preset-description" : [ "pinwheel dub 1" ]
 				}
 
 			}
@@ -164,6 +245,33 @@
 
 			}
 ,
+			"21" : 			{
+				"id" : 21,
+				"data" : 				{
+					"UI_CandyWarp::candywarp" : [ 1 ],
+					"UI_Pinwheel::pinwheel" : [ 1 ],
+					"UI_PolarGradient::polargradient" : [ 1 ],
+					"UI_RainbowGlowRing::rainbowglowring" : [ 1 ],
+					"UI_SpaceSpore::spacespore" : [ 1 ],
+					"ISF_shader_brightness::invert" : [ 0.0 ],
+					"ISF_shader_brightness::linkphasor_rate" : [ 1.0 ],
+					"ISF_shader_brightness::param_ctrl" : [ 0.0 ],
+					"ISF_shader_brightness::pitch_range_high" : [ 340.0 ],
+					"ISF_shader_brightness::pitch_range_low" : [ 70.0 ],
+					"ISF_shader_brightness::rslider" : [ 1.0, 1.0 ],
+					"ISF_shader_brightness::slide_down" : [ 0 ],
+					"ISF_shader_brightness::slide_up" : [ 0 ],
+					"ISF_shader_brightness::function_visualizer_clear_line::function_visualizer_floats::function" : [ 1.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 1.0, 1.0, 0, 0.0, "curve" ],
+					"UI_FluidFlowSNoise::fluidflowsnoise" : [ -1 ],
+					"UI_VoronoiDuplex::voronoiduplex" : [ 1 ],
+					"UI_ButterflyEffect::butterflyeffect" : [ 1 ],
+					"UI_ColorDiffusionFlow::colordiffusionflow" : [ 1 ],
+					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
+					"ISF-pattrstorage::preset-description" : [ "pol blank" ]
+				}
+
+			}
+,
 			"22" : 			{
 				"id" : 22,
 				"data" : 				{
@@ -177,7 +285,7 @@
 					"ISF_shader_brightness::param_ctrl" : [ 2.0 ],
 					"ISF_shader_brightness::pitch_range_high" : [ 340.0 ],
 					"ISF_shader_brightness::pitch_range_low" : [ 70.0 ],
-					"ISF_shader_brightness::rslider" : [ 0.0, 1.0 ],
+					"ISF_shader_brightness::rslider" : [ 0.01, 1.0 ],
 					"ISF_shader_brightness::slide_down" : [ 0 ],
 					"ISF_shader_brightness::slide_up" : [ 66 ],
 					"ISF_shader_brightness::function_visualizer_clear_line::function_visualizer_floats::function" : [ 1.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 1.0, 1.0, 0, 0.0, "curve" ],
@@ -218,12 +326,39 @@
 
 			}
 ,
+			"31" : 			{
+				"id" : 31,
+				"data" : 				{
+					"UI_CandyWarp::candywarp" : [ 1 ],
+					"UI_Pinwheel::pinwheel" : [ 1 ],
+					"UI_PolarGradient::polargradient" : [ 1 ],
+					"UI_RainbowGlowRing::rainbowglowring" : [ 1 ],
+					"UI_SpaceSpore::spacespore" : [ 1 ],
+					"ISF_shader_brightness::invert" : [ 0.0 ],
+					"ISF_shader_brightness::linkphasor_rate" : [ 1.0 ],
+					"ISF_shader_brightness::param_ctrl" : [ 0.0 ],
+					"ISF_shader_brightness::pitch_range_high" : [ 340.0 ],
+					"ISF_shader_brightness::pitch_range_low" : [ 70.0 ],
+					"ISF_shader_brightness::rslider" : [ 0.5, 0.5 ],
+					"ISF_shader_brightness::slide_down" : [ 0 ],
+					"ISF_shader_brightness::slide_up" : [ 9 ],
+					"ISF_shader_brightness::function_visualizer_clear_line::function_visualizer_floats::function" : [ 1.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 1.0, 1.0, 0, 0.0, "curve" ],
+					"UI_FluidFlowSNoise::fluidflowsnoise" : [ -1 ],
+					"UI_VoronoiDuplex::voronoiduplex" : [ 1 ],
+					"UI_ButterflyEffect::butterflyeffect" : [ 1 ],
+					"UI_ColorDiffusionFlow::colordiffusionflow" : [ 1 ],
+					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
+					"ISF-pattrstorage::preset-description" : [ "glow blank" ]
+				}
+
+			}
+,
 			"32" : 			{
 				"id" : 32,
 				"data" : 				{
 					"UI_CandyWarp::candywarp" : [ 1 ],
 					"UI_Pinwheel::pinwheel" : [ 1 ],
-					"UI_PolarGradient::polargradient" : [ -1 ],
+					"UI_PolarGradient::polargradient" : [ 1 ],
 					"UI_RainbowGlowRing::rainbowglowring" : [ 2 ],
 					"UI_SpaceSpore::spacespore" : [ 1 ],
 					"ISF_shader_brightness::invert" : [ 0.0 ],
@@ -231,16 +366,43 @@
 					"ISF_shader_brightness::param_ctrl" : [ 2.0 ],
 					"ISF_shader_brightness::pitch_range_high" : [ 340.0 ],
 					"ISF_shader_brightness::pitch_range_low" : [ 70.0 ],
-					"ISF_shader_brightness::rslider" : [ 0.01, 1.0 ],
-					"ISF_shader_brightness::slide_down" : [ 0 ],
-					"ISF_shader_brightness::slide_up" : [ 12 ],
+					"ISF_shader_brightness::rslider" : [ 0.093564840357727, 1.0 ],
+					"ISF_shader_brightness::slide_down" : [ 3 ],
+					"ISF_shader_brightness::slide_up" : [ 33 ],
 					"ISF_shader_brightness::function_visualizer_clear_line::function_visualizer_floats::function" : [ 1.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 1.0, 1.0, 0, 0.0, "curve" ],
 					"UI_FluidFlowSNoise::fluidflowsnoise" : [ -1 ],
-					"UI_VoronoiDuplex::voronoiduplex" : [ -1 ],
+					"UI_VoronoiDuplex::voronoiduplex" : [ 1 ],
 					"UI_ButterflyEffect::butterflyeffect" : [ 1 ],
 					"UI_ColorDiffusionFlow::colordiffusionflow" : [ 1 ],
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "glowring aco 1" ]
+				}
+
+			}
+,
+			"33" : 			{
+				"id" : 33,
+				"data" : 				{
+					"UI_CandyWarp::candywarp" : [ 1 ],
+					"UI_Pinwheel::pinwheel" : [ 1 ],
+					"UI_PolarGradient::polargradient" : [ 1 ],
+					"UI_RainbowGlowRing::rainbowglowring" : [ 3 ],
+					"UI_SpaceSpore::spacespore" : [ 1 ],
+					"ISF_shader_brightness::invert" : [ 0.0 ],
+					"ISF_shader_brightness::linkphasor_rate" : [ 1.0 ],
+					"ISF_shader_brightness::param_ctrl" : [ 4.0 ],
+					"ISF_shader_brightness::pitch_range_high" : [ 340.0 ],
+					"ISF_shader_brightness::pitch_range_low" : [ 70.0 ],
+					"ISF_shader_brightness::rslider" : [ 0.01, 1.0 ],
+					"ISF_shader_brightness::slide_down" : [ 0 ],
+					"ISF_shader_brightness::slide_up" : [ 1 ],
+					"ISF_shader_brightness::function_visualizer_clear_line::function_visualizer_floats::function" : [ 1.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 1.0, 1.0, 0, 0.0, "curve" ],
+					"UI_FluidFlowSNoise::fluidflowsnoise" : [ -1 ],
+					"UI_VoronoiDuplex::voronoiduplex" : [ 1 ],
+					"UI_ButterflyEffect::butterflyeffect" : [ 1 ],
+					"UI_ColorDiffusionFlow::colordiffusionflow" : [ 1 ],
+					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
+					"ISF-pattrstorage::preset-description" : [ "glowring dub 1" ]
 				}
 
 			}
@@ -262,12 +424,12 @@
 					"ISF_shader_brightness::slide_down" : [ 0 ],
 					"ISF_shader_brightness::slide_up" : [ 1 ],
 					"ISF_shader_brightness::function_visualizer_clear_line::function_visualizer_floats::function" : [ 1.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 1.0, 1.0, 0, 0.0, "curve" ],
-					"UI_FluidFlowSNoise::fluidflowsnoise" : [ 1 ],
+					"UI_FluidFlowSNoise::fluidflowsnoise" : [ -1 ],
 					"UI_VoronoiDuplex::voronoiduplex" : [ 1 ],
 					"UI_ButterflyEffect::butterflyeffect" : [ 1 ],
 					"UI_ColorDiffusionFlow::colordiffusionflow" : [ 1 ],
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
-					"ISF-pattrstorage::preset-description" : [ "glowring dub 1" ]
+					"ISF-pattrstorage::preset-description" : [ "glowring dub 2" ]
 				}
 
 			}
@@ -299,6 +461,33 @@
 
 			}
 ,
+			"41" : 			{
+				"id" : 41,
+				"data" : 				{
+					"UI_CandyWarp::candywarp" : [ 1 ],
+					"UI_Pinwheel::pinwheel" : [ 1 ],
+					"UI_PolarGradient::polargradient" : [ 1 ],
+					"UI_RainbowGlowRing::rainbowglowring" : [ 1 ],
+					"UI_SpaceSpore::spacespore" : [ 1 ],
+					"ISF_shader_brightness::invert" : [ 0.0 ],
+					"ISF_shader_brightness::linkphasor_rate" : [ 1.0 ],
+					"ISF_shader_brightness::param_ctrl" : [ 0.0 ],
+					"ISF_shader_brightness::pitch_range_high" : [ 340.0 ],
+					"ISF_shader_brightness::pitch_range_low" : [ 70.0 ],
+					"ISF_shader_brightness::rslider" : [ 1.0, 1.0 ],
+					"ISF_shader_brightness::slide_down" : [ 0 ],
+					"ISF_shader_brightness::slide_up" : [ 0 ],
+					"ISF_shader_brightness::function_visualizer_clear_line::function_visualizer_floats::function" : [ 1.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 1.0, 1.0, 0, 0.0, "curve" ],
+					"UI_FluidFlowSNoise::fluidflowsnoise" : [ -1 ],
+					"UI_VoronoiDuplex::voronoiduplex" : [ 1 ],
+					"UI_ButterflyEffect::butterflyeffect" : [ 1 ],
+					"UI_ColorDiffusionFlow::colordiffusionflow" : [ 1 ],
+					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
+					"ISF-pattrstorage::preset-description" : [ "spore blank" ]
+				}
+
+			}
+,
 			"42" : 			{
 				"id" : 42,
 				"data" : 				{
@@ -322,6 +511,33 @@
 					"UI_ColorDiffusionFlow::colordiffusionflow" : [ 1 ],
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "spore acoustic 1" ]
+				}
+
+			}
+,
+			"43" : 			{
+				"id" : 43,
+				"data" : 				{
+					"UI_CandyWarp::candywarp" : [ 1 ],
+					"UI_Pinwheel::pinwheel" : [ 1 ],
+					"UI_PolarGradient::polargradient" : [ 1 ],
+					"UI_RainbowGlowRing::rainbowglowring" : [ 1 ],
+					"UI_SpaceSpore::spacespore" : [ 3 ],
+					"ISF_shader_brightness::invert" : [ 0.0 ],
+					"ISF_shader_brightness::linkphasor_rate" : [ 1.0 ],
+					"ISF_shader_brightness::param_ctrl" : [ 7.0 ],
+					"ISF_shader_brightness::pitch_range_high" : [ 340.0 ],
+					"ISF_shader_brightness::pitch_range_low" : [ 70.0 ],
+					"ISF_shader_brightness::rslider" : [ 0.250259619052056, 1.0 ],
+					"ISF_shader_brightness::slide_down" : [ 0 ],
+					"ISF_shader_brightness::slide_up" : [ 14 ],
+					"ISF_shader_brightness::function_visualizer_clear_line::function_visualizer_floats::function" : [ 1.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 1.0, 1.0, 0, -0.6, "curve" ],
+					"UI_FluidFlowSNoise::fluidflowsnoise" : [ -1 ],
+					"UI_VoronoiDuplex::voronoiduplex" : [ 1 ],
+					"UI_ButterflyEffect::butterflyeffect" : [ 1 ],
+					"UI_ColorDiffusionFlow::colordiffusionflow" : [ 1 ],
+					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
+					"ISF-pattrstorage::preset-description" : [ "spore dub 1" ]
 				}
 
 			}
@@ -353,6 +569,33 @@
 
 			}
 ,
+			"45" : 			{
+				"id" : 45,
+				"data" : 				{
+					"UI_CandyWarp::candywarp" : [ 1 ],
+					"UI_Pinwheel::pinwheel" : [ 1 ],
+					"UI_PolarGradient::polargradient" : [ 1 ],
+					"UI_RainbowGlowRing::rainbowglowring" : [ 1 ],
+					"UI_SpaceSpore::spacespore" : [ 5 ],
+					"ISF_shader_brightness::invert" : [ 0.0 ],
+					"ISF_shader_brightness::linkphasor_rate" : [ 1.0 ],
+					"ISF_shader_brightness::param_ctrl" : [ 7.0 ],
+					"ISF_shader_brightness::pitch_range_high" : [ 340.0 ],
+					"ISF_shader_brightness::pitch_range_low" : [ 70.0 ],
+					"ISF_shader_brightness::rslider" : [ 0.250259619052056, 1.0 ],
+					"ISF_shader_brightness::slide_down" : [ 0 ],
+					"ISF_shader_brightness::slide_up" : [ 14 ],
+					"ISF_shader_brightness::function_visualizer_clear_line::function_visualizer_floats::function" : [ 1.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 1.0, 1.0, 0, -0.6, "curve" ],
+					"UI_FluidFlowSNoise::fluidflowsnoise" : [ -1 ],
+					"UI_VoronoiDuplex::voronoiduplex" : [ 1 ],
+					"UI_ButterflyEffect::butterflyeffect" : [ 1 ],
+					"UI_ColorDiffusionFlow::colordiffusionflow" : [ 1 ],
+					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
+					"ISF-pattrstorage::preset-description" : [ "spore dub 3" ]
+				}
+
+			}
+,
 			"46" : 			{
 				"id" : 46,
 				"data" : 				{
@@ -380,6 +623,33 @@
 
 			}
 ,
+			"51" : 			{
+				"id" : 51,
+				"data" : 				{
+					"UI_CandyWarp::candywarp" : [ 1 ],
+					"UI_Pinwheel::pinwheel" : [ 1 ],
+					"UI_PolarGradient::polargradient" : [ 1 ],
+					"UI_RainbowGlowRing::rainbowglowring" : [ 1 ],
+					"UI_SpaceSpore::spacespore" : [ 1 ],
+					"ISF_shader_brightness::invert" : [ 0.0 ],
+					"ISF_shader_brightness::linkphasor_rate" : [ 1.0 ],
+					"ISF_shader_brightness::param_ctrl" : [ 0.0 ],
+					"ISF_shader_brightness::pitch_range_high" : [ 340.0 ],
+					"ISF_shader_brightness::pitch_range_low" : [ 70.0 ],
+					"ISF_shader_brightness::rslider" : [ 0.5, 0.5 ],
+					"ISF_shader_brightness::slide_down" : [ 0 ],
+					"ISF_shader_brightness::slide_up" : [ 0 ],
+					"ISF_shader_brightness::function_visualizer_clear_line::function_visualizer_floats::function" : [ 1.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 1.0, 1.0, 0, 0.0, "curve" ],
+					"UI_FluidFlowSNoise::fluidflowsnoise" : [ -1 ],
+					"UI_VoronoiDuplex::voronoiduplex" : [ 1 ],
+					"UI_ButterflyEffect::butterflyeffect" : [ 1 ],
+					"UI_ColorDiffusionFlow::colordiffusionflow" : [ 1 ],
+					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
+					"ISF-pattrstorage::preset-description" : [ "fluid blank" ]
+				}
+
+			}
+,
 			"52" : 			{
 				"id" : 52,
 				"data" : 				{
@@ -403,6 +673,33 @@
 					"UI_ColorDiffusionFlow::colordiffusionflow" : [ -1 ],
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "fluid dub 1" ]
+				}
+
+			}
+,
+			"61" : 			{
+				"id" : 61,
+				"data" : 				{
+					"UI_CandyWarp::candywarp" : [ 1 ],
+					"UI_Pinwheel::pinwheel" : [ 1 ],
+					"UI_PolarGradient::polargradient" : [ 1 ],
+					"UI_RainbowGlowRing::rainbowglowring" : [ 1 ],
+					"UI_SpaceSpore::spacespore" : [ 1 ],
+					"ISF_shader_brightness::invert" : [ 0.0 ],
+					"ISF_shader_brightness::linkphasor_rate" : [ 1.0 ],
+					"ISF_shader_brightness::param_ctrl" : [ 0.0 ],
+					"ISF_shader_brightness::pitch_range_high" : [ 340.0 ],
+					"ISF_shader_brightness::pitch_range_low" : [ 70.0 ],
+					"ISF_shader_brightness::rslider" : [ 0.5, 0.5 ],
+					"ISF_shader_brightness::slide_down" : [ 0 ],
+					"ISF_shader_brightness::slide_up" : [ 0 ],
+					"ISF_shader_brightness::function_visualizer_clear_line::function_visualizer_floats::function" : [ 1.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 1.0, 1.0, 0, 0.0, "curve" ],
+					"UI_FluidFlowSNoise::fluidflowsnoise" : [ 1 ],
+					"UI_VoronoiDuplex::voronoiduplex" : [ 1 ],
+					"UI_ButterflyEffect::butterflyeffect" : [ 1 ],
+					"UI_ColorDiffusionFlow::colordiffusionflow" : [ 1 ],
+					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
+					"ISF-pattrstorage::preset-description" : [ "voro blank" ]
 				}
 
 			}
@@ -461,6 +758,33 @@
 
 			}
 ,
+			"71" : 			{
+				"id" : 71,
+				"data" : 				{
+					"UI_CandyWarp::candywarp" : [ 1 ],
+					"UI_Pinwheel::pinwheel" : [ 1 ],
+					"UI_PolarGradient::polargradient" : [ 1 ],
+					"UI_RainbowGlowRing::rainbowglowring" : [ 1 ],
+					"UI_SpaceSpore::spacespore" : [ 1 ],
+					"ISF_shader_brightness::invert" : [ 0.0 ],
+					"ISF_shader_brightness::linkphasor_rate" : [ 1.0 ],
+					"ISF_shader_brightness::param_ctrl" : [ 0.0 ],
+					"ISF_shader_brightness::pitch_range_high" : [ 340.0 ],
+					"ISF_shader_brightness::pitch_range_low" : [ 70.0 ],
+					"ISF_shader_brightness::rslider" : [ 0.5, 0.5 ],
+					"ISF_shader_brightness::slide_down" : [ 0 ],
+					"ISF_shader_brightness::slide_up" : [ 0 ],
+					"ISF_shader_brightness::function_visualizer_clear_line::function_visualizer_floats::function" : [ 1.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 1.0, 1.0, 0, 0.0, "curve" ],
+					"UI_FluidFlowSNoise::fluidflowsnoise" : [ 1 ],
+					"UI_VoronoiDuplex::voronoiduplex" : [ 1 ],
+					"UI_ButterflyEffect::butterflyeffect" : [ 1 ],
+					"UI_ColorDiffusionFlow::colordiffusionflow" : [ 1 ],
+					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
+					"ISF-pattrstorage::preset-description" : [ "butter blank" ]
+				}
+
+			}
+,
 			"72" : 			{
 				"id" : 72,
 				"data" : 				{
@@ -484,6 +808,33 @@
 					"UI_ColorDiffusionFlow::colordiffusionflow" : [ 1 ],
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ -1 ],
 					"ISF-pattrstorage::preset-description" : [ "butter dub 1" ]
+				}
+
+			}
+,
+			"73" : 			{
+				"id" : 73,
+				"data" : 				{
+					"UI_CandyWarp::candywarp" : [ 1 ],
+					"UI_Pinwheel::pinwheel" : [ 1 ],
+					"UI_PolarGradient::polargradient" : [ 1 ],
+					"UI_RainbowGlowRing::rainbowglowring" : [ 1 ],
+					"UI_SpaceSpore::spacespore" : [ 1 ],
+					"ISF_shader_brightness::invert" : [ 0.0 ],
+					"ISF_shader_brightness::linkphasor_rate" : [ 1.0 ],
+					"ISF_shader_brightness::param_ctrl" : [ 4.0 ],
+					"ISF_shader_brightness::pitch_range_high" : [ 340.0 ],
+					"ISF_shader_brightness::pitch_range_low" : [ 70.0 ],
+					"ISF_shader_brightness::rslider" : [ 0.01, 1.0 ],
+					"ISF_shader_brightness::slide_down" : [ 0 ],
+					"ISF_shader_brightness::slide_up" : [ 17 ],
+					"ISF_shader_brightness::function_visualizer_clear_line::function_visualizer_floats::function" : [ 1.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 1.0, 1.0, 0, 0.0, "curve" ],
+					"UI_FluidFlowSNoise::fluidflowsnoise" : [ 1 ],
+					"UI_VoronoiDuplex::voronoiduplex" : [ 1 ],
+					"UI_ButterflyEffect::butterflyeffect" : [ 3 ],
+					"UI_ColorDiffusionFlow::colordiffusionflow" : [ 1 ],
+					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
+					"ISF-pattrstorage::preset-description" : [ "butter dub 2" ]
 				}
 
 			}
@@ -515,6 +866,33 @@
 
 			}
 ,
+			"81" : 			{
+				"id" : 81,
+				"data" : 				{
+					"UI_CandyWarp::candywarp" : [ 1 ],
+					"UI_Pinwheel::pinwheel" : [ 1 ],
+					"UI_PolarGradient::polargradient" : [ 1 ],
+					"UI_RainbowGlowRing::rainbowglowring" : [ 1 ],
+					"UI_SpaceSpore::spacespore" : [ 1 ],
+					"ISF_shader_brightness::invert" : [ 0.0 ],
+					"ISF_shader_brightness::linkphasor_rate" : [ 1.0 ],
+					"ISF_shader_brightness::param_ctrl" : [ 0.0 ],
+					"ISF_shader_brightness::pitch_range_high" : [ 340.0 ],
+					"ISF_shader_brightness::pitch_range_low" : [ 70.0 ],
+					"ISF_shader_brightness::rslider" : [ 0.5, 0.5 ],
+					"ISF_shader_brightness::slide_down" : [ 0 ],
+					"ISF_shader_brightness::slide_up" : [ 0 ],
+					"ISF_shader_brightness::function_visualizer_clear_line::function_visualizer_floats::function" : [ 1.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 1.0, 1.0, 0, 0.0, "curve" ],
+					"UI_FluidFlowSNoise::fluidflowsnoise" : [ 1 ],
+					"UI_VoronoiDuplex::voronoiduplex" : [ 1 ],
+					"UI_ButterflyEffect::butterflyeffect" : [ 1 ],
+					"UI_ColorDiffusionFlow::colordiffusionflow" : [ 1 ],
+					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
+					"ISF-pattrstorage::preset-description" : [ "color blank" ]
+				}
+
+			}
+,
 			"82" : 			{
 				"id" : 82,
 				"data" : 				{
@@ -525,19 +903,19 @@
 					"UI_SpaceSpore::spacespore" : [ 1 ],
 					"ISF_shader_brightness::invert" : [ 0.0 ],
 					"ISF_shader_brightness::linkphasor_rate" : [ 1.0 ],
-					"ISF_shader_brightness::param_ctrl" : [ 4.0 ],
+					"ISF_shader_brightness::param_ctrl" : [ 0.0 ],
 					"ISF_shader_brightness::pitch_range_high" : [ 340.0 ],
 					"ISF_shader_brightness::pitch_range_low" : [ 70.0 ],
-					"ISF_shader_brightness::rslider" : [ 0.01, 1.0 ],
-					"ISF_shader_brightness::slide_down" : [ 2 ],
-					"ISF_shader_brightness::slide_up" : [ 12 ],
+					"ISF_shader_brightness::rslider" : [ 1.0, 1.0 ],
+					"ISF_shader_brightness::slide_down" : [ 0 ],
+					"ISF_shader_brightness::slide_up" : [ 0 ],
 					"ISF_shader_brightness::function_visualizer_clear_line::function_visualizer_floats::function" : [ 1.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 1.0, 1.0, 0, 0.0, "curve" ],
-					"UI_FluidFlowSNoise::fluidflowsnoise" : [ 1 ],
+					"UI_FluidFlowSNoise::fluidflowsnoise" : [ -1 ],
 					"UI_VoronoiDuplex::voronoiduplex" : [ 1 ],
 					"UI_ButterflyEffect::butterflyeffect" : [ 1 ],
 					"UI_ColorDiffusionFlow::colordiffusionflow" : [ 2 ],
-					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
-					"ISF-pattrstorage::preset-description" : [ "spacespore acoustic 1" ]
+					"UI_PlanetOfBaobabs::planetofbaobabs" : [ -1 ],
+					"ISF-pattrstorage::preset-description" : [ "color idle" ]
 				}
 
 			}
@@ -569,6 +947,33 @@
 
 			}
 ,
+			"84" : 			{
+				"id" : 84,
+				"data" : 				{
+					"UI_CandyWarp::candywarp" : [ 1 ],
+					"UI_Pinwheel::pinwheel" : [ 1 ],
+					"UI_PolarGradient::polargradient" : [ 1 ],
+					"UI_RainbowGlowRing::rainbowglowring" : [ 1 ],
+					"UI_SpaceSpore::spacespore" : [ 1 ],
+					"ISF_shader_brightness::invert" : [ 0.0 ],
+					"ISF_shader_brightness::linkphasor_rate" : [ 1.0 ],
+					"ISF_shader_brightness::param_ctrl" : [ 4.0 ],
+					"ISF_shader_brightness::pitch_range_high" : [ 340.0 ],
+					"ISF_shader_brightness::pitch_range_low" : [ 70.0 ],
+					"ISF_shader_brightness::rslider" : [ 0.01, 1.0 ],
+					"ISF_shader_brightness::slide_down" : [ 0 ],
+					"ISF_shader_brightness::slide_up" : [ 0 ],
+					"ISF_shader_brightness::function_visualizer_clear_line::function_visualizer_floats::function" : [ 1.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 1.0, 1.0, 0, 0.55, "curve" ],
+					"UI_FluidFlowSNoise::fluidflowsnoise" : [ -1 ],
+					"UI_VoronoiDuplex::voronoiduplex" : [ 1 ],
+					"UI_ButterflyEffect::butterflyeffect" : [ 1 ],
+					"UI_ColorDiffusionFlow::colordiffusionflow" : [ 4 ],
+					"UI_PlanetOfBaobabs::planetofbaobabs" : [ -1 ],
+					"ISF-pattrstorage::preset-description" : [ "color dub 2" ]
+				}
+
+			}
+,
 			"85" : 			{
 				"id" : 85,
 				"data" : 				{
@@ -592,6 +997,33 @@
 					"UI_ColorDiffusionFlow::colordiffusionflow" : [ 5 ],
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "color aco 1" ]
+				}
+
+			}
+,
+			"91" : 			{
+				"id" : 91,
+				"data" : 				{
+					"UI_CandyWarp::candywarp" : [ 1 ],
+					"UI_Pinwheel::pinwheel" : [ 1 ],
+					"UI_PolarGradient::polargradient" : [ 1 ],
+					"UI_RainbowGlowRing::rainbowglowring" : [ 1 ],
+					"UI_SpaceSpore::spacespore" : [ 1 ],
+					"ISF_shader_brightness::invert" : [ 0.0 ],
+					"ISF_shader_brightness::linkphasor_rate" : [ 1.0 ],
+					"ISF_shader_brightness::param_ctrl" : [ 0.0 ],
+					"ISF_shader_brightness::pitch_range_high" : [ 340.0 ],
+					"ISF_shader_brightness::pitch_range_low" : [ 70.0 ],
+					"ISF_shader_brightness::rslider" : [ 0.5, 0.5 ],
+					"ISF_shader_brightness::slide_down" : [ 0 ],
+					"ISF_shader_brightness::slide_up" : [ 0 ],
+					"ISF_shader_brightness::function_visualizer_clear_line::function_visualizer_floats::function" : [ 1.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 1.0, 1.0, 0, 0.0, "curve" ],
+					"UI_FluidFlowSNoise::fluidflowsnoise" : [ -1 ],
+					"UI_VoronoiDuplex::voronoiduplex" : [ 1 ],
+					"UI_ButterflyEffect::butterflyeffect" : [ 1 ],
+					"UI_ColorDiffusionFlow::colordiffusionflow" : [ 1 ],
+					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
+					"ISF-pattrstorage::preset-description" : [ "bao blank" ]
 				}
 
 			}

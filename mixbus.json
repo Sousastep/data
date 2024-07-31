@@ -5,17 +5,17 @@
 			"1" : 			{
 				"id" : 1,
 				"data" : 				{
-					"u617004316" : [ -20.0 ],
-					"u617004316[1]" : [ -14.0 ],
-					"u617004316[2]" : [ -9.0 ],
-					"u617004316[3]" : [ -15.0 ],
+					"u617004316" : [ -19.0 ],
+					"u617004316[1]" : [ -13.0 ],
+					"u617004316[2]" : [ -8.0 ],
+					"u617004316[3]" : [ -14.0 ],
 					"u617004316[4]" : [ 0.0 ],
 					"u617004316[5]" : [ 0.0 ],
 					"attack_low::muted" : [ 0.0 ],
 					"attack_octave::muted" : [ 0.0 ],
 					"sustain_octave::muted" : [ 0.0 ],
-					"attackFX::muted" : [ 1.0 ],
-					"sustainFX::muted" : [ 1.0 ],
+					"attackFX::muted" : [ 0.0 ],
+					"sustainFX::muted" : [ 0.0 ],
 					"plugin_or_rnbo_selector::mod_comp_rnbo_or_plugin" : [ 1 ],
 					"plugin_or_rnbo_selector[1]::dry_comp_rnbo_or_plugin" : [ 1 ],
 					"sustain_low::muted" : [ 0.0 ]

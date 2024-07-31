@@ -38,7 +38,7 @@
 					"adstatusOut24" : [ "21 MADI 17" ],
 					"adstatusOut25" : [ "22 MADI 18" ],
 					"mono_or_stereo" : [ 0 ],
-					"main_audio_input_selection" : [ 4 ],
+					"main_audio_input_selection" : [ 2 ],
 					"adstatusIn19" : [ "Off" ],
 					"adstatusIn20" : [ "Off" ],
 					"adstatusIn21" : [ "Off" ],

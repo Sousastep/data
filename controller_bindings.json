@@ -1707,11 +1707,6 @@
 										"gain" : 1.0
 									}
 , 									{
-										"in" : 43,
-										"out" : 68,
-										"gain" : 1.0
-									}
-, 									{
 										"in" : 45,
 										"out" : 65,
 										"gain" : 1.0
@@ -1786,6 +1781,16 @@
 										"out" : 27,
 										"gain" : 1.0
 									}
+, 									{
+										"in" : 46,
+										"out" : 68,
+										"gain" : 1.0
+									}
+, 									{
+										"in" : 10,
+										"out" : 4,
+										"gain" : 1.0
+									}
  ]
 							}
 
@@ -1793,7 +1798,7 @@
  ],
 					"textedit" : [ "Sousastep's default bindings" ],
 					"dpad & L1 hold or trigger[1]" : [ 1 ],
-					"after_diagonal" : [ 11.355761738563279 ],
+					"after_diagonal" : [ 60.90545210586928 ],
 					"before_diagonal" : [ 2.000000000000028 ],
 					"diagonal_trigger_mode" : [ 1 ],
 					"Controller Bindings Preset Selector Mode::controller_bindings_preset_selector_mode" : [ 1 ],
@@ -1839,7 +1844,7 @@
 					"Looper Filters (bi)::available transition options[2]::when to relinquish var2" : [ 0 ],
 					"Looper Filters (bi)::available transition options[2]::when to relinquish var1[1]" : [ 1 ],
 					"Looper Filters (bi)::available transition options[2]::when to relinquish var2[1]" : [ 1 ],
-					"Looper Filters (bi)::available transition options[2]::when to control" : [ 3 ],
+					"Looper Filters (bi)::available transition options[2]::when to control" : [ 1 ],
 					"Looper Filters (bi)::available transition options[2]::tuba or button" : [ 0 ],
 					"Looper Filters (bi)::available transition options[3]::when to relinquish var1" : [ 2 ],
 					"Looper Filters (bi)::available transition options[3]::when to relinquish var2" : [ 0 ],
@@ -1857,7 +1862,7 @@
 					"Drum Clip Filters (bi)::curve[1]" : [ -40.94488188976392 ],
 					"Drum Clip Filters (bi)::value to set when control relinquished" : [ 0.5 ],
 					"Drum Clip Filters (bi)::curve polarity" : [ 1.0 ],
-					"Drum Clip Filters (bi)::available transition options[1]::when to relinquish var1" : [ 2 ],
+					"Drum Clip Filters (bi)::available transition options[1]::when to relinquish var1" : [ 0 ],
 					"Drum Clip Filters (bi)::available transition options[1]::when to relinquish var2" : [ 0 ],
 					"Drum Clip Filters (bi)::available transition options[1]::when to relinquish var1[1]" : [ 0 ],
 					"Drum Clip Filters (bi)::available transition options[1]::when to relinquish var2[1]" : [ 1 ],
@@ -1867,7 +1872,7 @@
 					"Drum Clip Filters (bi)::available transition options[2]::when to relinquish var2" : [ 0 ],
 					"Drum Clip Filters (bi)::available transition options[2]::when to relinquish var1[1]" : [ 1 ],
 					"Drum Clip Filters (bi)::available transition options[2]::when to relinquish var2[1]" : [ 1 ],
-					"Drum Clip Filters (bi)::available transition options[2]::when to control" : [ 3 ],
+					"Drum Clip Filters (bi)::available transition options[2]::when to control" : [ 1 ],
 					"Drum Clip Filters (bi)::available transition options[2]::tuba or button" : [ 0 ],
 					"Drum Clip Filters (bi)::available transition options[3]::when to relinquish var1" : [ 2 ],
 					"Drum Clip Filters (bi)::available transition options[3]::when to relinquish var2" : [ 1 ],
@@ -1877,7 +1882,7 @@
 					"Drum Clip Filters (bi)::available transition options[3]::tuba or button" : [ 0 ],
 					"Drum Clip Filters (bi)::available transition options::when to relinquish var1" : [ 0 ],
 					"Drum Clip Filters (bi)::available transition options::when to relinquish var2" : [ 0 ],
-					"Drum Clip Filters (bi)::available transition options::when to relinquish var1[1]" : [ 1 ],
+					"Drum Clip Filters (bi)::available transition options::when to relinquish var1[1]" : [ 0 ],
 					"Drum Clip Filters (bi)::available transition options::when to relinquish var2[1]" : [ 1 ],
 					"Drum Clip Filters (bi)::available transition options::when to control" : [ 3 ],
 					"Drum Clip Filters (bi)::available transition options::tuba or button" : [ 0 ],
@@ -2086,7 +2091,7 @@
 					"LFO Sync-Free Crossfade (uni)::available transition options[1]::when to relinquish var2" : [ 1 ],
 					"LFO Sync-Free Crossfade (uni)::available transition options[1]::when to relinquish var1[1]" : [ 2 ],
 					"LFO Sync-Free Crossfade (uni)::available transition options[1]::when to relinquish var2[1]" : [ 0 ],
-					"LFO Sync-Free Crossfade (uni)::available transition options[1]::when to control" : [ 1 ],
+					"LFO Sync-Free Crossfade (uni)::available transition options[1]::when to control" : [ 2 ],
 					"LFO Sync-Free Crossfade (uni)::available transition options[1]::tuba or button" : [ 0 ],
 					"LFO Sync-Free Crossfade (uni)::available transition options[2]::when to relinquish var1" : [ 2 ],
 					"LFO Sync-Free Crossfade (uni)::available transition options[2]::when to relinquish var2" : [ 1 ],
@@ -2104,7 +2109,7 @@
 					"LFO Sync-Free Crossfade (uni)::available transition options::when to relinquish var2" : [ 1 ],
 					"LFO Sync-Free Crossfade (uni)::available transition options::when to relinquish var1[1]" : [ 1 ],
 					"LFO Sync-Free Crossfade (uni)::available transition options::when to relinquish var2[1]" : [ 0 ],
-					"LFO Sync-Free Crossfade (uni)::available transition options::when to control" : [ 1 ],
+					"LFO Sync-Free Crossfade (uni)::available transition options::when to control" : [ 2 ],
 					"LFO Sync-Free Crossfade (uni)::available transition options::tuba or button" : [ 0 ],
 					"LFO Ceiling Envelope Curve (bi)::invert_control" : [ 1 ],
 					"LFO Ceiling Envelope Curve (bi)::curve[1]" : [ -6.299212598425175 ],
@@ -2787,26 +2792,26 @@
 					"Envelope Crossfade Position (bi)[1]::available transition options[1]::when to relinquish var2" : [ 0 ],
 					"Envelope Crossfade Position (bi)[1]::available transition options[1]::when to relinquish var1[1]" : [ 0 ],
 					"Envelope Crossfade Position (bi)[1]::available transition options[1]::when to relinquish var2[1]" : [ 1 ],
-					"Envelope Crossfade Position (bi)[1]::available transition options[1]::when to control" : [ 3 ],
-					"Envelope Crossfade Position (bi)[1]::available transition options[1]::tuba or button" : [ 1 ],
+					"Envelope Crossfade Position (bi)[1]::available transition options[1]::when to control" : [ 1 ],
+					"Envelope Crossfade Position (bi)[1]::available transition options[1]::tuba or button" : [ 0 ],
 					"Envelope Crossfade Position (bi)[1]::available transition options[2]::when to relinquish var1" : [ 1 ],
 					"Envelope Crossfade Position (bi)[1]::available transition options[2]::when to relinquish var2" : [ 1 ],
 					"Envelope Crossfade Position (bi)[1]::available transition options[2]::when to relinquish var1[1]" : [ 0 ],
 					"Envelope Crossfade Position (bi)[1]::available transition options[2]::when to relinquish var2[1]" : [ 0 ],
-					"Envelope Crossfade Position (bi)[1]::available transition options[2]::when to control" : [ 2 ],
-					"Envelope Crossfade Position (bi)[1]::available transition options[2]::tuba or button" : [ 1 ],
+					"Envelope Crossfade Position (bi)[1]::available transition options[2]::when to control" : [ 1 ],
+					"Envelope Crossfade Position (bi)[1]::available transition options[2]::tuba or button" : [ 0 ],
 					"Envelope Crossfade Position (bi)[1]::available transition options[3]::when to relinquish var1" : [ 1 ],
 					"Envelope Crossfade Position (bi)[1]::available transition options[3]::when to relinquish var2" : [ 1 ],
 					"Envelope Crossfade Position (bi)[1]::available transition options[3]::when to relinquish var1[1]" : [ 0 ],
 					"Envelope Crossfade Position (bi)[1]::available transition options[3]::when to relinquish var2[1]" : [ 0 ],
-					"Envelope Crossfade Position (bi)[1]::available transition options[3]::when to control" : [ 2 ],
-					"Envelope Crossfade Position (bi)[1]::available transition options[3]::tuba or button" : [ 1 ],
+					"Envelope Crossfade Position (bi)[1]::available transition options[3]::when to control" : [ 1 ],
+					"Envelope Crossfade Position (bi)[1]::available transition options[3]::tuba or button" : [ 0 ],
 					"Envelope Crossfade Position (bi)[1]::available transition options::when to relinquish var1" : [ 1 ],
 					"Envelope Crossfade Position (bi)[1]::available transition options::when to relinquish var2" : [ 1 ],
 					"Envelope Crossfade Position (bi)[1]::available transition options::when to relinquish var1[1]" : [ 0 ],
 					"Envelope Crossfade Position (bi)[1]::available transition options::when to relinquish var2[1]" : [ 0 ],
-					"Envelope Crossfade Position (bi)[1]::available transition options::when to control" : [ 2 ],
-					"Envelope Crossfade Position (bi)[1]::available transition options::tuba or button" : [ 1 ],
+					"Envelope Crossfade Position (bi)[1]::available transition options::when to control" : [ 1 ],
+					"Envelope Crossfade Position (bi)[1]::available transition options::tuba or button" : [ 0 ],
 					"LFO Duty Cycle (bi)[1]::invert_control" : [ 0 ],
 					"LFO Duty Cycle (bi)[1]::curve[1]" : [ 45.0 ],
 					"LFO Duty Cycle (bi)[1]::value to set when control relinquished" : [ 0.0 ],
@@ -2857,12 +2862,12 @@
 					"LFO Swing Amount (uni)[1]::available transition options[3]::when to relinquish var2[1]" : [ 0 ],
 					"LFO Swing Amount (uni)[1]::available transition options[3]::when to control" : [ 1 ],
 					"LFO Swing Amount (uni)[1]::available transition options[3]::tuba or button" : [ 0 ],
-					"LFO Swing Amount (uni)[1]::available transition options::when to relinquish var1" : [ 0 ],
-					"LFO Swing Amount (uni)[1]::available transition options::when to relinquish var2" : [ 0 ],
+					"LFO Swing Amount (uni)[1]::available transition options::when to relinquish var1" : [ 1 ],
+					"LFO Swing Amount (uni)[1]::available transition options::when to relinquish var2" : [ 1 ],
 					"LFO Swing Amount (uni)[1]::available transition options::when to relinquish var1[1]" : [ 0 ],
 					"LFO Swing Amount (uni)[1]::available transition options::when to relinquish var2[1]" : [ 0 ],
-					"LFO Swing Amount (uni)[1]::available transition options::when to control" : [ 1 ],
-					"LFO Swing Amount (uni)[1]::available transition options::tuba or button" : [ 0 ],
+					"LFO Swing Amount (uni)[1]::available transition options::when to control" : [ 2 ],
+					"LFO Swing Amount (uni)[1]::available transition options::tuba or button" : [ 1 ],
 					"patcher[2]::controller_bindings_preset_initial" : [ 1 ],
 					"LFO Auto-Wah Pause (uni)::invert_control" : [ 0 ],
 					"LFO Auto-Wah Pause (uni)::curve[1]" : [ -36.220472440944803 ],

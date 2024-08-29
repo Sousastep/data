@@ -6,7 +6,7 @@
 				"id" : 1,
 				"data" : 				{
 					"gen_or_plugin" : [ 1 ],
-					"freq" : [ 110.0 ],
+					"freq" : [ 85.0 ],
 					"bypass Attack FX highpass" : [ 0 ],
 					"bypass Sustain FX highpass" : [ 0 ],
 					"bypass lows lowpass" : [ 0 ],

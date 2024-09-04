@@ -1605,11 +1605,6 @@
 										"gain" : 1.0
 									}
 , 									{
-										"in" : 47,
-										"out" : 55,
-										"gain" : 1.0
-									}
-, 									{
 										"in" : 40,
 										"out" : 45,
 										"gain" : 1.0
@@ -1617,11 +1612,6 @@
 , 									{
 										"in" : 45,
 										"out" : 47,
-										"gain" : 1.0
-									}
-, 									{
-										"in" : 43,
-										"out" : 56,
 										"gain" : 1.0
 									}
 , 									{
@@ -1697,11 +1687,6 @@
 , 									{
 										"in" : 41,
 										"out" : 49,
-										"gain" : 1.0
-									}
-, 									{
-										"in" : 37,
-										"out" : 70,
 										"gain" : 1.0
 									}
 , 									{
@@ -1820,8 +1805,13 @@
 										"gain" : 1.0
 									}
 , 									{
-										"in" : 46,
+										"in" : 43,
 										"out" : 17,
+										"gain" : 1.0
+									}
+, 									{
+										"in" : 45,
+										"out" : 69,
 										"gain" : 1.0
 									}
  ]
@@ -1981,7 +1971,7 @@
 					"Drum Clip Delay Send (uni)::curve polarity" : [ 0.0 ],
 					"Drum Clip Delay Send (uni)::available transition options[1]::when to relinquish var1" : [ 0 ],
 					"Drum Clip Delay Send (uni)::available transition options[1]::when to relinquish var2" : [ 0 ],
-					"Drum Clip Delay Send (uni)::available transition options[1]::when to relinquish var1[1]" : [ 2 ],
+					"Drum Clip Delay Send (uni)::available transition options[1]::when to relinquish var1[1]" : [ 0 ],
 					"Drum Clip Delay Send (uni)::available transition options[1]::when to relinquish var2[1]" : [ 1 ],
 					"Drum Clip Delay Send (uni)::available transition options[1]::when to control" : [ 3 ],
 					"Drum Clip Delay Send (uni)::available transition options[1]::tuba or button" : [ 0 ],
@@ -1999,7 +1989,7 @@
 					"Drum Clip Delay Send (uni)::available transition options[3]::tuba or button" : [ 0 ],
 					"Drum Clip Delay Send (uni)::available transition options::when to relinquish var1" : [ 0 ],
 					"Drum Clip Delay Send (uni)::available transition options::when to relinquish var2" : [ 0 ],
-					"Drum Clip Delay Send (uni)::available transition options::when to relinquish var1[1]" : [ 2 ],
+					"Drum Clip Delay Send (uni)::available transition options::when to relinquish var1[1]" : [ 0 ],
 					"Drum Clip Delay Send (uni)::available transition options::when to relinquish var2[1]" : [ 1 ],
 					"Drum Clip Delay Send (uni)::available transition options::when to control" : [ 3 ],
 					"Drum Clip Delay Send (uni)::available transition options::tuba or button" : [ 0 ],
@@ -2120,12 +2110,12 @@
 					"LFO Sync-Free Crossfade (uni)::curve[1]" : [ 45.669291338582461 ],
 					"LFO Sync-Free Crossfade (uni)::value to set when control relinquished" : [ 0.0 ],
 					"LFO Sync-Free Crossfade (uni)::curve polarity" : [ 0.0 ],
-					"LFO Sync-Free Crossfade (uni)::available transition options[1]::when to relinquish var1" : [ 0 ],
+					"LFO Sync-Free Crossfade (uni)::available transition options[1]::when to relinquish var1" : [ 1 ],
 					"LFO Sync-Free Crossfade (uni)::available transition options[1]::when to relinquish var2" : [ 1 ],
-					"LFO Sync-Free Crossfade (uni)::available transition options[1]::when to relinquish var1[1]" : [ 2 ],
+					"LFO Sync-Free Crossfade (uni)::available transition options[1]::when to relinquish var1[1]" : [ 0 ],
 					"LFO Sync-Free Crossfade (uni)::available transition options[1]::when to relinquish var2[1]" : [ 0 ],
 					"LFO Sync-Free Crossfade (uni)::available transition options[1]::when to control" : [ 2 ],
-					"LFO Sync-Free Crossfade (uni)::available transition options[1]::tuba or button" : [ 0 ],
+					"LFO Sync-Free Crossfade (uni)::available transition options[1]::tuba or button" : [ 3 ],
 					"LFO Sync-Free Crossfade (uni)::available transition options[2]::when to relinquish var1" : [ 2 ],
 					"LFO Sync-Free Crossfade (uni)::available transition options[2]::when to relinquish var2" : [ 1 ],
 					"LFO Sync-Free Crossfade (uni)::available transition options[2]::when to relinquish var1[1]" : [ 1 ],
@@ -2138,12 +2128,12 @@
 					"LFO Sync-Free Crossfade (uni)::available transition options[3]::when to relinquish var2[1]" : [ 0 ],
 					"LFO Sync-Free Crossfade (uni)::available transition options[3]::when to control" : [ 0 ],
 					"LFO Sync-Free Crossfade (uni)::available transition options[3]::tuba or button" : [ 0 ],
-					"LFO Sync-Free Crossfade (uni)::available transition options::when to relinquish var1" : [ 0 ],
+					"LFO Sync-Free Crossfade (uni)::available transition options::when to relinquish var1" : [ 1 ],
 					"LFO Sync-Free Crossfade (uni)::available transition options::when to relinquish var2" : [ 1 ],
-					"LFO Sync-Free Crossfade (uni)::available transition options::when to relinquish var1[1]" : [ 1 ],
+					"LFO Sync-Free Crossfade (uni)::available transition options::when to relinquish var1[1]" : [ 0 ],
 					"LFO Sync-Free Crossfade (uni)::available transition options::when to relinquish var2[1]" : [ 0 ],
 					"LFO Sync-Free Crossfade (uni)::available transition options::when to control" : [ 2 ],
-					"LFO Sync-Free Crossfade (uni)::available transition options::tuba or button" : [ 0 ],
+					"LFO Sync-Free Crossfade (uni)::available transition options::tuba or button" : [ 3 ],
 					"LFO Ceiling Envelope Curve (bi)::invert_control" : [ 1 ],
 					"LFO Ceiling Envelope Curve (bi)::curve[1]" : [ -6.299212598425175 ],
 					"LFO Ceiling Envelope Curve (bi)::value to set when control relinquished" : [ 0.5 ],
@@ -2260,12 +2250,12 @@
 					"LFO Swing Amount (uni)::curve[1]" : [ 6.299212598425252 ],
 					"LFO Swing Amount (uni)::value to set when control relinquished" : [ 0.0 ],
 					"LFO Swing Amount (uni)::curve polarity" : [ 0.0 ],
-					"LFO Swing Amount (uni)::available transition options[1]::when to relinquish var1" : [ 2 ],
+					"LFO Swing Amount (uni)::available transition options[1]::when to relinquish var1" : [ 1 ],
 					"LFO Swing Amount (uni)::available transition options[1]::when to relinquish var2" : [ 1 ],
 					"LFO Swing Amount (uni)::available transition options[1]::when to relinquish var1[1]" : [ 0 ],
 					"LFO Swing Amount (uni)::available transition options[1]::when to relinquish var2[1]" : [ 0 ],
-					"LFO Swing Amount (uni)::available transition options[1]::when to control" : [ 1 ],
-					"LFO Swing Amount (uni)::available transition options[1]::tuba or button" : [ 0 ],
+					"LFO Swing Amount (uni)::available transition options[1]::when to control" : [ 2 ],
+					"LFO Swing Amount (uni)::available transition options[1]::tuba or button" : [ 3 ],
 					"LFO Swing Amount (uni)::available transition options[2]::when to relinquish var1" : [ 0 ],
 					"LFO Swing Amount (uni)::available transition options[2]::when to relinquish var2" : [ 1 ],
 					"LFO Swing Amount (uni)::available transition options[2]::when to relinquish var1[1]" : [ 1 ],
@@ -2278,12 +2268,12 @@
 					"LFO Swing Amount (uni)::available transition options[3]::when to relinquish var2[1]" : [ 0 ],
 					"LFO Swing Amount (uni)::available transition options[3]::when to control" : [ 0 ],
 					"LFO Swing Amount (uni)::available transition options[3]::tuba or button" : [ 0 ],
-					"LFO Swing Amount (uni)::available transition options::when to relinquish var1" : [ 2 ],
+					"LFO Swing Amount (uni)::available transition options::when to relinquish var1" : [ 1 ],
 					"LFO Swing Amount (uni)::available transition options::when to relinquish var2" : [ 1 ],
 					"LFO Swing Amount (uni)::available transition options::when to relinquish var1[1]" : [ 0 ],
 					"LFO Swing Amount (uni)::available transition options::when to relinquish var2[1]" : [ 0 ],
-					"LFO Swing Amount (uni)::available transition options::when to control" : [ 1 ],
-					"LFO Swing Amount (uni)::available transition options::tuba or button" : [ 0 ],
+					"LFO Swing Amount (uni)::available transition options::when to control" : [ 2 ],
+					"LFO Swing Amount (uni)::available transition options::tuba or button" : [ 3 ],
 					"LFO Free Speed (bi)::invert_control" : [ 1 ],
 					"LFO Free Speed (bi)::curve[1]" : [ 80.314960629921202 ],
 					"LFO Free Speed (bi)::value to set when control relinquished" : [ 0.5 ],
@@ -2793,12 +2783,12 @@
 					"LFO Ceiling Envelope Curve (bi)[1]::curve[1]" : [ 45.0 ],
 					"LFO Ceiling Envelope Curve (bi)[1]::value to set when control relinquished" : [ 0.0 ],
 					"LFO Ceiling Envelope Curve (bi)[1]::curve polarity" : [ 0.0 ],
-					"LFO Ceiling Envelope Curve (bi)[1]::available transition options[1]::when to relinquish var1" : [ 0 ],
-					"LFO Ceiling Envelope Curve (bi)[1]::available transition options[1]::when to relinquish var2" : [ 0 ],
+					"LFO Ceiling Envelope Curve (bi)[1]::available transition options[1]::when to relinquish var1" : [ 1 ],
+					"LFO Ceiling Envelope Curve (bi)[1]::available transition options[1]::when to relinquish var2" : [ 1 ],
 					"LFO Ceiling Envelope Curve (bi)[1]::available transition options[1]::when to relinquish var1[1]" : [ 0 ],
 					"LFO Ceiling Envelope Curve (bi)[1]::available transition options[1]::when to relinquish var2[1]" : [ 0 ],
-					"LFO Ceiling Envelope Curve (bi)[1]::available transition options[1]::when to control" : [ 1 ],
-					"LFO Ceiling Envelope Curve (bi)[1]::available transition options[1]::tuba or button" : [ 0 ],
+					"LFO Ceiling Envelope Curve (bi)[1]::available transition options[1]::when to control" : [ 2 ],
+					"LFO Ceiling Envelope Curve (bi)[1]::available transition options[1]::tuba or button" : [ 3 ],
 					"LFO Ceiling Envelope Curve (bi)[1]::available transition options[2]::when to relinquish var1" : [ 0 ],
 					"LFO Ceiling Envelope Curve (bi)[1]::available transition options[2]::when to relinquish var2" : [ 0 ],
 					"LFO Ceiling Envelope Curve (bi)[1]::available transition options[2]::when to relinquish var1[1]" : [ 0 ],
@@ -2811,12 +2801,12 @@
 					"LFO Ceiling Envelope Curve (bi)[1]::available transition options[3]::when to relinquish var2[1]" : [ 0 ],
 					"LFO Ceiling Envelope Curve (bi)[1]::available transition options[3]::when to control" : [ 1 ],
 					"LFO Ceiling Envelope Curve (bi)[1]::available transition options[3]::tuba or button" : [ 0 ],
-					"LFO Ceiling Envelope Curve (bi)[1]::available transition options::when to relinquish var1" : [ 0 ],
-					"LFO Ceiling Envelope Curve (bi)[1]::available transition options::when to relinquish var2" : [ 0 ],
+					"LFO Ceiling Envelope Curve (bi)[1]::available transition options::when to relinquish var1" : [ 1 ],
+					"LFO Ceiling Envelope Curve (bi)[1]::available transition options::when to relinquish var2" : [ 1 ],
 					"LFO Ceiling Envelope Curve (bi)[1]::available transition options::when to relinquish var1[1]" : [ 0 ],
 					"LFO Ceiling Envelope Curve (bi)[1]::available transition options::when to relinquish var2[1]" : [ 0 ],
-					"LFO Ceiling Envelope Curve (bi)[1]::available transition options::when to control" : [ 1 ],
-					"LFO Ceiling Envelope Curve (bi)[1]::available transition options::tuba or button" : [ 0 ],
+					"LFO Ceiling Envelope Curve (bi)[1]::available transition options::when to control" : [ 2 ],
+					"LFO Ceiling Envelope Curve (bi)[1]::available transition options::tuba or button" : [ 3 ],
 					"Envelope Crossfade Position (bi)[1]::invert_control" : [ 0 ],
 					"Envelope Crossfade Position (bi)[1]::curve[1]" : [ 60.629921259842526 ],
 					"Envelope Crossfade Position (bi)[1]::value to set when control relinquished" : [ 0.0 ],
@@ -2903,15 +2893,15 @@
 					"LFO Swing Amount (uni)[1]::available transition options::tuba or button" : [ 1 ],
 					"patcher[2]::controller_bindings_preset_initial" : [ 1 ],
 					"LFO Auto-Wah Pause (uni)::invert_control" : [ 0 ],
-					"LFO Auto-Wah Pause (uni)::curve[1]" : [ -36.220472440944803 ],
+					"LFO Auto-Wah Pause (uni)::curve[1]" : [ 52.755905511810887 ],
 					"LFO Auto-Wah Pause (uni)::value to set when control relinquished" : [ 0.0 ],
 					"LFO Auto-Wah Pause (uni)::curve polarity" : [ 0.0 ],
 					"LFO Auto-Wah Pause (uni)::available transition options[1]::when to relinquish var1" : [ 0 ],
-					"LFO Auto-Wah Pause (uni)::available transition options[1]::when to relinquish var2" : [ 1 ],
+					"LFO Auto-Wah Pause (uni)::available transition options[1]::when to relinquish var2" : [ 0 ],
 					"LFO Auto-Wah Pause (uni)::available transition options[1]::when to relinquish var1[1]" : [ 0 ],
-					"LFO Auto-Wah Pause (uni)::available transition options[1]::when to relinquish var2[1]" : [ 0 ],
-					"LFO Auto-Wah Pause (uni)::available transition options[1]::when to control" : [ 1 ],
-					"LFO Auto-Wah Pause (uni)::available transition options[1]::tuba or button" : [ 0 ],
+					"LFO Auto-Wah Pause (uni)::available transition options[1]::when to relinquish var2[1]" : [ 1 ],
+					"LFO Auto-Wah Pause (uni)::available transition options[1]::when to control" : [ 3 ],
+					"LFO Auto-Wah Pause (uni)::available transition options[1]::tuba or button" : [ 3 ],
 					"LFO Auto-Wah Pause (uni)::available transition options[2]::when to relinquish var1" : [ 0 ],
 					"LFO Auto-Wah Pause (uni)::available transition options[2]::when to relinquish var2" : [ 1 ],
 					"LFO Auto-Wah Pause (uni)::available transition options[2]::when to relinquish var1[1]" : [ 0 ],
@@ -2925,13 +2915,13 @@
 					"LFO Auto-Wah Pause (uni)::available transition options[3]::when to control" : [ 0 ],
 					"LFO Auto-Wah Pause (uni)::available transition options[3]::tuba or button" : [ 0 ],
 					"LFO Auto-Wah Pause (uni)::available transition options::when to relinquish var1" : [ 0 ],
-					"LFO Auto-Wah Pause (uni)::available transition options::when to relinquish var2" : [ 1 ],
-					"LFO Auto-Wah Pause (uni)::available transition options::when to relinquish var1[1]" : [ 0 ],
-					"LFO Auto-Wah Pause (uni)::available transition options::when to relinquish var2[1]" : [ 0 ],
-					"LFO Auto-Wah Pause (uni)::available transition options::when to control" : [ 1 ],
-					"LFO Auto-Wah Pause (uni)::available transition options::tuba or button" : [ 0 ],
+					"LFO Auto-Wah Pause (uni)::available transition options::when to relinquish var2" : [ 0 ],
+					"LFO Auto-Wah Pause (uni)::available transition options::when to relinquish var1[1]" : [ 1 ],
+					"LFO Auto-Wah Pause (uni)::available transition options::when to relinquish var2[1]" : [ 1 ],
+					"LFO Auto-Wah Pause (uni)::available transition options::when to control" : [ 3 ],
+					"LFO Auto-Wah Pause (uni)::available transition options::tuba or button" : [ 3 ],
 					"LFO Env Pause (uni)::invert_control" : [ 0 ],
-					"LFO Env Pause (uni)::curve[1]" : [ 67.716535433070831 ],
+					"LFO Env Pause (uni)::curve[1]" : [ -12.598425196850416 ],
 					"LFO Env Pause (uni)::value to set when control relinquished" : [ 0.0 ],
 					"LFO Env Pause (uni)::curve polarity" : [ 0.0 ],
 					"LFO Env Pause (uni)::available transition options[1]::when to relinquish var1" : [ 0 ],
@@ -3015,16 +3005,16 @@
 					"LFO Env Pause (uni)[1]::available transition options::when to relinquish var2[1]" : [ 1 ],
 					"LFO Env Pause (uni)[1]::available transition options::when to control" : [ 1 ],
 					"LFO Env Pause (uni)[1]::available transition options::tuba or button" : [ 0 ],
-					"param control logic::invert_control" : [ 1 ],
-					"param control logic::curve[1]" : [ -56.692913385826671 ],
+					"param control logic::invert_control" : [ 0 ],
+					"param control logic::curve[1]" : [ 7.874015748031504 ],
 					"param control logic::value to set when control relinquished" : [ 0.5 ],
 					"param control logic::curve polarity" : [ 1.0 ],
-					"param control logic::available transition options[1]::when to relinquish var1" : [ 0 ],
-					"param control logic::available transition options[1]::when to relinquish var2" : [ 1 ],
+					"param control logic::available transition options[1]::when to relinquish var1" : [ 1 ],
+					"param control logic::available transition options[1]::when to relinquish var2" : [ 0 ],
 					"param control logic::available transition options[1]::when to relinquish var1[1]" : [ 1 ],
-					"param control logic::available transition options[1]::when to relinquish var2[1]" : [ 0 ],
-					"param control logic::available transition options[1]::when to control" : [ 2 ],
-					"param control logic::available transition options[1]::tuba or button" : [ 0 ],
+					"param control logic::available transition options[1]::when to relinquish var2[1]" : [ 1 ],
+					"param control logic::available transition options[1]::when to control" : [ 3 ],
+					"param control logic::available transition options[1]::tuba or button" : [ 3 ],
 					"param control logic::available transition options[2]::when to relinquish var1" : [ 0 ],
 					"param control logic::available transition options[2]::when to relinquish var2" : [ 1 ],
 					"param control logic::available transition options[2]::when to relinquish var1[1]" : [ 0 ],
@@ -3037,12 +3027,12 @@
 					"param control logic::available transition options[3]::when to relinquish var2[1]" : [ 0 ],
 					"param control logic::available transition options[3]::when to control" : [ 0 ],
 					"param control logic::available transition options[3]::tuba or button" : [ 0 ],
-					"param control logic::available transition options::when to relinquish var1" : [ 0 ],
-					"param control logic::available transition options::when to relinquish var2" : [ 1 ],
+					"param control logic::available transition options::when to relinquish var1" : [ 1 ],
+					"param control logic::available transition options::when to relinquish var2" : [ 0 ],
 					"param control logic::available transition options::when to relinquish var1[1]" : [ 1 ],
-					"param control logic::available transition options::when to relinquish var2[1]" : [ 0 ],
-					"param control logic::available transition options::when to control" : [ 2 ],
-					"param control logic::available transition options::tuba or button" : [ 0 ]
+					"param control logic::available transition options::when to relinquish var2[1]" : [ 1 ],
+					"param control logic::available transition options::when to control" : [ 3 ],
+					"param control logic::available transition options::tuba or button" : [ 3 ]
 				}
 
 			}

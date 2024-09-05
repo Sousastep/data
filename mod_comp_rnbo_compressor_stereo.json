@@ -52,19 +52,19 @@
 ,
 								"__presetid" : "compressor_stereo",
 								"softclip" : 								{
-									"value" : 0.0
+									"value" : 1.0
 								}
 ,
 								"comp" : 								{
-									"value" : 60.0
+									"value" : 70.0
 								}
 ,
 								"himid" : 								{
-									"value" : 16.0
+									"value" : 36.0
 								}
 ,
 								"volume" : 								{
-									"value" : -4.0
+									"value" : -10.0
 								}
 ,
 								"lookahead" : 								{

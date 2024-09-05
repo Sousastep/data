@@ -53,7 +53,7 @@
 					"mod params::pre-rate_phase_offset_high" : [ -1.574803149606296 ],
 					"mod params::pre-rate_phase_offset_low" : [ 0.0 ],
 					"mod params::pre-rate_phase_offset_verylow" : [ 0.0 ],
-					"mod params::wah sens reduc" : [ 0.326771653543309 ],
+					"mod params::wah sens reduc" : [ 0.9 ],
 					"mod params::transient_detect::transient_definition" : [ 0 ],
 					"umenu_presets::main_preset_initial" : [ 1 ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [ 1 ],

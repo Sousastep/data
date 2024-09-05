@@ -33,7 +33,7 @@
 								}
 ,
 								"lookahead" : 								{
-									"value" : 2.0
+									"value" : 0.1
 								}
 
 							}

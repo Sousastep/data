@@ -1740,11 +1740,6 @@
 										"gain" : 1.0
 									}
 , 									{
-										"in" : 5,
-										"out" : 33,
-										"gain" : 1.0
-									}
-, 									{
 										"in" : 6,
 										"out" : 33,
 										"gain" : 1.0
@@ -1800,11 +1795,6 @@
 										"gain" : 1.0
 									}
 , 									{
-										"in" : 10,
-										"out" : 4,
-										"gain" : 1.0
-									}
-, 									{
 										"in" : 43,
 										"out" : 17,
 										"gain" : 1.0
@@ -1812,6 +1802,16 @@
 , 									{
 										"in" : 45,
 										"out" : 69,
+										"gain" : 1.0
+									}
+, 									{
+										"in" : 45,
+										"out" : 4,
+										"gain" : 1.0
+									}
+, 									{
+										"in" : 5,
+										"out" : 4,
 										"gain" : 1.0
 									}
  ]
@@ -2752,7 +2752,7 @@
 					"Main Input Stutter Accel (bi)::available transition options::when to control" : [ 1 ],
 					"Main Input Stutter Accel (bi)::available transition options::tuba or button" : [ 0 ],
 					"LFO Sync-Free Crossfade (uni)[1]::invert_control" : [ 0 ],
-					"LFO Sync-Free Crossfade (uni)[1]::curve[1]" : [ 0.0 ],
+					"LFO Sync-Free Crossfade (uni)[1]::curve[1]" : [ -39.370078740157453 ],
 					"LFO Sync-Free Crossfade (uni)[1]::value to set when control relinquished" : [ 0.0 ],
 					"LFO Sync-Free Crossfade (uni)[1]::curve polarity" : [ 0.0 ],
 					"LFO Sync-Free Crossfade (uni)[1]::available transition options[1]::when to relinquish var1" : [ 0 ],
@@ -2780,7 +2780,7 @@
 					"LFO Sync-Free Crossfade (uni)[1]::available transition options::when to control" : [ 1 ],
 					"LFO Sync-Free Crossfade (uni)[1]::available transition options::tuba or button" : [ 0 ],
 					"LFO Ceiling Envelope Curve (bi)[1]::invert_control" : [ 0 ],
-					"LFO Ceiling Envelope Curve (bi)[1]::curve[1]" : [ 45.0 ],
+					"LFO Ceiling Envelope Curve (bi)[1]::curve[1]" : [ -44.763779527558988 ],
 					"LFO Ceiling Envelope Curve (bi)[1]::value to set when control relinquished" : [ 0.0 ],
 					"LFO Ceiling Envelope Curve (bi)[1]::curve polarity" : [ 0.0 ],
 					"LFO Ceiling Envelope Curve (bi)[1]::available transition options[1]::when to relinquish var1" : [ 1 ],
@@ -2808,35 +2808,35 @@
 					"LFO Ceiling Envelope Curve (bi)[1]::available transition options::when to control" : [ 2 ],
 					"LFO Ceiling Envelope Curve (bi)[1]::available transition options::tuba or button" : [ 1 ],
 					"Envelope Crossfade Position (bi)[1]::invert_control" : [ 0 ],
-					"Envelope Crossfade Position (bi)[1]::curve[1]" : [ 60.629921259842526 ],
+					"Envelope Crossfade Position (bi)[1]::curve[1]" : [ 0.787401574803259 ],
 					"Envelope Crossfade Position (bi)[1]::value to set when control relinquished" : [ 0.0 ],
 					"Envelope Crossfade Position (bi)[1]::curve polarity" : [ 0.0 ],
 					"Envelope Crossfade Position (bi)[1]::available transition options[1]::when to relinquish var1" : [ 1 ],
-					"Envelope Crossfade Position (bi)[1]::available transition options[1]::when to relinquish var2" : [ 0 ],
+					"Envelope Crossfade Position (bi)[1]::available transition options[1]::when to relinquish var2" : [ 1 ],
 					"Envelope Crossfade Position (bi)[1]::available transition options[1]::when to relinquish var1[1]" : [ 0 ],
-					"Envelope Crossfade Position (bi)[1]::available transition options[1]::when to relinquish var2[1]" : [ 1 ],
-					"Envelope Crossfade Position (bi)[1]::available transition options[1]::when to control" : [ 1 ],
-					"Envelope Crossfade Position (bi)[1]::available transition options[1]::tuba or button" : [ 0 ],
+					"Envelope Crossfade Position (bi)[1]::available transition options[1]::when to relinquish var2[1]" : [ 0 ],
+					"Envelope Crossfade Position (bi)[1]::available transition options[1]::when to control" : [ 2 ],
+					"Envelope Crossfade Position (bi)[1]::available transition options[1]::tuba or button" : [ 1 ],
 					"Envelope Crossfade Position (bi)[1]::available transition options[2]::when to relinquish var1" : [ 1 ],
 					"Envelope Crossfade Position (bi)[1]::available transition options[2]::when to relinquish var2" : [ 1 ],
 					"Envelope Crossfade Position (bi)[1]::available transition options[2]::when to relinquish var1[1]" : [ 0 ],
 					"Envelope Crossfade Position (bi)[1]::available transition options[2]::when to relinquish var2[1]" : [ 0 ],
-					"Envelope Crossfade Position (bi)[1]::available transition options[2]::when to control" : [ 1 ],
-					"Envelope Crossfade Position (bi)[1]::available transition options[2]::tuba or button" : [ 0 ],
+					"Envelope Crossfade Position (bi)[1]::available transition options[2]::when to control" : [ 2 ],
+					"Envelope Crossfade Position (bi)[1]::available transition options[2]::tuba or button" : [ 1 ],
 					"Envelope Crossfade Position (bi)[1]::available transition options[3]::when to relinquish var1" : [ 1 ],
 					"Envelope Crossfade Position (bi)[1]::available transition options[3]::when to relinquish var2" : [ 1 ],
 					"Envelope Crossfade Position (bi)[1]::available transition options[3]::when to relinquish var1[1]" : [ 0 ],
 					"Envelope Crossfade Position (bi)[1]::available transition options[3]::when to relinquish var2[1]" : [ 0 ],
-					"Envelope Crossfade Position (bi)[1]::available transition options[3]::when to control" : [ 1 ],
-					"Envelope Crossfade Position (bi)[1]::available transition options[3]::tuba or button" : [ 0 ],
+					"Envelope Crossfade Position (bi)[1]::available transition options[3]::when to control" : [ 2 ],
+					"Envelope Crossfade Position (bi)[1]::available transition options[3]::tuba or button" : [ 1 ],
 					"Envelope Crossfade Position (bi)[1]::available transition options::when to relinquish var1" : [ 1 ],
 					"Envelope Crossfade Position (bi)[1]::available transition options::when to relinquish var2" : [ 1 ],
 					"Envelope Crossfade Position (bi)[1]::available transition options::when to relinquish var1[1]" : [ 0 ],
 					"Envelope Crossfade Position (bi)[1]::available transition options::when to relinquish var2[1]" : [ 0 ],
-					"Envelope Crossfade Position (bi)[1]::available transition options::when to control" : [ 1 ],
-					"Envelope Crossfade Position (bi)[1]::available transition options::tuba or button" : [ 0 ],
+					"Envelope Crossfade Position (bi)[1]::available transition options::when to control" : [ 2 ],
+					"Envelope Crossfade Position (bi)[1]::available transition options::tuba or button" : [ 1 ],
 					"LFO Duty Cycle (bi)[1]::invert_control" : [ 0 ],
-					"LFO Duty Cycle (bi)[1]::curve[1]" : [ 45.0 ],
+					"LFO Duty Cycle (bi)[1]::curve[1]" : [ -41.614173228346331 ],
 					"LFO Duty Cycle (bi)[1]::value to set when control relinquished" : [ 0.0 ],
 					"LFO Duty Cycle (bi)[1]::curve polarity" : [ 0.0 ],
 					"LFO Duty Cycle (bi)[1]::available transition options[1]::when to relinquish var1" : [ 1 ],
@@ -2849,14 +2849,14 @@
 					"LFO Duty Cycle (bi)[1]::available transition options[2]::when to relinquish var2" : [ 1 ],
 					"LFO Duty Cycle (bi)[1]::available transition options[2]::when to relinquish var1[1]" : [ 0 ],
 					"LFO Duty Cycle (bi)[1]::available transition options[2]::when to relinquish var2[1]" : [ 0 ],
-					"LFO Duty Cycle (bi)[1]::available transition options[2]::when to control" : [ 1 ],
-					"LFO Duty Cycle (bi)[1]::available transition options[2]::tuba or button" : [ 0 ],
+					"LFO Duty Cycle (bi)[1]::available transition options[2]::when to control" : [ 2 ],
+					"LFO Duty Cycle (bi)[1]::available transition options[2]::tuba or button" : [ 1 ],
 					"LFO Duty Cycle (bi)[1]::available transition options[3]::when to relinquish var1" : [ 1 ],
 					"LFO Duty Cycle (bi)[1]::available transition options[3]::when to relinquish var2" : [ 1 ],
 					"LFO Duty Cycle (bi)[1]::available transition options[3]::when to relinquish var1[1]" : [ 0 ],
 					"LFO Duty Cycle (bi)[1]::available transition options[3]::when to relinquish var2[1]" : [ 0 ],
-					"LFO Duty Cycle (bi)[1]::available transition options[3]::when to control" : [ 1 ],
-					"LFO Duty Cycle (bi)[1]::available transition options[3]::tuba or button" : [ 0 ],
+					"LFO Duty Cycle (bi)[1]::available transition options[3]::when to control" : [ 2 ],
+					"LFO Duty Cycle (bi)[1]::available transition options[3]::tuba or button" : [ 1 ],
 					"LFO Duty Cycle (bi)[1]::available transition options::when to relinquish var1" : [ 1 ],
 					"LFO Duty Cycle (bi)[1]::available transition options::when to relinquish var2" : [ 1 ],
 					"LFO Duty Cycle (bi)[1]::available transition options::when to relinquish var1[1]" : [ 0 ],
@@ -2864,7 +2864,7 @@
 					"LFO Duty Cycle (bi)[1]::available transition options::when to control" : [ 2 ],
 					"LFO Duty Cycle (bi)[1]::available transition options::tuba or button" : [ 1 ],
 					"LFO Swing Amount (uni)[1]::invert_control" : [ 0 ],
-					"LFO Swing Amount (uni)[1]::curve[1]" : [ 45.0 ],
+					"LFO Swing Amount (uni)[1]::curve[1]" : [ -46.338582677165327 ],
 					"LFO Swing Amount (uni)[1]::value to set when control relinquished" : [ 0.0 ],
 					"LFO Swing Amount (uni)[1]::curve polarity" : [ 0.0 ],
 					"LFO Swing Amount (uni)[1]::available transition options[1]::when to relinquish var1" : [ 0 ],

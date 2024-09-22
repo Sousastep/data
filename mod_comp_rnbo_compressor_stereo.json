@@ -16,11 +16,11 @@
 							"embed" : 1,
 							"snapshot" : 							{
 								"__sps" : 								{
-									"HighMid~" : 									{
+									"Compensation~" : 									{
 
 									}
 ,
-									"Compensation~" : 									{
+									"HighMid~" : 									{
 
 									}
 ,
@@ -38,21 +38,12 @@
 
 								}
 ,
-								"himidfq" : 								{
-									"value" : 1500.0
-								}
-,
 								"sustain" : 								{
 									"value" : 50.0
 								}
 ,
-								"attack" : 								{
-									"value" : 100.0
-								}
-,
-								"__presetid" : "compressor_stereo",
-								"softclip" : 								{
-									"value" : 1.0
+								"himidfq" : 								{
+									"value" : 1500.0
 								}
 ,
 								"comp" : 								{
@@ -67,6 +58,19 @@
 									"value" : -10.0
 								}
 ,
+								"attack" : 								{
+									"value" : 100.0
+								}
+,
+								"__presetid" : "compressor_stereo",
+								"softclip" : 								{
+									"value" : 1.0
+								}
+,
+								"weighting" : 								{
+									"value" : 1.0
+								}
+,
 								"lookahead" : 								{
 									"value" : 1.0
 								}
@@ -76,7 +80,8 @@
 						}
  ],
 					"preset" : [ 0 ],
-					"active" : [ "active", 1 ]
+					"active" : [ "active", 1 ],
+					"weighting" : [ 1 ]
 				}
 
 			}

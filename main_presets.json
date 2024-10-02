@@ -13,7 +13,7 @@
 					"sustain fx chooser::Pre-LPF_FX_randomize" : [ 5.0 ],
 					"post-crossfade fx chooser::Post-Crossfade_FX_plugin_choice" : [ 3, 0, 1.0 ],
 					"post-crossfade fx chooser::Post-Crossfade_FX_randomize" : [ 5.0 ],
-					"attack fx chooser::Dry-ish_FX_plugin_choice" : [ 3, 0, 1.0 ],
+					"attack fx chooser::Dry-ish_FX_plugin_choice" : [ 2, 0, 1.0 ],
 					"attack fx chooser::Dry-ish_FX_randomize" : [ 5.0 ],
 					"mod params::aux_power" : [ 0.0 ],
 					"mod params::aux_phase_offset" : [ 54.330708661417468 ],
@@ -21,14 +21,14 @@
 					"mod params::aux_yaxis" : [ 0.0 ],
 					"mod params::aux_SnTrSq" : [ 0 ],
 					"mod params::aux_route_menu" : [ 0 ],
-					"mod params::high_SnTrSq" : [ 2 ],
+					"mod params::high_SnTrSq" : [ 1 ],
 					"mod params::low_power" : [ -19.685039370078773 ],
-					"mod params::low_phase_offset" : [ 49.645669291338514 ],
+					"mod params::low_phase_offset" : [ 19.0 ],
 					"mod params::low_SnTrSq" : [ 0 ],
 					"mod params::low_duty_cycle" : [ 0.0 ],
 					"mod params::low_floor" : [ 0.0 ],
-					"mod params::verylow_power" : [ -24.409448818897729 ],
-					"mod params::verylow_phase_offset" : [ 19.149606299212675 ],
+					"mod params::verylow_power" : [ 0.0 ],
+					"mod params::verylow_phase_offset" : [ 49.0 ],
 					"mod params::verylow_SnTrSq" : [ 0 ],
 					"mod params::verylow_duty_cycle" : [ 0.0 ],
 					"mod params::verylow_floor" : [ 0.0 ],
@@ -41,7 +41,7 @@
 					"mod params::ceil_env_smooth" : [ 200.000000000000028 ],
 					"mod params::floor_env_smooth" : [ 200.000000000000028 ],
 					"mod params::diode-saturation" : [ 0.0 ],
-					"mod params::high_SnTrSq_randomize" : [ 1 ],
+					"mod params::high_SnTrSq_randomize" : [ 0 ],
 					"mod params::randomize-LPF-type" : [ 1 ],
 					"mod params::env sens[1]" : [ 1.196850393700789 ],
 					"mod params::high_pow" : [ -6.692913385826815 ],
@@ -93,7 +93,8 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [ 1 ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [ 1 ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [ 1 ],
-					"patcher[1]::Solo FX stutter tremolo filters" : [ 1 ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [ 1 ],
+					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [ 1 ]
 				}
 
 			}
@@ -189,7 +190,8 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
-					"patcher[1]::Solo FX stutter tremolo filters" : [  ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [  ],
+					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -285,7 +287,8 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
-					"patcher[1]::Solo FX stutter tremolo filters" : [  ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [  ],
+					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -381,7 +384,8 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
-					"patcher[1]::Solo FX stutter tremolo filters" : [  ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [  ],
+					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -477,7 +481,8 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
-					"patcher[1]::Solo FX stutter tremolo filters" : [  ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [  ],
+					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -573,7 +578,8 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
-					"patcher[1]::Solo FX stutter tremolo filters" : [  ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [  ],
+					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -669,7 +675,8 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
-					"patcher[1]::Solo FX stutter tremolo filters" : [  ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [  ],
+					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -765,7 +772,8 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
-					"patcher[1]::Solo FX stutter tremolo filters" : [  ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [  ],
+					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -861,7 +869,8 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
-					"patcher[1]::Solo FX stutter tremolo filters" : [  ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [  ],
+					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -957,7 +966,8 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
-					"patcher[1]::Solo FX stutter tremolo filters" : [  ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [  ],
+					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -1053,7 +1063,8 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
-					"patcher[1]::Solo FX stutter tremolo filters" : [  ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [  ],
+					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -1149,7 +1160,8 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
-					"patcher[1]::Solo FX stutter tremolo filters" : [  ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [  ],
+					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -1245,7 +1257,8 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
-					"patcher[1]::Solo FX stutter tremolo filters" : [  ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [  ],
+					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -1341,7 +1354,8 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
-					"patcher[1]::Solo FX stutter tremolo filters" : [  ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [  ],
+					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -1437,7 +1451,8 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
-					"patcher[1]::Solo FX stutter tremolo filters" : [  ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [  ],
+					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -1533,7 +1548,8 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
-					"patcher[1]::Solo FX stutter tremolo filters" : [  ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [  ],
+					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -1629,7 +1645,8 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
-					"patcher[1]::Solo FX stutter tremolo filters" : [  ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [  ],
+					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -1725,7 +1742,8 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
-					"patcher[1]::Solo FX stutter tremolo filters" : [  ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [  ],
+					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -1821,7 +1839,8 @@
 					"plugin_or_rnbo_selector[11]::plugin_selector[3]::Post-Crossfade_FX_plugin4_plugin" : [  ],
 					"plugin_or_rnbo_selector::solo_comp_rnbo_or_plugin" : [  ],
 					"FOH_and_monitor_mix::mon_and_foh_mix" : [  ],
-					"patcher[1]::Solo FX stutter tremolo filters" : [  ]
+					"patcher[1]::Solo FX stutter tremolo filters" : [  ],
+					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}

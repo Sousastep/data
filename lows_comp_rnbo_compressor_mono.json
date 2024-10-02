@@ -39,7 +39,7 @@
 								}
 ,
 								"lowboost" : 								{
-									"value" : 12.0
+									"value" : 9.0
 								}
 ,
 								"sustain" : 								{
@@ -47,11 +47,11 @@
 								}
 ,
 								"comp" : 								{
-									"value" : 45.0
+									"value" : 70.0
 								}
 ,
 								"lowfq" : 								{
-									"value" : 120.0
+									"value" : 130.0
 								}
 ,
 								"attack" : 								{
@@ -64,7 +64,7 @@
 								}
 ,
 								"volume" : 								{
-									"value" : 100.0
+									"value" : 8.0
 								}
 ,
 								"lookahead" : 								{

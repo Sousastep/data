@@ -76,7 +76,7 @@
 						}
  ],
 					"preset" : [ 0 ],
-					"active" : [ "active", 1 ]
+					"active" : [ "active", 0 ]
 				}
 
 			}

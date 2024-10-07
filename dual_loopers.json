@@ -38,11 +38,12 @@
 					"looper2::DJfilter::filter_boost" : [ 13.999999999999998 ],
 					"DJfilter::smooth_freq_mod" : [ 21.344361429481385 ],
 					"DJfilter::filter_boost" : [ 13.999999999999998 ],
-					"sousaFX_tremolo::duty" : [ 19.406132689494854 ],
+					"sousaFX_tremolo::duty" : [ 0.0 ],
 					"sousaFX_tremolo::phase" : [ 0.0 ],
 					"sousaFX_tremolo::smooth[1]" : [ 23.622047244094475 ],
 					"sousaFX_tremolo::boost[1]" : [ 2.5 ],
-					"sousaFX_tremolo::subdiv-mult" : [ 0.0 ]
+					"sousaFX_tremolo::subdiv-mult" : [ 0.0 ],
+					"allow stutter into looper" : [ 1 ]
 				}
 
 			}

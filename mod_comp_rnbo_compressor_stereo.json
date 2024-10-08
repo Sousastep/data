@@ -43,7 +43,7 @@
 								}
 ,
 								"himidfq" : 								{
-									"value" : 1200.0
+									"value" : 1000.0
 								}
 ,
 								"comp" : 								{
@@ -51,7 +51,7 @@
 								}
 ,
 								"himid" : 								{
-									"value" : 1.0
+									"value" : 12.0
 								}
 ,
 								"volume" : 								{
@@ -64,7 +64,7 @@
 ,
 								"__presetid" : "compressor_stereo",
 								"softclip" : 								{
-									"value" : 1.0
+									"value" : 0.0
 								}
 ,
 								"weighting" : 								{

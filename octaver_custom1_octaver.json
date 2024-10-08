@@ -10,7 +10,7 @@
 					"pitchslidedown" : [ 9600 ],
 					"pitchquantize" : [ 0 ],
 					"lowrange" : [ 20.0 ],
-					"highrange" : [ 78.0 ],
+					"highrange" : [ 50.0 ],
 					"enablesweepdown" : [ 0 ],
 					"freq_detect" : [ 0 ]
 				}

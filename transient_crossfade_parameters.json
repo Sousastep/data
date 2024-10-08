@@ -13,7 +13,7 @@
 					"lock_low_mod" : [ 0 ],
 					"lock_very_low_mod" : [ 0 ],
 					"low_crossfade_offset" : [ 48.031496062992282 ],
-					"crossfade_env_sens" : [ 0.8 ],
+					"crossfade_env_sens" : [ 1.05213998618533 ],
 					"mix_env_logic::env_bottom" : [ 10.0 ],
 					"mix_env_logic::env_top" : [ 90.0 ],
 					"mix_env_logic::easing_function" : [ 1 ],

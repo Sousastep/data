@@ -5,7 +5,7 @@
 			"1" : 			{
 				"id" : 1,
 				"data" : 				{
-					"submix" : [ 22.834645669291326 ],
+					"submix" : [ 26.0 ],
 					"pitchslideup" : [ 4800 ],
 					"pitchslidedown" : [ 9600 ],
 					"pitchquantize" : [ 0 ],

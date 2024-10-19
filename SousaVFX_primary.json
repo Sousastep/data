@@ -3029,10 +3029,10 @@
 			"217" : 			{
 				"id" : 217,
 				"data" : 				{
-					"primary-preset-description" : [ "single circle dub" ],
+					"primary-preset-description" : [ "single circle dub w dude" ],
 					"blur_enable" : [ 0.0 ],
 					"torus_knot_preset_number" : [ 0 ],
-					"dude_shader_preset_number" : [ 0 ],
+					"dude_shader_preset_number" : [ 5 ],
 					"scrolling_text_preset_number" : [ 0 ],
 					"shapes_preset_number" : [ 13 ],
 					"ISF_preset_number" : [ 0 ]

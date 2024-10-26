@@ -2710,7 +2710,7 @@
 					"SingleShapePositionZ::rslider" : [ 0.37, 0.487 ],
 					"SingleShapePositionZ::slide_down" : [ 12 ],
 					"SingleShapePositionZ::slide_up" : [ 0 ],
-					"SingleShapePositionZ::function_visualizer_clear_line::function_visualizer_floats::function" : [ 1.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 1.0, 1.0, 0, -0.645, "curve" ],
+					"SingleShapePositionZ::function_visualizer_clear_line::function_visualizer_floats::function" : [ 1.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 1.0, 1.0, 0, 0.0, "curve" ],
 					"SingleShapePositionX::invert" : [ 0.0 ],
 					"SingleShapePositionX::linkphasor_rate" : [ 6.0 ],
 					"SingleShapePositionX::param_ctrl" : [ 1.0 ],

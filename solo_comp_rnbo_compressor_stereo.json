@@ -39,7 +39,7 @@
 								}
 ,
 								"sustain" : 								{
-									"value" : 36.0
+									"value" : 80.0
 								}
 ,
 								"himidfq" : 								{
@@ -47,15 +47,15 @@
 								}
 ,
 								"comp" : 								{
-									"value" : 36.0
+									"value" : 55.0
 								}
 ,
 								"himid" : 								{
-									"value" : 6.0
+									"value" : 0.0
 								}
 ,
 								"volume" : 								{
-									"value" : -4.0
+									"value" : -9.0
 								}
 ,
 								"attack" : 								{

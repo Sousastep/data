@@ -6,13 +6,13 @@
 				"id" : 1,
 				"data" : 				{
 					"submix" : [ 26.0 ],
-					"pitchslideup" : [ 4800 ],
-					"pitchslidedown" : [ 9600 ],
+					"pitchslideup" : [ 480 ],
+					"pitchslidedown" : [ 480 ],
 					"pitchquantize" : [ 0 ],
 					"lowrange" : [ 20.0 ],
-					"highrange" : [ 75.0 ],
+					"highrange" : [ 100.0 ],
 					"enablesweepdown" : [ 0 ],
-					"freq_detect" : [ 0 ]
+					"freq_detect" : [ 1 ]
 				}
 
 			}

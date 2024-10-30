@@ -39,7 +39,7 @@
 								}
 ,
 								"sustain" : 								{
-									"value" : 50.0
+									"value" : 85.0
 								}
 ,
 								"himidfq" : 								{
@@ -47,11 +47,11 @@
 								}
 ,
 								"comp" : 								{
-									"value" : 60.0
+									"value" : 65.0
 								}
 ,
 								"himid" : 								{
-									"value" : 6.0
+									"value" : 10.0
 								}
 ,
 								"volume" : 								{
@@ -59,7 +59,7 @@
 								}
 ,
 								"attack" : 								{
-									"value" : 100.0
+									"value" : 50.0
 								}
 ,
 								"__presetid" : "compressor_stereo",
@@ -72,7 +72,7 @@
 								}
 ,
 								"lookahead" : 								{
-									"value" : 0.0
+									"value" : 1.0
 								}
 
 							}

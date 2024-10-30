@@ -16,7 +16,7 @@
 							"embed" : 1,
 							"snapshot" : 							{
 								"release" : 								{
-									"value" : 180.0
+									"value" : 90.0
 								}
 ,
 								"__presetid" : "limiter",
@@ -29,7 +29,7 @@
 								}
 ,
 								"gain" : 								{
-									"value" : 7.0
+									"value" : 8.0
 								}
 ,
 								"lookahead" : 								{

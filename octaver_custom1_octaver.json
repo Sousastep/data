@@ -5,14 +5,19 @@
 			"1" : 			{
 				"id" : 1,
 				"data" : 				{
-					"submix" : [ 26.0 ],
+					"submix" : [ 50.0 ],
 					"pitchslideup" : [ 480 ],
 					"pitchslidedown" : [ 480 ],
-					"pitchquantize" : [ 0 ],
+					"pitchquantize" : [ 1 ],
 					"lowrange" : [ 20.0 ],
 					"highrange" : [ 100.0 ],
 					"enablesweepdown" : [ 0 ],
-					"freq_detect" : [ 1 ]
+					"freq_detect" : [ 1 ],
+					"filter_boost" : [ 10.0 ],
+					"freq" : [ 30.000000000000004 ],
+					"rez" : [ 3.0 ],
+					"boost" : [ 10.0 ],
+					"filteractive" : [ 1.0 ]
 				}
 
 			}

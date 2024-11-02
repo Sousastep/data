@@ -47,7 +47,7 @@
 								}
 ,
 								"comp" : 								{
-									"value" : 70.0
+									"value" : 100.0
 								}
 ,
 								"lowfq" : 								{
@@ -64,7 +64,7 @@
 								}
 ,
 								"volume" : 								{
-									"value" : 12.0
+									"value" : 0.0
 								}
 ,
 								"lookahead" : 								{

@@ -55,11 +55,11 @@
 								}
 ,
 								"volume" : 								{
-									"value" : -9.0
+									"value" : -6.0
 								}
 ,
 								"attack" : 								{
-									"value" : 100.0
+									"value" : 50.0
 								}
 ,
 								"__presetid" : "compressor_stereo",

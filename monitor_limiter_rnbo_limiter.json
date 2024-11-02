@@ -21,7 +21,7 @@
 ,
 								"__presetid" : "limiter",
 								"attack" : 								{
-									"value" : 30.0
+									"value" : 1.0
 								}
 ,
 								"thresh" : 								{
@@ -29,11 +29,11 @@
 								}
 ,
 								"gain" : 								{
-									"value" : 8.0
+									"value" : 6.0
 								}
 ,
 								"lookahead" : 								{
-									"value" : 0.1
+									"value" : 1.0
 								}
 
 							}

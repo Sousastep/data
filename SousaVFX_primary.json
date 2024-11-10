@@ -327,7 +327,7 @@
 			"24" : 			{
 				"id" : 24,
 				"data" : 				{
-					"primary-preset-description" : [ "" ],
+					"primary-preset-description" : [ "polar idle" ],
 					"blur_enable" : [ 0.0 ],
 					"torus_knot_preset_number" : [ 0 ],
 					"dude_shader_preset_number" : [ 0 ],
@@ -733,7 +733,7 @@
 			"53" : 			{
 				"id" : 53,
 				"data" : 				{
-					"primary-preset-description" : [ "" ],
+					"primary-preset-description" : [ "fluid idle" ],
 					"blur_enable" : [ 0.0 ],
 					"torus_knot_preset_number" : [ 0 ],
 					"dude_shader_preset_number" : [ 0 ],
@@ -1433,7 +1433,7 @@
 			"103" : 			{
 				"id" : 103,
 				"data" : 				{
-					"primary-preset-description" : [ "" ],
+					"primary-preset-description" : [ "spiral idle" ],
 					"blur_enable" : [ 0.0 ],
 					"torus_knot_preset_number" : [ 0 ],
 					"dude_shader_preset_number" : [ 0 ],
@@ -3057,12 +3057,12 @@
 			"219" : 			{
 				"id" : 219,
 				"data" : 				{
-					"primary-preset-description" : [ "" ],
+					"primary-preset-description" : [ "idle cube" ],
 					"blur_enable" : [ 0.0 ],
 					"torus_knot_preset_number" : [ 0 ],
-					"dude_shader_preset_number" : [ 0 ],
+					"dude_shader_preset_number" : [ 6 ],
 					"scrolling_text_preset_number" : [ 0 ],
-					"shapes_preset_number" : [ 0 ],
+					"shapes_preset_number" : [ 17 ],
 					"ISF_preset_number" : [ 0 ]
 				}
 

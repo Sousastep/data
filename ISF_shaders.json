@@ -350,6 +350,35 @@
 
 			}
 ,
+			"24" : 			{
+				"id" : 24,
+				"data" : 				{
+					"UI_CandyWarp::candywarp" : [ 1 ],
+					"UI_Pinwheel::pinwheel" : [ 1 ],
+					"UI_PolarGradient::polargradient" : [ 4 ],
+					"UI_RainbowGlowRing::rainbowglowring" : [ 1 ],
+					"UI_SpaceSpore::spacespore" : [ 1 ],
+					"ISF_shader_brightness::invert" : [ 0.0 ],
+					"ISF_shader_brightness::linkphasor_rate" : [ 1.0 ],
+					"ISF_shader_brightness::param_ctrl" : [ 0.0 ],
+					"ISF_shader_brightness::pitch_range_high" : [ 340.0 ],
+					"ISF_shader_brightness::pitch_range_low" : [ 70.0 ],
+					"ISF_shader_brightness::rslider" : [ 1.0, 1.0 ],
+					"ISF_shader_brightness::slide_down" : [ 0 ],
+					"ISF_shader_brightness::slide_up" : [ 0 ],
+					"ISF_shader_brightness::function_visualizer_clear_line::function_visualizer_floats::function" : [ 1.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 1.0, 1.0, 0, 0.0, "curve" ],
+					"UI_FluidFlowSNoise::fluidflowsnoise" : [ 1 ],
+					"UI_VoronoiDuplex::voronoiduplex" : [ 1 ],
+					"UI_ButterflyEffect::butterflyeffect" : [ 1 ],
+					"UI_ColorDiffusionFlow::colordiffusionflow" : [ 1 ],
+					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
+					"ISF-pattrstorage::preset-description" : [ "polar idle" ],
+					"UI_Spiral::spiral" : [ -1 ],
+					"UI_PolyStar::polystar" : [ -1 ]
+				}
+
+			}
+,
 			"31" : 			{
 				"id" : 31,
 				"data" : 				{
@@ -723,6 +752,35 @@
 					"ISF-pattrstorage::preset-description" : [ "fluid dub 1" ],
 					"UI_Spiral::spiral" : [  ],
 					"UI_PolyStar::polystar" : [  ]
+				}
+
+			}
+,
+			"53" : 			{
+				"id" : 53,
+				"data" : 				{
+					"UI_CandyWarp::candywarp" : [ 1 ],
+					"UI_Pinwheel::pinwheel" : [ 1 ],
+					"UI_PolarGradient::polargradient" : [ -1 ],
+					"UI_RainbowGlowRing::rainbowglowring" : [ 1 ],
+					"UI_SpaceSpore::spacespore" : [ 1 ],
+					"ISF_shader_brightness::invert" : [ 0.0 ],
+					"ISF_shader_brightness::linkphasor_rate" : [ 1.0 ],
+					"ISF_shader_brightness::param_ctrl" : [ 0.0 ],
+					"ISF_shader_brightness::pitch_range_high" : [ 340.0 ],
+					"ISF_shader_brightness::pitch_range_low" : [ 70.0 ],
+					"ISF_shader_brightness::rslider" : [ 1.0, 1.0 ],
+					"ISF_shader_brightness::slide_down" : [ 0 ],
+					"ISF_shader_brightness::slide_up" : [ 0 ],
+					"ISF_shader_brightness::function_visualizer_clear_line::function_visualizer_floats::function" : [ 1.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 1.0, 1.0, 0, 0.0, "curve" ],
+					"UI_FluidFlowSNoise::fluidflowsnoise" : [ 3 ],
+					"UI_VoronoiDuplex::voronoiduplex" : [ 1 ],
+					"UI_ButterflyEffect::butterflyeffect" : [ 1 ],
+					"UI_ColorDiffusionFlow::colordiffusionflow" : [ 1 ],
+					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
+					"ISF-pattrstorage::preset-description" : [ "fluid idle" ],
+					"UI_Spiral::spiral" : [ 1 ],
+					"UI_PolyStar::polystar" : [ -1 ]
 				}
 
 			}
@@ -1302,6 +1360,35 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "spiral dub 1" ],
 					"UI_Spiral::spiral" : [ 2 ],
+					"UI_PolyStar::polystar" : [ -1 ]
+				}
+
+			}
+,
+			"103" : 			{
+				"id" : 103,
+				"data" : 				{
+					"UI_CandyWarp::candywarp" : [ 1 ],
+					"UI_Pinwheel::pinwheel" : [ 1 ],
+					"UI_PolarGradient::polargradient" : [ -1 ],
+					"UI_RainbowGlowRing::rainbowglowring" : [ 1 ],
+					"UI_SpaceSpore::spacespore" : [ 1 ],
+					"ISF_shader_brightness::invert" : [ 0.0 ],
+					"ISF_shader_brightness::linkphasor_rate" : [ 1.0 ],
+					"ISF_shader_brightness::param_ctrl" : [ 0.0 ],
+					"ISF_shader_brightness::pitch_range_high" : [ 340.0 ],
+					"ISF_shader_brightness::pitch_range_low" : [ 70.0 ],
+					"ISF_shader_brightness::rslider" : [ 0.997573178978856, 0.997573178978856 ],
+					"ISF_shader_brightness::slide_down" : [ 0 ],
+					"ISF_shader_brightness::slide_up" : [ 0 ],
+					"ISF_shader_brightness::function_visualizer_clear_line::function_visualizer_floats::function" : [ 1.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 1.0, 1.0, 0, 0.0, "curve" ],
+					"UI_FluidFlowSNoise::fluidflowsnoise" : [ -1 ],
+					"UI_VoronoiDuplex::voronoiduplex" : [ 1 ],
+					"UI_ButterflyEffect::butterflyeffect" : [ 1 ],
+					"UI_ColorDiffusionFlow::colordiffusionflow" : [ 1 ],
+					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
+					"ISF-pattrstorage::preset-description" : [ "spiral idle" ],
+					"UI_Spiral::spiral" : [ 3 ],
 					"UI_PolyStar::polystar" : [ -1 ]
 				}
 

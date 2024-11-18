@@ -11,7 +11,8 @@
 					"VFX rig" : [ 1 ],
 					"playback rig" : [ 2 ],
 					"custom playback file" : [ "\"Macintosh HD:/Users/jbaylies/Documents/Max 8/Projects/sousastep/SousaPlayback Project/SousaPlaybackPlugins.als\"" ],
-					"Drum Machine" : [ 1 ]
+					"Drum Machine" : [ 1 ],
+					"scripts" : [ "Streaming PC Launcher" ]
 				}
 
 			}

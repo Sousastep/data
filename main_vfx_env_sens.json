@@ -6,8 +6,8 @@
 				"id" : 1,
 				"data" : 				{
 					"env_sens" : [ 0.0 ],
-					"fps-init" : [ 60 ],
-					"global_brightness" : [ 15.35025432255599 ]
+					"fps-init" : [ 140 ],
+					"global_brightness" : [ 14.035265865807409 ]
 				}
 
 			}

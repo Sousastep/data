@@ -26,7 +26,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "default blank" ],
 					"UI_Spiral::spiral" : [  ],
-					"UI_PolyStar::polystar" : [  ]
+					"UI_PolyStar::polystar" : [  ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -55,7 +56,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "candy aco 1" ],
 					"UI_Spiral::spiral" : [  ],
-					"UI_PolyStar::polystar" : [  ]
+					"UI_PolyStar::polystar" : [  ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -84,7 +86,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "candy dub 1" ],
 					"UI_Spiral::spiral" : [  ],
-					"UI_PolyStar::polystar" : [  ]
+					"UI_PolyStar::polystar" : [  ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -113,7 +116,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "candy dub 2" ],
 					"UI_Spiral::spiral" : [ -1 ],
-					"UI_PolyStar::polystar" : [ -1 ]
+					"UI_PolyStar::polystar" : [ -1 ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -142,7 +146,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "pin blank" ],
 					"UI_Spiral::spiral" : [  ],
-					"UI_PolyStar::polystar" : [  ]
+					"UI_PolyStar::polystar" : [  ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -171,7 +176,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "pinwheel aco 1" ],
 					"UI_Spiral::spiral" : [  ],
-					"UI_PolyStar::polystar" : [  ]
+					"UI_PolyStar::polystar" : [  ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -200,7 +206,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "pinwheel dub 1" ],
 					"UI_Spiral::spiral" : [  ],
-					"UI_PolyStar::polystar" : [  ]
+					"UI_PolyStar::polystar" : [  ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -229,7 +236,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ -1 ],
 					"ISF-pattrstorage::preset-description" : [ "pinwheel idle" ],
 					"UI_Spiral::spiral" : [  ],
-					"UI_PolyStar::polystar" : [  ]
+					"UI_PolyStar::polystar" : [  ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -258,7 +266,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "pinwheel dub 2" ],
 					"UI_Spiral::spiral" : [  ],
-					"UI_PolyStar::polystar" : [  ]
+					"UI_PolyStar::polystar" : [  ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -287,7 +296,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "pol blank" ],
 					"UI_Spiral::spiral" : [  ],
-					"UI_PolyStar::polystar" : [  ]
+					"UI_PolyStar::polystar" : [  ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -316,7 +326,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "polar aco 1" ],
 					"UI_Spiral::spiral" : [  ],
-					"UI_PolyStar::polystar" : [  ]
+					"UI_PolyStar::polystar" : [  ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -345,7 +356,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "polar dub 1" ],
 					"UI_Spiral::spiral" : [ -1 ],
-					"UI_PolyStar::polystar" : [ -1 ]
+					"UI_PolyStar::polystar" : [ -1 ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -374,7 +386,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "polar idle" ],
 					"UI_Spiral::spiral" : [ -1 ],
-					"UI_PolyStar::polystar" : [ -1 ]
+					"UI_PolyStar::polystar" : [ -1 ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -403,7 +416,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "glow blank" ],
 					"UI_Spiral::spiral" : [  ],
-					"UI_PolyStar::polystar" : [  ]
+					"UI_PolyStar::polystar" : [  ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -432,7 +446,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "glowring aco 1" ],
 					"UI_Spiral::spiral" : [  ],
-					"UI_PolyStar::polystar" : [  ]
+					"UI_PolyStar::polystar" : [  ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -461,7 +476,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "glowring dub 1" ],
 					"UI_Spiral::spiral" : [  ],
-					"UI_PolyStar::polystar" : [  ]
+					"UI_PolyStar::polystar" : [  ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -490,7 +506,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "glowring dub 2" ],
 					"UI_Spiral::spiral" : [ -1 ],
-					"UI_PolyStar::polystar" : [ -1 ]
+					"UI_PolyStar::polystar" : [ -1 ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -519,7 +536,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ -1 ],
 					"ISF-pattrstorage::preset-description" : [ "glowring idle" ],
 					"UI_Spiral::spiral" : [  ],
-					"UI_PolyStar::polystar" : [  ]
+					"UI_PolyStar::polystar" : [  ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -548,7 +566,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "spore blank" ],
 					"UI_Spiral::spiral" : [  ],
-					"UI_PolyStar::polystar" : [  ]
+					"UI_PolyStar::polystar" : [  ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -577,7 +596,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "spore acoustic 1" ],
 					"UI_Spiral::spiral" : [  ],
-					"UI_PolyStar::polystar" : [  ]
+					"UI_PolyStar::polystar" : [  ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -606,7 +626,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "spore dub 1" ],
 					"UI_Spiral::spiral" : [  ],
-					"UI_PolyStar::polystar" : [  ]
+					"UI_PolyStar::polystar" : [  ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -635,7 +656,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "spore dub 2" ],
 					"UI_Spiral::spiral" : [ -1 ],
-					"UI_PolyStar::polystar" : [ -1 ]
+					"UI_PolyStar::polystar" : [ -1 ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -664,7 +686,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "spore dub 3" ],
 					"UI_Spiral::spiral" : [  ],
-					"UI_PolyStar::polystar" : [  ]
+					"UI_PolyStar::polystar" : [  ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -693,7 +716,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "spore idle" ],
 					"UI_Spiral::spiral" : [  ],
-					"UI_PolyStar::polystar" : [  ]
+					"UI_PolyStar::polystar" : [  ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -722,7 +746,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "fluid blank" ],
 					"UI_Spiral::spiral" : [  ],
-					"UI_PolyStar::polystar" : [  ]
+					"UI_PolyStar::polystar" : [  ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -751,7 +776,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "fluid dub 1" ],
 					"UI_Spiral::spiral" : [  ],
-					"UI_PolyStar::polystar" : [  ]
+					"UI_PolyStar::polystar" : [  ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -780,7 +806,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "fluid idle" ],
 					"UI_Spiral::spiral" : [ 1 ],
-					"UI_PolyStar::polystar" : [ -1 ]
+					"UI_PolyStar::polystar" : [ -1 ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -809,7 +836,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "voro blank" ],
 					"UI_Spiral::spiral" : [  ],
-					"UI_PolyStar::polystar" : [  ]
+					"UI_PolyStar::polystar" : [  ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -838,7 +866,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ -1 ],
 					"ISF-pattrstorage::preset-description" : [ "vor dub 1" ],
 					"UI_Spiral::spiral" : [  ],
-					"UI_PolyStar::polystar" : [  ]
+					"UI_PolyStar::polystar" : [  ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -867,7 +896,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "voro acou 1" ],
 					"UI_Spiral::spiral" : [  ],
-					"UI_PolyStar::polystar" : [  ]
+					"UI_PolyStar::polystar" : [  ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -896,7 +926,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "vor dub 2" ],
 					"UI_Spiral::spiral" : [ -1 ],
-					"UI_PolyStar::polystar" : [ -1 ]
+					"UI_PolyStar::polystar" : [ -1 ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -925,7 +956,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "butter blank" ],
 					"UI_Spiral::spiral" : [  ],
-					"UI_PolyStar::polystar" : [  ]
+					"UI_PolyStar::polystar" : [  ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -954,7 +986,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "butter dub 1" ],
 					"UI_Spiral::spiral" : [ -1 ],
-					"UI_PolyStar::polystar" : [ -1 ]
+					"UI_PolyStar::polystar" : [ -1 ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -983,7 +1016,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "butter dub 2" ],
 					"UI_Spiral::spiral" : [  ],
-					"UI_PolyStar::polystar" : [  ]
+					"UI_PolyStar::polystar" : [  ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -1012,7 +1046,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "butterfly acou 1" ],
 					"UI_Spiral::spiral" : [  ],
-					"UI_PolyStar::polystar" : [  ]
+					"UI_PolyStar::polystar" : [  ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -1041,7 +1076,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "butter idle" ],
 					"UI_Spiral::spiral" : [  ],
-					"UI_PolyStar::polystar" : [  ]
+					"UI_PolyStar::polystar" : [  ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -1070,7 +1106,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "color blank" ],
 					"UI_Spiral::spiral" : [  ],
-					"UI_PolyStar::polystar" : [  ]
+					"UI_PolyStar::polystar" : [  ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -1099,7 +1136,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ -1 ],
 					"ISF-pattrstorage::preset-description" : [ "color idle" ],
 					"UI_Spiral::spiral" : [  ],
-					"UI_PolyStar::polystar" : [  ]
+					"UI_PolyStar::polystar" : [  ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -1128,7 +1166,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "color dub 1" ],
 					"UI_Spiral::spiral" : [ -1 ],
-					"UI_PolyStar::polystar" : [ -1 ]
+					"UI_PolyStar::polystar" : [ -1 ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -1157,7 +1196,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ -1 ],
 					"ISF-pattrstorage::preset-description" : [ "color dub 2" ],
 					"UI_Spiral::spiral" : [  ],
-					"UI_PolyStar::polystar" : [  ]
+					"UI_PolyStar::polystar" : [  ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -1186,7 +1226,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "color aco 1" ],
 					"UI_Spiral::spiral" : [  ],
-					"UI_PolyStar::polystar" : [  ]
+					"UI_PolyStar::polystar" : [  ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -1215,7 +1256,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "bao blank" ],
 					"UI_Spiral::spiral" : [  ],
-					"UI_PolyStar::polystar" : [  ]
+					"UI_PolyStar::polystar" : [  ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -1244,7 +1286,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 2 ],
 					"ISF-pattrstorage::preset-description" : [ "baobabs idle" ],
 					"UI_Spiral::spiral" : [  ],
-					"UI_PolyStar::polystar" : [  ]
+					"UI_PolyStar::polystar" : [  ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -1273,7 +1316,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 3 ],
 					"ISF-pattrstorage::preset-description" : [ "bao dub 1" ],
 					"UI_Spiral::spiral" : [  ],
-					"UI_PolyStar::polystar" : [  ]
+					"UI_PolyStar::polystar" : [  ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -1302,7 +1346,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 4 ],
 					"ISF-pattrstorage::preset-description" : [ "baobab aco 1" ],
 					"UI_Spiral::spiral" : [  ],
-					"UI_PolyStar::polystar" : [  ]
+					"UI_PolyStar::polystar" : [  ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -1331,7 +1376,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "spiral blank" ],
 					"UI_Spiral::spiral" : [ 1 ],
-					"UI_PolyStar::polystar" : [  ]
+					"UI_PolyStar::polystar" : [  ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -1360,7 +1406,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "spiral dub 1" ],
 					"UI_Spiral::spiral" : [ 2 ],
-					"UI_PolyStar::polystar" : [ -1 ]
+					"UI_PolyStar::polystar" : [ -1 ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -1389,7 +1436,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "spiral idle" ],
 					"UI_Spiral::spiral" : [ 3 ],
-					"UI_PolyStar::polystar" : [ -1 ]
+					"UI_PolyStar::polystar" : [ -1 ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -1418,7 +1466,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ -1 ],
 					"ISF-pattrstorage::preset-description" : [ "polystar blank" ],
 					"UI_Spiral::spiral" : [ 1 ],
-					"UI_PolyStar::polystar" : [ 1 ]
+					"UI_PolyStar::polystar" : [ 1 ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -1447,7 +1496,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "polystar dub 1" ],
 					"UI_Spiral::spiral" : [ 1 ],
-					"UI_PolyStar::polystar" : [ 2 ]
+					"UI_PolyStar::polystar" : [ 2 ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -1476,7 +1526,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "polystar blank" ],
 					"UI_Spiral::spiral" : [ 1 ],
-					"UI_PolyStar::polystar" : [ 3 ]
+					"UI_PolyStar::polystar" : [ 3 ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -1505,7 +1556,8 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "polystar blank" ],
 					"UI_Spiral::spiral" : [ 1 ],
-					"UI_PolyStar::polystar" : [ 4 ]
+					"UI_PolyStar::polystar" : [ 4 ],
+					"UI_Checkerboard::checkerboard" : [  ]
 				}
 
 			}
@@ -1534,7 +1586,128 @@
 					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
 					"ISF-pattrstorage::preset-description" : [ "polystar blank" ],
 					"UI_Spiral::spiral" : [ 1 ],
-					"UI_PolyStar::polystar" : [ 5 ]
+					"UI_PolyStar::polystar" : [ 5 ],
+					"UI_Checkerboard::checkerboard" : [  ]
+				}
+
+			}
+,
+			"121" : 			{
+				"id" : 121,
+				"data" : 				{
+					"UI_CandyWarp::candywarp" : [ -1 ],
+					"UI_Pinwheel::pinwheel" : [ -1 ],
+					"UI_PolarGradient::polargradient" : [ -1 ],
+					"UI_RainbowGlowRing::rainbowglowring" : [ -1 ],
+					"UI_SpaceSpore::spacespore" : [ -1 ],
+					"ISF_shader_brightness::invert" : [ 0.0 ],
+					"ISF_shader_brightness::linkphasor_rate" : [ 1.0 ],
+					"ISF_shader_brightness::param_ctrl" : [ 0.0 ],
+					"ISF_shader_brightness::pitch_range_high" : [ 340.0 ],
+					"ISF_shader_brightness::pitch_range_low" : [ 70.0 ],
+					"ISF_shader_brightness::rslider" : [ 1.0, 1.0 ],
+					"ISF_shader_brightness::slide_down" : [ 0 ],
+					"ISF_shader_brightness::slide_up" : [ 0 ],
+					"ISF_shader_brightness::function_visualizer_clear_line::function_visualizer_floats::function" : [ 1.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 1.0, 1.0, 0, 0.0, "curve" ],
+					"UI_FluidFlowSNoise::fluidflowsnoise" : [ -1 ],
+					"UI_VoronoiDuplex::voronoiduplex" : [ -1 ],
+					"UI_ButterflyEffect::butterflyeffect" : [ -1 ],
+					"UI_ColorDiffusionFlow::colordiffusionflow" : [ -1 ],
+					"UI_PlanetOfBaobabs::planetofbaobabs" : [ -1 ],
+					"ISF-pattrstorage::preset-description" : [ "checkerboard blank" ],
+					"UI_Spiral::spiral" : [ -1 ],
+					"UI_PolyStar::polystar" : [ 1 ],
+					"UI_Checkerboard::checkerboard" : [ 1 ]
+				}
+
+			}
+,
+			"122" : 			{
+				"id" : 122,
+				"data" : 				{
+					"UI_CandyWarp::candywarp" : [ 1 ],
+					"UI_Pinwheel::pinwheel" : [ -1 ],
+					"UI_PolarGradient::polargradient" : [ -1 ],
+					"UI_RainbowGlowRing::rainbowglowring" : [ -1 ],
+					"UI_SpaceSpore::spacespore" : [ -1 ],
+					"ISF_shader_brightness::invert" : [ 0.0 ],
+					"ISF_shader_brightness::linkphasor_rate" : [ 1.0 ],
+					"ISF_shader_brightness::param_ctrl" : [ 0.0 ],
+					"ISF_shader_brightness::pitch_range_high" : [ 340.0 ],
+					"ISF_shader_brightness::pitch_range_low" : [ 70.0 ],
+					"ISF_shader_brightness::rslider" : [ 1.0, 1.0 ],
+					"ISF_shader_brightness::slide_down" : [ 0 ],
+					"ISF_shader_brightness::slide_up" : [ 0 ],
+					"ISF_shader_brightness::function_visualizer_clear_line::function_visualizer_floats::function" : [ 1.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 1.0, 1.0, 0, 0.0, "curve" ],
+					"UI_FluidFlowSNoise::fluidflowsnoise" : [ -1 ],
+					"UI_VoronoiDuplex::voronoiduplex" : [ -1 ],
+					"UI_ButterflyEffect::butterflyeffect" : [ -1 ],
+					"UI_ColorDiffusionFlow::colordiffusionflow" : [ -1 ],
+					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
+					"ISF-pattrstorage::preset-description" : [ "checkerboard idle" ],
+					"UI_Spiral::spiral" : [ -1 ],
+					"UI_PolyStar::polystar" : [ 1 ],
+					"UI_Checkerboard::checkerboard" : [ 2 ]
+				}
+
+			}
+,
+			"123" : 			{
+				"id" : 123,
+				"data" : 				{
+					"UI_CandyWarp::candywarp" : [ 1 ],
+					"UI_Pinwheel::pinwheel" : [ -1 ],
+					"UI_PolarGradient::polargradient" : [ -1 ],
+					"UI_RainbowGlowRing::rainbowglowring" : [ -1 ],
+					"UI_SpaceSpore::spacespore" : [ -1 ],
+					"ISF_shader_brightness::invert" : [ 0.0 ],
+					"ISF_shader_brightness::linkphasor_rate" : [ 1.0 ],
+					"ISF_shader_brightness::param_ctrl" : [ 0.0 ],
+					"ISF_shader_brightness::pitch_range_high" : [ 340.0 ],
+					"ISF_shader_brightness::pitch_range_low" : [ 70.0 ],
+					"ISF_shader_brightness::rslider" : [ 1.0, 1.0 ],
+					"ISF_shader_brightness::slide_down" : [ 0 ],
+					"ISF_shader_brightness::slide_up" : [ 0 ],
+					"ISF_shader_brightness::function_visualizer_clear_line::function_visualizer_floats::function" : [ 1.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 1.0, 1.0, 0, 0.0, "curve" ],
+					"UI_FluidFlowSNoise::fluidflowsnoise" : [ -1 ],
+					"UI_VoronoiDuplex::voronoiduplex" : [ -1 ],
+					"UI_ButterflyEffect::butterflyeffect" : [ -1 ],
+					"UI_ColorDiffusionFlow::colordiffusionflow" : [ -1 ],
+					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
+					"ISF-pattrstorage::preset-description" : [ "checkerboard idle 2" ],
+					"UI_Spiral::spiral" : [ -1 ],
+					"UI_PolyStar::polystar" : [ 1 ],
+					"UI_Checkerboard::checkerboard" : [ 3 ]
+				}
+
+			}
+,
+			"124" : 			{
+				"id" : 124,
+				"data" : 				{
+					"UI_CandyWarp::candywarp" : [ 1 ],
+					"UI_Pinwheel::pinwheel" : [ -1 ],
+					"UI_PolarGradient::polargradient" : [ -1 ],
+					"UI_RainbowGlowRing::rainbowglowring" : [ -1 ],
+					"UI_SpaceSpore::spacespore" : [ -1 ],
+					"ISF_shader_brightness::invert" : [ 0.0 ],
+					"ISF_shader_brightness::linkphasor_rate" : [ 1.0 ],
+					"ISF_shader_brightness::param_ctrl" : [ 0.0 ],
+					"ISF_shader_brightness::pitch_range_high" : [ 340.0 ],
+					"ISF_shader_brightness::pitch_range_low" : [ 70.0 ],
+					"ISF_shader_brightness::rslider" : [ 1.0, 1.0 ],
+					"ISF_shader_brightness::slide_down" : [ 0 ],
+					"ISF_shader_brightness::slide_up" : [ 0 ],
+					"ISF_shader_brightness::function_visualizer_clear_line::function_visualizer_floats::function" : [ 1.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 1.0, 1.0, 0, 0.0, "curve" ],
+					"UI_FluidFlowSNoise::fluidflowsnoise" : [ -1 ],
+					"UI_VoronoiDuplex::voronoiduplex" : [ -1 ],
+					"UI_ButterflyEffect::butterflyeffect" : [ -1 ],
+					"UI_ColorDiffusionFlow::colordiffusionflow" : [ -1 ],
+					"UI_PlanetOfBaobabs::planetofbaobabs" : [ 1 ],
+					"ISF-pattrstorage::preset-description" : [ "checkerboard idle 3" ],
+					"UI_Spiral::spiral" : [ -1 ],
+					"UI_PolyStar::polystar" : [ 1 ],
+					"UI_Checkerboard::checkerboard" : [ 4 ]
 				}
 
 			}

@@ -5,7 +5,8 @@
 			"1" : 			{
 				"id" : 1,
 				"data" : 				{
-					"gen_or_plugin" : [ 0 ]
+					"gen_or_plugin" : [ 1 ],
+					"show_status::SousaFX_Audio_Status::Audio_Status[1]" : [ -1 ]
 				}
 
 			}

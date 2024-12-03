@@ -10,7 +10,7 @@
 					"auto-rec" : [ 0 ],
 					"num b4 auto-rec" : [ 3 ],
 					"play random riser" : [ 1 ],
-					"looper triggers tempo change" : [ 1 ],
+					"looper triggers tempo change" : [ 0 ],
 					"number b4 tempo change" : [ 2 ],
 					"when to disable soloFX" : [ 1 ],
 					"droplet" : [ 1 ],

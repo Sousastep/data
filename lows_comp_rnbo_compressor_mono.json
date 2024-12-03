@@ -39,7 +39,7 @@
 								}
 ,
 								"lowboost" : 								{
-									"value" : 0.0
+									"value" : 9.0
 								}
 ,
 								"sustain" : 								{
@@ -47,7 +47,7 @@
 								}
 ,
 								"comp" : 								{
-									"value" : 100.0
+									"value" : 80.0
 								}
 ,
 								"lowfq" : 								{

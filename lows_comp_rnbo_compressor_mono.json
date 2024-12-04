@@ -20,6 +20,14 @@
 
 									}
 ,
+									"Volume&Clip~" : 									{
+
+									}
+,
+									"Lookahead~" : 									{
+
+									}
+,
 									"Compensation~" : 									{
 
 									}
@@ -28,11 +36,7 @@
 
 									}
 ,
-									"Lookahead~" : 									{
-
-									}
-,
-									"Volume&Clip~" : 									{
+									"Volume&Clip~[1]" : 									{
 
 									}
 
@@ -63,12 +67,16 @@
 									"value" : 0.0
 								}
 ,
-								"volume" : 								{
-									"value" : 6.0
+								"volout" : 								{
+									"value" : 7.0
 								}
 ,
 								"lookahead" : 								{
 									"value" : 2.0
+								}
+,
+								"volin" : 								{
+									"value" : 7.0
 								}
 
 							}

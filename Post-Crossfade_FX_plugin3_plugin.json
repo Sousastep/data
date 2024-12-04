@@ -4,26 +4,26 @@
 		"slots" : 		{
 			"1" : 			{
 				"id" : 1,
-				"name" : "Instant Phaser Mk II",
+				"name" : "Rotary Mod",
 				"data" : 				{
 					"plugin" : [ 						{
 							"filetype" : "C74Snapshot",
 							"version" : 2,
 							"minorversion" : 0,
-							"name" : "Instant Phaser Mk II",
-							"origin" : "Instant Phaser Mk II.auinfo",
+							"name" : "Rotary Mod",
+							"origin" : "Rotary Mod.auinfo",
 							"type" : "AudioUnit",
 							"subtype" : "MidiEffect",
 							"embed" : 1,
 							"snapshot" : 							{
-								"pluginname" : "Instant Phaser Mk II.auinfo",
-								"plugindisplayname" : "Instant Phaser Mk II",
+								"pluginname" : "Rotary Mod.auinfo",
+								"plugindisplayname" : "Rotary Mod",
 								"pluginsavedname" : "",
-								"pluginsaveduniqueid" : 2087868721,
+								"pluginsaveduniqueid" : 1383363193,
 								"version" : 1,
 								"isbank" : 0,
 								"isbase64" : 1,
-								"blob" : "1413.hAGaoMGcv.C1AHv.DTfAGfPBJr.EUXwEXvUag4VclE1XzUmbkIGUjEFcgwUYrUVak4Fcs3VXsU1UyUmXzkGbkckckI2bo8laTQWdvU1WP7fZ0MVYPwVcmklaSQWXzUFUtEVakIAUoQVYOAAm..............fD..............P..........H..........C..........A.........T..........F.........vA.........f..........I.........fB.........r..........L.........PC.........3..........O..........D.........DA.....RyPCNHQTwDkLR+.CPDQTvTURtAWczk0ToQVYigVXo4VzOLgUOUGcvUGcRjjaPICD.HQX00lYOEw.nuWCJ.BHh.Ga0cVZtkDQhnCHhjjaPIiHrzfBf.hHvwVcmklaVUlbhnCHhDiK03RL0HBKMn.HfHBYvQGZhnCHv3BN3jiLwfyMzbiMwTCNwPiLrzfBf.hHgcVYkIhNf.iKvjSMwPCL1HCN0DiM1bCMvPCKMn.HfHhYjI1ZhnCHv3BLrzfBf.hHs8FYkIhNfDiKvvRCJ.BHhHWXzglH5.BLtHCM4jSN4jCN0.SN3fyL3fCKMn.HfHhbgQ2bhnCHw3BLrzfBf.hHykmaiIhNfDiKvvRCJ.BHhH2bkQmH5.BLt.CKMn.HfHxXzIGahnCHv3xM4XSM2fSL1fCN1jCLwfiMrzfBf.hHzglbyIhNfzhLv3RMyDSM1HCNvTSL2TyM3vRCJ.BHhHWYrMmH5.BLtDyMwXSLwXSMwbyM3HiLwDCKMn.HfHhbk0VYhnCHw3BLrzfBf.hHyMFZtIhNf.iKvvRCJ.BHhjlavclH5.RKw3BMy.SMwDCM2PiMvjyL2TSYsXCKMn.HfHxa0Q2YhnCHsDiKzLCL0DSLzbCM1.SNybSMk0hMrzfBf.hHuU2b2IhNfDiKvvRCJ.BHhvVZtUlH5.RLt.CKMn.HfHBbucmbhnCHw3BLrzfBf.hHy4VXvMGZuQGLhnCHh3VcrwFWtIBKMn.HfHxbtEFbyg1azEiH5.hHtUGarwkahvRCJ.BHhLmagA2bn8FcxHhNfHha0wFab4lHrzfBf.hHy4VXvMGZuQ2LhnCHh3VcrwFWtIBKMn.HfHxbtEFbyg1azQiH5.hHtUGarwkahvRCJ.BHhLmagA2bn8Fc0HhNfHha0wFab4lHrzfBf.hHy4VXvMGZuQmMhnCHh3VcrwFWtIBKMn.HfHxbtEFbyg1azciH5.hHtUGarwkahvRCJ.BHhLmagA2bn8Fc3HhNfHha0wFab4lHrzfBf.hHy4VXvMGZuQWNhnCHh3VcrwFWtIBKMn.HfHxbtEFbyg1azECLhnCHh3VcrwFWtIBKMn.HfHxbtEFbyg1azESLhnCHh3VcrwFWtIBKMn.HfHxbtEFbyg1azEiLhnCHh3VcrwFWtIBKMn.HfHxbtEFbyg1azEyLhnCHh3VcrwFWtIBKMn.HfHxbtEFbyg1azECMhnCHh3VcrwFWtIBKMn.HfHxbtEFbyg1azESMhnCHh3VcrwFWtIBKMn.HfHBbxUVZhnCHwbCKMn.HfHBbxUlahnCHhDTcm0VYtQWYjcUZjQGZhzfB8A.........................................................................................VU4FcoQGakQF.H.PF.XB.q..N..D.HAPS.7E.jAPZAfP.MDvCADQ.VD.FA3Q.nDvJAHS.2DPNA3SAp........HP..........jA..................TvL"
+								"blob" : "1415.hAGaoMGcv.C1AHv.DTfAGfPBJrvDTTgEWvUag4VclE1XzUmbkIGUjEFcgwUYrUVak4Fcs3VXsU1UyUmXzkGbkckckI2bo8laTQWdvU1WP7fZ0MVYPwVcmklaSQWXzUFUtEVakIAUoQVYOAAq...............E..............P..........H..........C..........A.........T..........F.........vA.........f..........I.........fB.........r..........L.........PC.........3..........O..........D.........DA.........R.........vD.....HMCM3PDQESTxD8CPDELUkjavUGcQ+fDV8TczAWczIgTzIWdP.fDgUWal8TDCf9dMn.HfHRXrc1axkFcn01WtEVakIhNfHhTuQWXxkmHrzfBf.hHvI2ajU2Xz8UZjIhNfHxXu0lKkYWYtQWZjUlKnkiKx8FcgIWdhvRCJ.BHhXWYxMWZu4lH5.hHxHBKMn.HfHRask1bhnCHw.CLt.CKMn.HfHBc4AWYhnCHw3BLrzfBf.hHxMGbjIhNf.iKz.CN4LSL3fSLwfSNyPiMyvRCJ.BHhf1bvQlH5.BMtLCLyDyMwDSM2fyL1jSLzvRCJ.BHhHGZsgmH5.BLt.CKMn.HfHBcu4VYhnCHv3BLrzfBf.hHj01ajIhNf.iKvvRCJ.BHhLWauQlH5.hMx3BLz.CLv.SNwTSMxbyLzvRCJ.BHhzlbgQmH5.BLtDyMzjiL4fSM2HSMz.iL3LCKMn.HfHRayI2XhnCHy3hM4jSN4jCNvjiL1TSLybCKMn.HfHBbrU2Yo41Wsw1XqIhNf.iKvvRCJ.BHh.Ga0cVZt8UZrUlchnCHx3BNzjCNzbCL2fyLxLyL1PSYsXCKMn.HfHBbrU2Yo41WuUGcewVY1UFahnCHv3hL0bCLvHCN1.yLvbiM4LSMrzfBf.hHvwVcmklaeE1XzYmH5.RLt.CKMn.HfHRY3AmbkM2bo8laeAWYjEFahnCHv3RMrzfBf.hHhIWXqIhNf.iKvvRCJ.BHhX1byAmH5.RLt.CKMn.HfHBbrU2Yo41WzUVav81WyU1byk1at80b441XhnCHlEFayUFKMn.HfHBcykmahnCHlEFayUFKMn.HfHBbrU2Yo41WsEla0EFaeQWYsA2ahnCHwHCLt.CKMn.HfHBcsAmchnCHwHCLt.CKMn.HfHhbzI2YhnCHv3BLrzfBf.hHvIWYoIhNfDCNrzfBf.hHvIWYtIhNfHBUnk1XiMFHBE1byIRCJzG.....................................................................................................................................................................................................................................................................................................................................................................................................................................XUkazkFcrUFY.f..Y.fI.rB.3..P.fD.MAvW.PF.oE.FAzQ.eDPHAPR.lD.KA7R.1DvNAzS.BUfK........BD..........X...................EbC"
 							}
 
 						}

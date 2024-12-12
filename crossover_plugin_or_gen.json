@@ -7,14 +7,13 @@
 				"data" : 				{
 					"gen_or_plugin" : [ 1 ],
 					"freq" : [ 100.0 ],
-					"bypass Attack FX highpass" : [ 0 ],
-					"bypass Sustain FX highpass" : [ 1 ],
-					"bypass lows lowpass" : [ 1 ],
+					"bypass Attack FX highpass" : [ 1 ],
+					"bypass Sustain FX highpass" : [ 0 ],
+					"bypass lows lowpass" : [ 0 ],
 					"bypass octaver's lowpass" : [ 1 ],
 					"u330031051" : [ 1 ],
 					"u330031051[1]" : [ 0 ],
-					"u326005293" : [ 0 ],
-					"u330031051[2]" : [ 0 ]
+					"u326005293" : [ 0 ]
 				}
 
 			}

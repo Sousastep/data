@@ -13,7 +13,7 @@
 					"midfreq" : [ "midfreq", 100.0 ],
 					"mix" : [ "mix", 72.0 ],
 					"treble" : [ "treble", 20.0 ],
-					"volume" : [ "volume", -66.0 ],
+					"volume" : [ "volume", -33.0 ],
 					"fx_chain_order" : [ 1 ],
 					"harmonic_mult" : [ 7.0 ],
 					"harmonic_mix" : [ 18.897637795275589 ],

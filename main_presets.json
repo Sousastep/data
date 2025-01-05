@@ -23,7 +23,7 @@
 					"mod params::aux_route_menu" : [ 0 ],
 					"mod params::high_SnTrSq" : [ 1 ],
 					"mod params::low_power" : [ 0.0 ],
-					"mod params::low_phase_offset" : [ 36.220472440944839 ],
+					"mod params::low_phase_offset" : [ 31.49606299212595 ],
 					"mod params::low_SnTrSq" : [ 0 ],
 					"mod params::low_duty_cycle" : [ 0.0 ],
 					"mod params::low_floor" : [ 0.0 ],

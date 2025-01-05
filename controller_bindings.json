@@ -1806,11 +1806,6 @@
 										"gain" : 1.0
 									}
 , 									{
-										"in" : 3,
-										"out" : 51,
-										"gain" : 1.0
-									}
-, 									{
 										"in" : 23,
 										"out" : 26,
 										"gain" : 1.0
@@ -1861,11 +1856,6 @@
 										"gain" : 1.0
 									}
 , 									{
-										"in" : 3,
-										"out" : 1,
-										"gain" : 1.0
-									}
-, 									{
 										"in" : 47,
 										"out" : 0,
 										"gain" : 1.0
@@ -1890,6 +1880,11 @@
 										"out" : 72,
 										"gain" : 1.0
 									}
+, 									{
+										"in" : 3,
+										"out" : 5,
+										"gain" : 1.0
+									}
  ]
 							}
 
@@ -1898,8 +1893,8 @@
 					"textedit" : [ "Sousastep's default bindings" ],
 					"dpad & L1 hold or trigger[1]" : [ 1 ],
 					"after_diagonal" : [ 60.90545210586928 ],
-					"before_diagonal" : [ 2.000000000000028 ],
-					"diagonal_trigger_mode" : [ 1 ],
+					"before_diagonal" : [ 6.000000000000002 ],
+					"diagonal_trigger_mode" : [ 0 ],
 					"Controller Bindings Preset Selector Mode::controller_bindings_preset_selector_mode" : [ 1 ],
 					"Drum Clip Crossfade (bi)::invert_control" : [ 0 ],
 					"Drum Clip Crossfade (bi)::curve[1]" : [ 0.0 ],

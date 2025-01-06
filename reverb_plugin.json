@@ -4,31 +4,31 @@
 		"slots" : 		{
 			"1" : 			{
 				"id" : 1,
-				"name" : "SP2016 Reverb",
+				"name" : "Blackhole",
 				"data" : 				{
 					"plugin" : [ 						{
 							"filetype" : "C74Snapshot",
 							"version" : 2,
 							"minorversion" : 0,
-							"name" : "SP2016 Reverb",
-							"origin" : "SP2016 Reverb.auinfo",
+							"name" : "Blackhole",
+							"origin" : "Blackhole.auinfo",
 							"type" : "AudioUnit",
-							"subtype" : "AudioEffect",
+							"subtype" : "MidiEffect",
 							"embed" : 1,
 							"snapshot" : 							{
-								"pluginname" : "SP2016 Reverb.auinfo",
-								"plugindisplayname" : "SP2016 Reverb",
+								"pluginname" : "Blackhole.auinfo",
+								"plugindisplayname" : "Blackhole",
 								"pluginsavedname" : "",
-								"pluginsaveduniqueid" : 1397772886,
+								"pluginsaveduniqueid" : 2104714598,
 								"version" : 1,
 								"isbank" : 0,
 								"isbase64" : 1,
-								"blob" : "1391.hAGaoMGcv.C1AHv.DTfAGfPBJrvDTTgEWvUag4VclE1XzUmbkIGUjEFcgwUYrUVak4Fcs3VXsU1UyUmXzkGbkckckI2bo8laTQWdvU1WP7fZ0MVYPwVcmklaSQWXzUFUtEVakIAUoQVYOAAk..............PD..............P..........H..........C..........A.........T..........F.........vA.........f..........I.........fB.........r..........L.........PC.........3..........O..........D.....HMCM3PDQESTxD8CPDELUkjavUGcQ+fDV8TczAWczIwTPIkUP.fDgUmY38TDCf9dMn.HfHBbrU2Yo4VRDIhNfHxTPIkUhvRCJ.BHh.Ga0cVZtYUYxIhNfHRLtbiKvHBKMn.HfHRZtAmchnCH03RN1.CM1PCM2bSMyjCL1HSYsbCKMn.HfHxa0AmchnCH03RN1.CM1PCM2bSMyjCL1HSYsbCKMn.HfHRaskFdhnCHw3BLrzfBf.hHqkFahIhNf.iKvvRCJ.BHhHVdvElH5.BLt.CKMn.HfHRXrc1ahnCHv3BLrzfBf.hHvQFa4IhNf.iKv.CMv.CLv.CLwfSN4fSN3.SMrzfBf.hHjU1X4IhNfLiKvvRCJ.BHh.2bz4lH5.BLtLyMv.CLv.CLzbiM3LyMwXCKMn.HfHBYlYlahnCHv3xMy.CLv.CLwjCL2LCM3XyLrzfBf.hHkEGayIhNfzBNt.CKMn.HfHRYwwlYhnCHw.yMtHSM3.iMzHyMv.SL4TCKMn.HfHRYwg1bhnCHv3BLrzfBf.hHkEGZlIhNfPCLv.iKvvRCJ.BHhzlazImH5.BLt.CKMn.HfHxbtEFbyg1azAiH5.hHhvRCJ.BHhLmagA2bn8FcwHhNfHhHrzfBf.hHy4VXvMGZuQmLhnCHhHBKMn.HfHxbtEFbyg1azMiH5.hHhvRCJ.BHhLmagA2bn8FczHhNfHhHrzfBf.hHy4VXvMGZuQWMhnCHhHBKMn.HfHxbtEFbyg1azYiH5.hHhvRCJ.BHhLmagA2bn8Fc2HhNfHhHrzfBf.hHy4VXvMGZuQGNhnCHhHBKMn.HfHxbtEFbyg1azkiH5.hHhvRCJ.BHhLmagA2bn8Fcw.iH5.hHhvRCJ.BHhLmagA2bn8FcwDiH5.hHhvRCJ.BHhLmagA2bn8FcwHiH5.hHhvRCJ.BHhLmagA2bn8FcwLiH5.hHhvRCJ.BHhLmagA2bn8FcwPiH5.hHhvRCJ.BHhLmagA2bn8FcwTiH5.hHhvRCJ.BHh.mbkklH5.hLwvRCJ.BHh.mbk4lH5.hHSkld5wVZtcBHH8Fcf.EagQWYhzfB8A..........................................................................................................................................................................................................................................................................................................................XUkazkFcrUFY.f..Y.fI.rB.3..P.fD.MAvW.PF.oE..ATP.GDPBAvP.ND.EAbQ.dDvHATR.pTfE........BD..........X...................E7A"
+								"blob" : "1487.hAGaoMGcv.C1AHv.DTfAGfPBJrvDTTgEWvUag4VclE1XzUmbkIGUjEFcgwUYrUVak4Fcs3VXsU1UyUmXzkGbkckckI2bo8laTQWdvU1WP7fZ0MVYPwVcmklaSQWXzUFUtEVakIAUIQTQOAA8..............PG..............P..........H..........C..........A.........T..........F.........vA.........f..........I.........fB.........r..........L.........PC.........3..........O..........D.........DA.........R.........vD.........PA.........U.........fE.........bA.........X.........PF.........nA.........a..........G.....HMCM3PDQESTxD8CPDELUkjavUGcQ+fDV8TczAWczIAROwTQP.fDgUWal8TDCf9dMn.HfHRXrc1axkFcn01WtEVakIhNfHhPrE1Xqg1arUlHrzfBf.hHvI2ajU2Xz8UZjIhNfHxXu0lKkYWYtQWZjUlKnkiKhwVXisFZuwVYhvRCJ.BHhXWYxMWZu4lH5.hHxHBKMn.HfHBbrU2Yo4VRDIhNfHBROwTQhvRCJ.BHh.Ga0cVZtYUYxIhNfHxLtDCLt.iHrzfBf.hHskFd3IhNfDiKvvRCJ.BHhblbgYmH5.RLwTiKvvRCJ.BHhLWZ5UlH5.RNv3BLrzfBf.hHjUFa4IhNf.iKvvRCJ.BHhv1a2cmH5.RKw.iKv.CLv.SL4.yMyPCN1LCKMn.HfHBZocFZhnCHv3BLrzfBf.hHjAGcnIhNfPyLt.CKMn.HfHhbgQWYhnCH0fiKvvRCJ.BHhXlXislH5.BLt.CKMn.HfHhbkM2ahnCHv3BLrzfBf.hHo4Fa1IhNf.iKvvRCJ.BHh7FcrYmH5.BLt.CKMn.HfHBcsA2ahnCHv3BLrzfBf.hHz0Fb1IhNfDiLv3BLrzfBf.hHqkFarIhNf.iKvvRCJ.BHhXlbkomH5.BLt.CKMn.HfHBZuQ2bhnCHv3BLrzfBf.hHxklXtIhNf.iK0vRCJ.BHhzVXtUWXrQUYsA2aVEFa0UlH5.RLx.iKvvRCJ.BHhTFdvIWYyMWZu41WvUFYgwlH5.BLtTCKMn.HfHBcykmahnCHlEFayUFKMn.HfHRaskFdhnCHw.CLt.CKMn.HfHBbjwVdhnCHv3BLrzfBf.hHr8Fa1IhNfzRLv3BLv.CLvDSNvbyLzfiMyvRCJ.BHhfVZrYmH5.BLt.CKMn.HfHRajAGchnCHzLiKvvRCJ.BHhzlbgQmH5.RM33BLrzfBf.hHlQlXqIhNf.iKvzfB8A..........................................................................................................................................................................................................................................................................................................................................................................................................................................................XUkazkFcrUFY.f..Y.fI.rB.3..P.fD.MAvW.PF.oE.XATV.mEPZAvV.tE.cAbW.9EvfATX.JVfc........BD..........X...................E7G"
 							}
 
 						}
  ],
-					"latency" : [ 61 ]
+					"latency" : [ 8 ]
 				}
 
 			}

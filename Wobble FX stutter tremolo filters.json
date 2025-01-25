@@ -15,7 +15,7 @@
 					"stutterstep::window" : [ 12.0 ],
 					"stutterstep::offset[1]" : [ 0.008661417322835 ],
 					"stutterstep::bypass_hipass" : [ 0 ],
-					"stutterstep::accel-vol-dip" : [ 96.0 ],
+					"stutterstep::accel-vol-dip" : [ 100.0 ],
 					"stutterstep::subdiv-mult" : [ 0.0 ],
 					"stutterstep::staircase[1]" : [ 0.0 ],
 					"stutterstep::staircase-mode" : [ 0 ],

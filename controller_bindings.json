@@ -1721,11 +1721,6 @@
 										"gain" : 1.0
 									}
 , 									{
-										"in" : 46,
-										"out" : 38,
-										"gain" : 1.0
-									}
-, 									{
 										"in" : 25,
 										"out" : 22,
 										"gain" : 1.0
@@ -1883,6 +1878,11 @@
 , 									{
 										"in" : 3,
 										"out" : 5,
+										"gain" : 1.0
+									}
+, 									{
+										"in" : 46,
+										"out" : 38,
 										"gain" : 1.0
 									}
  ]
@@ -2237,12 +2237,12 @@
 					"LPF Resonance Amount (either)::curve[1]" : [ 3.149606299212659 ],
 					"LPF Resonance Amount (either)::value to set when control relinquished" : [ 0.5 ],
 					"LPF Resonance Amount (either)::curve polarity" : [ 0.0 ],
-					"LPF Resonance Amount (either)::available transition options[1]::when to relinquish var1" : [ 1 ],
-					"LPF Resonance Amount (either)::available transition options[1]::when to relinquish var2" : [ 1 ],
-					"LPF Resonance Amount (either)::available transition options[1]::when to relinquish var1[1]" : [ 0 ],
-					"LPF Resonance Amount (either)::available transition options[1]::when to relinquish var2[1]" : [ 0 ],
-					"LPF Resonance Amount (either)::available transition options[1]::when to control" : [ 1 ],
-					"LPF Resonance Amount (either)::available transition options[1]::tuba or button" : [ 0 ],
+					"LPF Resonance Amount (either)::available transition options[1]::when to relinquish var1" : [ 0 ],
+					"LPF Resonance Amount (either)::available transition options[1]::when to relinquish var2" : [ 0 ],
+					"LPF Resonance Amount (either)::available transition options[1]::when to relinquish var1[1]" : [ 1 ],
+					"LPF Resonance Amount (either)::available transition options[1]::when to relinquish var2[1]" : [ 1 ],
+					"LPF Resonance Amount (either)::available transition options[1]::when to control" : [ 3 ],
+					"LPF Resonance Amount (either)::available transition options[1]::tuba or button" : [ 2 ],
 					"LPF Resonance Amount (either)::available transition options[2]::when to relinquish var1" : [ 0 ],
 					"LPF Resonance Amount (either)::available transition options[2]::when to relinquish var2" : [ 1 ],
 					"LPF Resonance Amount (either)::available transition options[2]::when to relinquish var1[1]" : [ 1 ],
@@ -2255,12 +2255,12 @@
 					"LPF Resonance Amount (either)::available transition options[3]::when to relinquish var2[1]" : [ 0 ],
 					"LPF Resonance Amount (either)::available transition options[3]::when to control" : [ 0 ],
 					"LPF Resonance Amount (either)::available transition options[3]::tuba or button" : [ 0 ],
-					"LPF Resonance Amount (either)::available transition options::when to relinquish var1" : [ 1 ],
-					"LPF Resonance Amount (either)::available transition options::when to relinquish var2" : [ 1 ],
-					"LPF Resonance Amount (either)::available transition options::when to relinquish var1[1]" : [ 0 ],
-					"LPF Resonance Amount (either)::available transition options::when to relinquish var2[1]" : [ 0 ],
-					"LPF Resonance Amount (either)::available transition options::when to control" : [ 1 ],
-					"LPF Resonance Amount (either)::available transition options::tuba or button" : [ 0 ],
+					"LPF Resonance Amount (either)::available transition options::when to relinquish var1" : [ 0 ],
+					"LPF Resonance Amount (either)::available transition options::when to relinquish var2" : [ 0 ],
+					"LPF Resonance Amount (either)::available transition options::when to relinquish var1[1]" : [ 1 ],
+					"LPF Resonance Amount (either)::available transition options::when to relinquish var2[1]" : [ 1 ],
+					"LPF Resonance Amount (either)::available transition options::when to control" : [ 3 ],
+					"LPF Resonance Amount (either)::available transition options::tuba or button" : [ 2 ],
 					"Envelope Crossfade Position (bi)::invert_control" : [ 0 ],
 					"Envelope Crossfade Position (bi)::curve[1]" : [ -24.409448818897374 ],
 					"Envelope Crossfade Position (bi)::value to set when control relinquished" : [ 0.0 ],
@@ -2298,7 +2298,7 @@
 					"LFO Duty Cycle (bi)::available transition options[1]::when to relinquish var1[1]" : [ 0 ],
 					"LFO Duty Cycle (bi)::available transition options[1]::when to relinquish var2[1]" : [ 0 ],
 					"LFO Duty Cycle (bi)::available transition options[1]::when to control" : [ 2 ],
-					"LFO Duty Cycle (bi)::available transition options[1]::tuba or button" : [ 3 ],
+					"LFO Duty Cycle (bi)::available transition options[1]::tuba or button" : [ 2 ],
 					"LFO Duty Cycle (bi)::available transition options[2]::when to relinquish var1" : [ 0 ],
 					"LFO Duty Cycle (bi)::available transition options[2]::when to relinquish var2" : [ 1 ],
 					"LFO Duty Cycle (bi)::available transition options[2]::when to relinquish var1[1]" : [ 1 ],
@@ -2316,7 +2316,7 @@
 					"LFO Duty Cycle (bi)::available transition options::when to relinquish var1[1]" : [ 0 ],
 					"LFO Duty Cycle (bi)::available transition options::when to relinquish var2[1]" : [ 0 ],
 					"LFO Duty Cycle (bi)::available transition options::when to control" : [ 2 ],
-					"LFO Duty Cycle (bi)::available transition options::tuba or button" : [ 3 ],
+					"LFO Duty Cycle (bi)::available transition options::tuba or button" : [ 2 ],
 					"LFO Swing Amount (uni)::invert_control" : [ 0 ],
 					"LFO Swing Amount (uni)::curve[1]" : [ 6.299212598425252 ],
 					"LFO Swing Amount (uni)::value to set when control relinquished" : [ 0.0 ],
@@ -3077,7 +3077,7 @@
 					"LFO Env Pause (uni)[1]::available transition options::when to control" : [ 1 ],
 					"LFO Env Pause (uni)[1]::available transition options::tuba or button" : [ 0 ],
 					"param control logic::invert_control" : [ 0 ],
-					"param control logic::curve[1]" : [ 7.874015748031504 ],
+					"param control logic::curve[1]" : [ -48.818897637795189 ],
 					"param control logic::value to set when control relinquished" : [ 0.5 ],
 					"param control logic::curve polarity" : [ 1.0 ],
 					"param control logic::available transition options[1]::when to relinquish var1" : [ 1 ],

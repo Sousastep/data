@@ -44,7 +44,7 @@
 					"adstatusIn21" : [ "Off" ],
 					"adstatusIn22" : [ "Off" ],
 					"adstatusIn23" : [ "Off" ],
-					"adstatusIn24" : [ "Off" ],
+					"adstatusIn24" : [ "40 MADI 36" ],
 					"adstatusOut27" : [ "24 MADI 20" ],
 					"adstatusOut28" : [ "25 MADI 21" ],
 					"adstatusOut29" : [ "26 MADI 22" ],
@@ -58,7 +58,20 @@
 					"adstatusIn28" : [ "27 MADI 23" ],
 					"adstatusIn29" : [ "28 MADI 24" ],
 					"adstatusIn30" : [ "53 MADI 49" ],
-					"adstatusIn31" : [ "54 MADI 50" ]
+					"adstatusIn31" : [ "54 MADI 50" ],
+					"adstatusOut32" : [ "51 MADI 47" ],
+					"adstatusOut33" : [ "52 MADI 48" ],
+					"adstatusOut34" : [ "53 MADI 49" ],
+					"adstatusOut35" : [ "54 MADI 50" ],
+					"adstatusOut36" : [ "55 MADI 51" ],
+					"adstatusOut37" : [ "56 MADI 52" ],
+					"adstatusOut38" : [ "57 MADI 53" ],
+					"adstatusOut39" : [ "58 MADI 54" ],
+					"adstatusIn32" : [ "17 MADI 13" ],
+					"adstatusOut40" : [ "41 MADI 37" ],
+					"adstatusOut41" : [ "42 MADI 38" ],
+					"adstatusOut42" : [ "11 MADI 7" ],
+					"adstatusOut43" : [ "12 MADI 8" ]
 				}
 
 			}

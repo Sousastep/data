@@ -51,7 +51,7 @@
 								}
 ,
 								"comp" : 								{
-									"value" : 75.0
+									"value" : 70.0
 								}
 ,
 								"lowfq" : 								{
@@ -68,7 +68,7 @@
 								}
 ,
 								"volout" : 								{
-									"value" : 12.0
+									"value" : 9.0
 								}
 ,
 								"lookahead" : 								{
@@ -76,7 +76,7 @@
 								}
 ,
 								"volin" : 								{
-									"value" : 7.0
+									"value" : 10.0
 								}
 
 							}

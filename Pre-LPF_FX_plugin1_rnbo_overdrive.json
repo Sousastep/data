@@ -14,13 +14,13 @@
 					"mix" : [ "mix", 72.0 ],
 					"treble" : [ "treble", 20.0 ],
 					"volume" : [ "volume", -33.0 ],
-					"fx_chain_order" : [ 1 ],
-					"harmonic_mult" : [ 7.0 ],
-					"harmonic_mix" : [ 18.897637795275589 ],
-					"fm_mult" : [ 6.0 ],
+					"fx_chain_order" : [ 0 ],
+					"harmonic_mult" : [ 9.0 ],
+					"harmonic_mix" : [ 25.984251968503923 ],
+					"fm_mult" : [ 2.0 ],
 					"fm_depth" : [ 0.655961311922623 ],
-					"bias" : [ 0.0 ],
-					"drive[1]" : [ 1.0 ]
+					"bias" : [ -0.299212598425196 ],
+					"drive[1]" : [ 1.496062992125984 ]
 				}
 
 			}

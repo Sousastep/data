@@ -47,7 +47,7 @@
 								}
 ,
 								"comp" : 								{
-									"value" : 85.0
+									"value" : 100.0
 								}
 ,
 								"himid" : 								{
@@ -55,16 +55,16 @@
 								}
 ,
 								"volume" : 								{
-									"value" : -6.0
+									"value" : -10.0
 								}
 ,
 								"attack" : 								{
-									"value" : 100.0
+									"value" : 6.0
 								}
 ,
 								"__presetid" : "compressor_stereo",
 								"softclip" : 								{
-									"value" : 0.0
+									"value" : 1.0
 								}
 ,
 								"weighting" : 								{

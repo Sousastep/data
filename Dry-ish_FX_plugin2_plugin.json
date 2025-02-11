@@ -4,31 +4,31 @@
 		"slots" : 		{
 			"1" : 			{
 				"id" : 1,
-				"name" : "H949 Dual Harmonizer",
+				"name" : "MicroPitch",
 				"data" : 				{
 					"plugin" : [ 						{
 							"filetype" : "C74Snapshot",
 							"version" : 2,
 							"minorversion" : 0,
-							"name" : "H949 Dual Harmonizer",
-							"origin" : "H949 Dual Harmonizer.auinfo",
+							"name" : "MicroPitch",
+							"origin" : "MicroPitch.auinfo",
 							"type" : "AudioUnit",
 							"subtype" : "MidiEffect",
 							"embed" : 1,
 							"snapshot" : 							{
-								"pluginname" : "H949 Dual Harmonizer.auinfo",
-								"plugindisplayname" : "H949 Dual Harmonizer",
+								"pluginname" : "MicroPitch.auinfo",
+								"plugindisplayname" : "MicroPitch",
 								"pluginsavedname" : "",
-								"pluginsaveduniqueid" : 2099592551,
+								"pluginsaveduniqueid" : 2021620563,
 								"version" : 1,
 								"isbank" : 0,
 								"isbase64" : 1,
-								"blob" : "1617.hAGaoMGcv.C1AHv.DTfAGfPBJrvDTTgEWvUag4VclE1XzUmbkIGUjEFcgwUYrUVak4Fcs3VXsU1UyUmXzkGbkckckI2bo8laTQWdvU1WP7fZ0MVYPwVcmklaSQWXzUFUtEVakIAUoQVYOEQ.r...............j...............A.........f..........L..........D.........PA.........X..........G..........B.........j..........J.........vB.........v..........M.........fC.........7..........P.........PD.........HA.........S..........E.........TA.........V.........vE.........fA.........Y.........fF.........rA.........b.........PG.........3A.........e..........H.........DB.........h.........vH.....HMCM3PDQESTxD8CPDELUkjavUGcQ+fDV8TczAWczIAR4PCYP.fDgUWal8TDDDydMn.HfHBbrU2Yo4VRDIhNfHBR4PCYhvRCJ.BHh.Ga0cVZtYUYxIhNfHxLtjiKwfiHrzfBf.hHsQVYwHhNfPiKvvRCJ.BHhzFYkIiH5.BMt.CKMn.HfHBYrESLhnCHv3BLrzfBf.hHjwVLxHhNf.iKvvRCJ.BHhPFaxDiH5.BLt.CKMn.HfHBYrIiLhnCHv3BLrzfBf.hHvMFZwHhNf.iK4jyLvjiLzbyMyHSL1HCM3vRCJ.BHh.2XnIiH5.RLt.CL1jSM0XiLyXiL1bCL4vRCJ.BHhjlaLEiH5.RLt.CLv.CLvDSL4HCL4HSNrzfBf.hHo4FSxHhNfDiKv.CLv.CLwDSNx.SNxjCKMn.HfHhYhsVLhnCHv3BLrzfBf.hHlI1ZxHhNf.iKvvRCJ.BHhXFYrEiH5.BLt.CKMn.HfHhYjwlLhnCHv3BLrzfBf.hHL8VTwHhNf.iKvvRCJ.BHhvzaQIiH5.BLt.CKMn.HfHBRoEULhnCHv3BLrzfBf.hHHkVTxHhNf.iKvvRCJ.BHhHWazEiH5.BLt.CKMn.HfHhbsQmLhnCHv3BLrzfBf.hHxAGcwHhNf.iKvvRCJ.BHhHGbzIiH5.BLt.CKMn.HfHRXrcVLhnCHv3BLrzfBf.hHgw1YxHhNf.iKvvRCJ.BHhzDboQmH5.RLt.CKMn.HfHhYr41ZhnCHw3BLrzfBf.hHvwlaqIhNfHiKvvRCJ.BHhzVZ3gmH5.BLtXiL1jCL1HSL1DCMzTiMwfCKMn.HfHxcjQGZhnCHv3BM2LCL1HCM3TCM0XCM1XyMrzfBf.hHjwVdLIhNf.iKvvRCJ.BHhzVXtwjH5.RLt.CKMn.HfHxXu4lchnCHw3BLrzfBf.hHjImYzIhNf.iKvvRCJ.BHh.2a2ImH5.RLt.CKMn.HfHBao4VYhnCHw3BLrzfBf.hHy4VXvMGZuQGLhnCHhHBKMn.HfHxbtEFbyg1azEiH5.hHhvRCJ.BHhLmagA2bn8FcxHhNfHhHrzfBf.hHy4VXvMGZuQ2LhnCHhHBKMn.HfHxbtEFbyg1azQiH5.hHhvRCJ.BHhLmagA2bn8Fc0HhNfHhHrzfBf.hHy4VXvMGZuQmMhnCHhHBKMn.HfHxbtEFbyg1azciH5.hHhvRCJ.BHhLmagA2bn8Fc3HhNfHhHrzfBf.hHy4VXvMGZuQWNhnCHhHBKMn.HfHxbtEFbyg1azECLhnCHhHBKMn.HfHxbtEFbyg1azESLhnCHhHBKMn.HfHxbtEFbyg1azEiLhnCHhHBKMn.HfHxbtEFbyg1azEyLhnCHhHBKMn.HfHxbtEFbyg1azECMhnCHhHBKMn.HfHxbtEFbyg1azESMhnCHhHBKMn.HfHBbxUVZhnCHwHiLrzfBf.hHvIWYtIhNfHRLx.xPk4FcyARSoMlbuAUZzMFZhzfB8gUUtQWZzwVYjA.B.jA.l.vJ.fC..A.R.zD.eA.Y.jV.YFfmA.Z.hFPoAbZ.sF.rAba.7FfuALbA3C.......HP..........fA..................XP."
+								"blob" : "1563.hAGaoMGcv.C1AHv.DTfAGfPBJrvDTTgEWvUag4VclE1XzUmbkIGUjEFcgwUYrUVak4Fcs3VXsU1UyUmXzkGbkckckI2bo8laTQWdvU1WP7fZ0MVYPwVcmklaSQWXzUFUtEVakIAUoQVYOAAm..............fD..............P..........H..........C..........A.........T..........F.........vA.........f..........I.........fB.........r..........L.........PC.........3..........O..........D.........DA.....RyPCNDQTwDkLQ+.DQASUI4Fb0QWzOHgUOUGcvUGcRzzXxAED.HQX00lYOEAALtWCJ.BHhDFam8lboQGZs8kag0VYhnCHhzTZiI2aPkFciglHrzfBf.hHvI2ajU2Xz8UZjIhNfHxXu0lKkYWYtQWZjUlKnkiKsk1Xx8FboQ2XnIBKMn.HfHhckI2bo8lahnCHhHiHrzfBf.hHs0VZ3IhNfLiMtPiMxDSNxTyL0PCLvLSNrzfBf.hHv0VZ3IhNfPCNtjyMv.CLwHiLvbCLyDiLrzfBf.hHvMFZgIhNfPiKzTiLxXyLyTSMxTSMwHyMrzfBf.hHvMFZg80bzElbz8UY3AmH5.BLtHyL0TCNwXiLwTiL2XyMwfCKMn.HfHBbigVXeUlaj8UY3AmH5.BLtPSN3TyLybiL0byL3TiL0PCKMn.HfHBbiglXhnCH43BLrzfBf.hHjwVdgIhNfDiK1LyLvTyMwDyMzXiLwTCNrzfBf.hHjwVdg80bzElbz8UY3AmH5.BLt.CKMn.HfHBYrkWXeUlaj8UY3AmH5.BLtDSNvXSL0fyLxfCL0XyLyTCKMn.HfHBYrkmXhnCH13BL1DSN4TCLxjCMzjCM1LCKMn.HfHBYrkmXeMGcgIGceUFdvIhNf.iKvvRCJ.BHhPFa4I1Wk4FYeUFdvIhNf.iK0DSLxPSLzLiMv.CM1LCN2vRCJ.BHhzFYvQmH5.RMx3RL4.iM1XSL4fyMy.CM2vRCJ.BHhzFYvQ2WyQWXxQ2WkgGbhnCHv3BM4jSMwDiLzDSNwHCNzDCNrzfBf.hHsQFbz8UYtQ1WkgGbhnCHw3BLrzfBf.hHsIWXzIhNfHSLtbCM4TiM0DiLzTSLwbiLrzfBf.hHsIWXz80bzElbz8UY3AmH5.BLtDCNvfCMvXyMw.iMxPiM4TCKMn.HfHRaxEFceUlaj8UY3AmH5.RLt.CKMn.HfHhYjI1ZhnCHxXiKzPCN3bSMzHyMxPiMvjCKMn.HfHhYjI1ZeMGcgIGceUFdvIhNf.iKxPSNxXiM3XiL3XSNxXiL2vRCJ.BHhXFYhs1Wk4FYeUFdvIhNf.iK0fSNzPiL2fSN0TCM0jSM4vRCJ.BHhP2atUlH5.BM43RNwjSN4fSL1fSNzTyLwvRCJ.BHh.Ga0cVZt8UarM1ZhnCHv3BLrzfBf.hHvwVcmklaekFakYmH5.hLtfCM4fCM2.yM3LiLyLiMzTVK1vRCJ.BHh.Ga0cVZt80a0Q2WrUlckwlH5.hLtfCM4fCM2.yM3LiLyLiMzTVK1vRCJ.BHh.Ga0cVZt8UXiQmchnCHw3BLrzfBf.hHkgGbxU1byk1at8EbkQVXrIhNf.iKvPSMv.CLv.SL2fCNwLSNyPCKMn.HfHBbq4lXhnCHv3BLrzfBf.hHvwVcmklaeQWYsA2aeMWYyMWZu41WykmaiIhNfXVXrMWYrzfBf.hHzMWdtIhNfXVXrMWYrzfBf.hHvwVcmklae0VXtUWXr8Eck0FbuIhNfDiLv3BLrzfBf.hHz0Fb1IhNfbiLtbyM4jSN3byM4HSN1fCNrzfBf.hHvIWYoIhNf.CKMn.HfHBbxUlahnCHhHTXyM2Xn8lb0MGJkMWJhzfB8gUUtQWZzwVYjA.B.jA.l.vJ.fC..A.R.zD.eA.Y.jV.HDPCA7P.QD.EAXQ.bDvGAXR.qDPKAHSABC.......HP..........fA..................Tvx"
 							}
 
 						}
  ],
-					"latency" : [ 10 ]
+					"latency" : [ 8 ]
 				}
 
 			}

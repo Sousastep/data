@@ -7,28 +7,28 @@
 				"data" : 				{
 					"preset descriptions" : [ "Sousastep's default preset" ],
 					"bleed[1]" : [ -70.0 ],
-					"pitchMixSustain" : [ 100.0 ],
+					"pitchMixSustain" : [ 53.543307086614192 ],
 					"pitchMixAttack" : [ 85.039370078740049 ],
-					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [ 1, 0, 1.0 ],
+					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [ 2, 0, 1.0 ],
 					"sustain fx chooser::Pre-LPF_FX_randomize" : [ 5.0 ],
 					"post-crossfade fx chooser::Post-Crossfade_FX_plugin_choice" : [ 2, 0, 1.0 ],
 					"post-crossfade fx chooser::Post-Crossfade_FX_randomize" : [ 5.0 ],
 					"attack fx chooser::Dry-ish_FX_plugin_choice" : [ 1, 0, 1.0 ],
 					"attack fx chooser::Dry-ish_FX_randomize" : [ 5.0 ],
 					"mod params::aux_power" : [ 0.0 ],
-					"mod params::aux_phase_offset" : [ 54.330708661417468 ],
+					"mod params::aux_phase_offset" : [ 76.377952755905639 ],
 					"mod params::aux_duty_cycle" : [ -58.267716535433046 ],
 					"mod params::aux_yaxis" : [ 0.0 ],
 					"mod params::aux_SnTrSq" : [ 0 ],
 					"mod params::aux_route_menu" : [ 0 ],
 					"mod params::high_SnTrSq" : [ 1 ],
 					"mod params::low_power" : [ 0.0 ],
-					"mod params::low_phase_offset" : [ 20.472440944881853 ],
+					"mod params::low_phase_offset" : [ 26.0 ],
 					"mod params::low_SnTrSq" : [ 0 ],
 					"mod params::low_duty_cycle" : [ 0.0 ],
 					"mod params::low_floor" : [ 0.0 ],
 					"mod params::verylow_power" : [ 0.0 ],
-					"mod params::verylow_phase_offset" : [ 26.77165354330706 ],
+					"mod params::verylow_phase_offset" : [ 45.598425196850378 ],
 					"mod params::verylow_SnTrSq" : [ 0 ],
 					"mod params::verylow_duty_cycle" : [ 0.0 ],
 					"mod params::verylow_floor" : [ 0.0 ],
@@ -37,26 +37,26 @@
 					"mod params::wah_or_trem" : [ 0 ],
 					"mod params::high_phase_offset[1]" : [ 32.874015748031503 ],
 					"mod params::high_duty_cycle" : [ 66.141732283464364 ],
-					"mod params::filter-type" : [ 1 ],
+					"mod params::filter-type" : [ 0 ],
 					"mod params::ceil_env_smooth" : [ 80.000000000000028 ],
 					"mod params::floor_env_smooth" : [ 80.000000000000028 ],
 					"mod params::diode-saturation" : [ 0.0 ],
 					"mod params::high_SnTrSq_randomize" : [ 0 ],
-					"mod params::randomize-LPF-type" : [ 1 ],
+					"mod params::randomize-LPF-type" : [ 0 ],
 					"mod params::env sens[1]" : [ 1.0 ],
 					"mod params::high_pow" : [ 2.755905511811019 ],
-					"mod params::floor_y_pos" : [ 0.204724409448819 ],
+					"mod params::floor_y_pos" : [ 0.181102362204725 ],
 					"mod params::x_pos" : [ 0.0 ],
 					"mod params::ceil_y_pos" : [ 0.338582677165354 ],
 					"mod params::ceil_max" : [ 0.881889763779528 ],
-					"mod params::floor_max" : [ 0.440944881889765 ],
+					"mod params::floor_max" : [ 0.20472440944882 ],
 					"mod params::pre-rate_phase_offset_high" : [ 0.0 ],
 					"mod params::pre-rate_phase_offset_low" : [ 0.0 ],
 					"mod params::pre-rate_phase_offset_verylow" : [ 0.0 ],
 					"mod params::wah sens reduc" : [ 0.84 ],
 					"mod params::u830003532" : [ 1.0, 0.0, 1.0, 0.0, 0.428571428571429, 0, 0.0, 1.0, 0.938775510204082, 0, 0.405, "curve" ],
-					"mod params::very_low_squareness" : [ 61.42371948299715 ],
-					"mod params::low_squareness" : [ 73.031375182544295 ],
+					"mod params::very_low_squareness" : [ 0.0 ],
+					"mod params::low_squareness" : [ 0.0 ],
 					"mod params::transient_detect::transient_definition" : [ 0 ],
 					"umenu_presets::main_preset_initial" : [ 1 ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [ 1 ],
@@ -99,7 +99,9 @@
 					"patcher[1]::Solo FX stutter tremolo filters" : [ 1 ],
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [ 1 ],
 					"stutterstep::delay_stutter" : [ 1 ],
-					"patcher[4]::VFX_stutter" : [ 1 ]
+					"patcher[4]::VFX_stutter" : [ 1 ],
+					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [ 1 ],
+					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [ 1 ]
 				}
 
 			}
@@ -201,7 +203,9 @@
 					"patcher[1]::Solo FX stutter tremolo filters" : [  ],
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ],
 					"stutterstep::delay_stutter" : [  ],
-					"patcher[4]::VFX_stutter" : [  ]
+					"patcher[4]::VFX_stutter" : [  ],
+					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -303,7 +307,9 @@
 					"patcher[1]::Solo FX stutter tremolo filters" : [  ],
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ],
 					"stutterstep::delay_stutter" : [  ],
-					"patcher[4]::VFX_stutter" : [  ]
+					"patcher[4]::VFX_stutter" : [  ],
+					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -405,7 +411,9 @@
 					"patcher[1]::Solo FX stutter tremolo filters" : [  ],
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ],
 					"stutterstep::delay_stutter" : [  ],
-					"patcher[4]::VFX_stutter" : [  ]
+					"patcher[4]::VFX_stutter" : [  ],
+					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -507,7 +515,9 @@
 					"patcher[1]::Solo FX stutter tremolo filters" : [  ],
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ],
 					"stutterstep::delay_stutter" : [  ],
-					"patcher[4]::VFX_stutter" : [  ]
+					"patcher[4]::VFX_stutter" : [  ],
+					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -609,7 +619,9 @@
 					"patcher[1]::Solo FX stutter tremolo filters" : [  ],
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ],
 					"stutterstep::delay_stutter" : [  ],
-					"patcher[4]::VFX_stutter" : [  ]
+					"patcher[4]::VFX_stutter" : [  ],
+					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -711,7 +723,9 @@
 					"patcher[1]::Solo FX stutter tremolo filters" : [  ],
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ],
 					"stutterstep::delay_stutter" : [  ],
-					"patcher[4]::VFX_stutter" : [  ]
+					"patcher[4]::VFX_stutter" : [  ],
+					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -813,7 +827,9 @@
 					"patcher[1]::Solo FX stutter tremolo filters" : [  ],
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ],
 					"stutterstep::delay_stutter" : [  ],
-					"patcher[4]::VFX_stutter" : [  ]
+					"patcher[4]::VFX_stutter" : [  ],
+					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -915,7 +931,9 @@
 					"patcher[1]::Solo FX stutter tremolo filters" : [  ],
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ],
 					"stutterstep::delay_stutter" : [  ],
-					"patcher[4]::VFX_stutter" : [  ]
+					"patcher[4]::VFX_stutter" : [  ],
+					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -1017,7 +1035,9 @@
 					"patcher[1]::Solo FX stutter tremolo filters" : [  ],
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ],
 					"stutterstep::delay_stutter" : [  ],
-					"patcher[4]::VFX_stutter" : [  ]
+					"patcher[4]::VFX_stutter" : [  ],
+					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -1119,7 +1139,9 @@
 					"patcher[1]::Solo FX stutter tremolo filters" : [  ],
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ],
 					"stutterstep::delay_stutter" : [  ],
-					"patcher[4]::VFX_stutter" : [  ]
+					"patcher[4]::VFX_stutter" : [  ],
+					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -1221,7 +1243,9 @@
 					"patcher[1]::Solo FX stutter tremolo filters" : [  ],
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ],
 					"stutterstep::delay_stutter" : [  ],
-					"patcher[4]::VFX_stutter" : [  ]
+					"patcher[4]::VFX_stutter" : [  ],
+					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -1323,7 +1347,9 @@
 					"patcher[1]::Solo FX stutter tremolo filters" : [  ],
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ],
 					"stutterstep::delay_stutter" : [  ],
-					"patcher[4]::VFX_stutter" : [  ]
+					"patcher[4]::VFX_stutter" : [  ],
+					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -1425,7 +1451,9 @@
 					"patcher[1]::Solo FX stutter tremolo filters" : [  ],
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ],
 					"stutterstep::delay_stutter" : [  ],
-					"patcher[4]::VFX_stutter" : [  ]
+					"patcher[4]::VFX_stutter" : [  ],
+					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -1527,7 +1555,9 @@
 					"patcher[1]::Solo FX stutter tremolo filters" : [  ],
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ],
 					"stutterstep::delay_stutter" : [  ],
-					"patcher[4]::VFX_stutter" : [  ]
+					"patcher[4]::VFX_stutter" : [  ],
+					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -1629,7 +1659,9 @@
 					"patcher[1]::Solo FX stutter tremolo filters" : [  ],
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ],
 					"stutterstep::delay_stutter" : [  ],
-					"patcher[4]::VFX_stutter" : [  ]
+					"patcher[4]::VFX_stutter" : [  ],
+					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -1731,7 +1763,9 @@
 					"patcher[1]::Solo FX stutter tremolo filters" : [  ],
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ],
 					"stutterstep::delay_stutter" : [  ],
-					"patcher[4]::VFX_stutter" : [  ]
+					"patcher[4]::VFX_stutter" : [  ],
+					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -1833,7 +1867,9 @@
 					"patcher[1]::Solo FX stutter tremolo filters" : [  ],
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ],
 					"stutterstep::delay_stutter" : [  ],
-					"patcher[4]::VFX_stutter" : [  ]
+					"patcher[4]::VFX_stutter" : [  ],
+					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -1935,7 +1971,9 @@
 					"patcher[1]::Solo FX stutter tremolo filters" : [  ],
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ],
 					"stutterstep::delay_stutter" : [  ],
-					"patcher[4]::VFX_stutter" : [  ]
+					"patcher[4]::VFX_stutter" : [  ],
+					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
+					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}

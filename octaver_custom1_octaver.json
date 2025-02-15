@@ -14,10 +14,10 @@
 					"enablesweepdown" : [ 0 ],
 					"freq_detect" : [ 1 ],
 					"filter_boost" : [ 11.0 ],
-					"freq" : [ 16.0 ],
-					"rez" : [ 5.0 ],
+					"freq" : [ 19.999999999999996 ],
+					"rez" : [ 4.645189263851091 ],
 					"boost" : [ 11.0 ],
-					"filteractive" : [ 1.0 ]
+					"filteractive" : [ 0.0 ]
 				}
 
 			}

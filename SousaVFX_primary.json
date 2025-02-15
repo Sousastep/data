@@ -4037,7 +4037,7 @@
 			"225" : 			{
 				"id" : 225,
 				"data" : 				{
-					"primary-preset-description" : [ "" ],
+					"primary-preset-description" : [ "pk2 dub4" ],
 					"blur_enable" : [ 0.0 ],
 					"torus_knot_preset_number" : [ 0 ],
 					"dude_shader_preset_number" : [ 0 ],
@@ -4045,9 +4045,9 @@
 					"shapes_preset_number" : [ 0 ],
 					"ISF_preset_number" : [ 0 ],
 					"PolarKaleido_preset_number" : [ 0 ],
-					"PolarKaleido2_preset_number" : [ 0 ],
+					"PolarKaleido2_preset_number" : [ 5 ],
 					"four_rectangles_phys[1]" : [ 0 ],
-					"Trails_preset_number" : [ 0 ]
+					"Trails_preset_number" : [ 2 ]
 				}
 
 			}

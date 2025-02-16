@@ -28,10 +28,6 @@
 
 									}
 ,
-									"Volume&Clip~" : 									{
-
-									}
-,
 									"Lookahead~" : 									{
 
 									}
@@ -39,7 +35,7 @@
 								}
 ,
 								"sustain" : 								{
-									"value" : 25.0
+									"value" : 120.0
 								}
 ,
 								"himidfq" : 								{
@@ -50,38 +46,31 @@
 									"value" : 60.0
 								}
 ,
-								"himid" : 								{
-									"value" : 13.0
-								}
-,
-								"volume" : 								{
-									"value" : -10.0
-								}
-,
-								"attack" : 								{
-									"value" : 25.0
-								}
-,
-								"__presetid" : "compressor_stereo",
-								"softclip" : 								{
-									"value" : 0.0
+								"lookahead" : 								{
+									"value" : 2.0
 								}
 ,
 								"weighting" : 								{
 									"value" : 1.0
 								}
 ,
-								"lookahead" : 								{
-									"value" : 2.0
+								"himid" : 								{
+									"value" : 9.0
 								}
-
+,
+								"attack" : 								{
+									"value" : 30.0
+								}
+,
+								"__presetid" : "compressor_stereo"
 							}
 
 						}
  ],
-					"preset" : [ 0 ],
 					"active" : [ "active", 1 ],
-					"weighting" : [ 1 ]
+					"weighting" : [ 1 ],
+					"output gain[1]" : [ -6.992125984251988 ],
+					"input gain[1]" : [ -7.559055118110215 ]
 				}
 
 			}

@@ -1626,21 +1626,6 @@
 										"gain" : 1.0
 									}
 , 									{
-										"in" : 20,
-										"out" : 24,
-										"gain" : 1.0
-									}
-, 									{
-										"in" : 21,
-										"out" : 21,
-										"gain" : 1.0
-									}
-, 									{
-										"in" : 22,
-										"out" : 20,
-										"gain" : 1.0
-									}
-, 									{
 										"in" : 19,
 										"out" : 19,
 										"gain" : 1.0
@@ -1943,6 +1928,21 @@
 , 									{
 										"in" : 46,
 										"out" : 38,
+										"gain" : 1.0
+									}
+, 									{
+										"in" : 20,
+										"out" : 21,
+										"gain" : 1.0
+									}
+, 									{
+										"in" : 21,
+										"out" : 24,
+										"gain" : 1.0
+									}
+, 									{
+										"in" : 22,
+										"out" : 20,
 										"gain" : 1.0
 									}
  ]
@@ -3137,7 +3137,7 @@
 					"LFO Env Pause (uni)[1]::available transition options::when to control" : [ 1 ],
 					"LFO Env Pause (uni)[1]::available transition options::tuba or button" : [ 0 ],
 					"param control logic::invert_control" : [ 0 ],
-					"param control logic::curve[1]" : [ -48.818897637795189 ],
+					"param control logic::curve[1]" : [ -4.724409448818845 ],
 					"param control logic::value to set when control relinquished" : [ 0.5 ],
 					"param control logic::curve polarity" : [ 1.0 ],
 					"param control logic::available transition options[1]::when to relinquish var1" : [ 1 ],

@@ -8,12 +8,12 @@
 					"preset descriptions" : [ "Sousastep's default preset" ],
 					"bleed[1]" : [ -70.0 ],
 					"pitchMixSustain" : [ 53.543307086614192 ],
-					"pitchMixAttack" : [ 85.039370078740049 ],
-					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [ 2, 0, 1.0 ],
+					"pitchMixAttack" : [ 3.149606299212576 ],
+					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [ 1, 0, 1.0 ],
 					"sustain fx chooser::Pre-LPF_FX_randomize" : [ 5.0 ],
 					"post-crossfade fx chooser::Post-Crossfade_FX_plugin_choice" : [ 2, 0, 1.0 ],
 					"post-crossfade fx chooser::Post-Crossfade_FX_randomize" : [ 5.0 ],
-					"attack fx chooser::Dry-ish_FX_plugin_choice" : [ 1, 0, 1.0 ],
+					"attack fx chooser::Dry-ish_FX_plugin_choice" : [ 2, 0, 1.0 ],
 					"attack fx chooser::Dry-ish_FX_randomize" : [ 5.0 ],
 					"mod params::aux_power" : [ 0.0 ],
 					"mod params::aux_phase_offset" : [ 76.377952755905639 ],
@@ -32,29 +32,29 @@
 					"mod params::verylow_SnTrSq" : [ 0 ],
 					"mod params::verylow_duty_cycle" : [ 0.0 ],
 					"mod params::verylow_floor" : [ 0.0 ],
-					"mod params::rez_min" : [ 16 ],
-					"mod params::rez_max" : [ 76 ],
+					"mod params::rez_min" : [ 0 ],
+					"mod params::rez_max" : [ 31 ],
 					"mod params::wah_or_trem" : [ 0 ],
-					"mod params::high_phase_offset[1]" : [ 32.874015748031503 ],
-					"mod params::high_duty_cycle" : [ 66.141732283464364 ],
+					"mod params::high_phase_offset[1]" : [ 39.173228346456668 ],
+					"mod params::high_duty_cycle" : [ 0.0 ],
 					"mod params::filter-type" : [ 0 ],
 					"mod params::ceil_env_smooth" : [ 80.000000000000028 ],
-					"mod params::floor_env_smooth" : [ 80.000000000000028 ],
+					"mod params::floor_env_smooth" : [ 365.542358941718192 ],
 					"mod params::diode-saturation" : [ 0.0 ],
 					"mod params::high_SnTrSq_randomize" : [ 0 ],
 					"mod params::randomize-LPF-type" : [ 0 ],
 					"mod params::env sens[1]" : [ 1.0 ],
-					"mod params::high_pow" : [ 2.755905511811019 ],
-					"mod params::floor_y_pos" : [ 0.181102362204725 ],
+					"mod params::high_pow" : [ 10.6299212598426 ],
+					"mod params::floor_y_pos" : [ 0.212598425196851 ],
 					"mod params::x_pos" : [ 0.0 ],
 					"mod params::ceil_y_pos" : [ 0.338582677165354 ],
-					"mod params::ceil_max" : [ 0.881889763779528 ],
-					"mod params::floor_max" : [ 0.20472440944882 ],
+					"mod params::ceil_max" : [ 0.905511811023622 ],
+					"mod params::floor_max" : [ 0.480314960629922 ],
 					"mod params::pre-rate_phase_offset_high" : [ 0.0 ],
 					"mod params::pre-rate_phase_offset_low" : [ 0.0 ],
 					"mod params::pre-rate_phase_offset_verylow" : [ 0.0 ],
 					"mod params::wah sens reduc" : [ 0.84 ],
-					"mod params::u830003532" : [ 1.0, 0.0, 1.0, 0.0, 0.428571428571429, 0, 0.0, 1.0, 0.938775510204082, 0, 0.405, "curve" ],
+					"mod params::u830003532" : [ 1.0, 0.0, 1.0, 0.0, 0.459183673469388, 0, 0.0, 1.0, 0.5, 0, 0.405, "curve" ],
 					"mod params::very_low_squareness" : [ 0.0 ],
 					"mod params::low_squareness" : [ 0.0 ],
 					"mod params::transient_detect::transient_definition" : [ 0 ],
@@ -62,8 +62,6 @@
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [ 1 ],
 					"metronome[1]::metronome_settings[1]" : [ 1 ],
 					"Loopers::dual_loopers[1]" : [ 1 ],
-					"plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [ 1 ],
-					"plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [ 1 ],
 					"plugin_or_rnbo_selector[1]::dry_preamp_rnbo_or_plugin" : [ 1 ],
 					"plugin_or_rnbo_selector_mono::octaver_rnbo_or_plugin" : [ 1 ],
 					"plugin_or_rnbo_selector[2]::plugin_selector::Dry-ish_FX_plugin1_rnbo_or_plugin" : [ 1 ],
@@ -100,8 +98,10 @@
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [ 1 ],
 					"stutterstep::delay_stutter" : [ 1 ],
 					"patcher[4]::VFX_stutter" : [ 1 ],
-					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [ 1 ],
-					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [ 1 ]
+					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [ 1 ],
+					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [ 1 ],
+					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [ 1 ],
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [ 1 ]
 				}
 
 			}
@@ -166,8 +166,6 @@
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
 					"Loopers::dual_loopers[1]" : [  ],
-					"plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
-					"plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[1]::dry_preamp_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector_mono::octaver_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[2]::plugin_selector::Dry-ish_FX_plugin1_rnbo_or_plugin" : [  ],
@@ -204,8 +202,10 @@
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ],
 					"stutterstep::delay_stutter" : [  ],
 					"patcher[4]::VFX_stutter" : [  ],
-					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
-					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
+					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -270,8 +270,6 @@
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
 					"Loopers::dual_loopers[1]" : [  ],
-					"plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
-					"plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[1]::dry_preamp_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector_mono::octaver_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[2]::plugin_selector::Dry-ish_FX_plugin1_rnbo_or_plugin" : [  ],
@@ -308,8 +306,10 @@
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ],
 					"stutterstep::delay_stutter" : [  ],
 					"patcher[4]::VFX_stutter" : [  ],
-					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
-					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
+					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -374,8 +374,6 @@
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
 					"Loopers::dual_loopers[1]" : [  ],
-					"plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
-					"plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[1]::dry_preamp_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector_mono::octaver_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[2]::plugin_selector::Dry-ish_FX_plugin1_rnbo_or_plugin" : [  ],
@@ -412,8 +410,10 @@
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ],
 					"stutterstep::delay_stutter" : [  ],
 					"patcher[4]::VFX_stutter" : [  ],
-					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
-					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
+					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -478,8 +478,6 @@
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
 					"Loopers::dual_loopers[1]" : [  ],
-					"plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
-					"plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[1]::dry_preamp_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector_mono::octaver_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[2]::plugin_selector::Dry-ish_FX_plugin1_rnbo_or_plugin" : [  ],
@@ -516,8 +514,10 @@
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ],
 					"stutterstep::delay_stutter" : [  ],
 					"patcher[4]::VFX_stutter" : [  ],
-					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
-					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
+					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -582,8 +582,6 @@
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
 					"Loopers::dual_loopers[1]" : [  ],
-					"plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
-					"plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[1]::dry_preamp_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector_mono::octaver_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[2]::plugin_selector::Dry-ish_FX_plugin1_rnbo_or_plugin" : [  ],
@@ -620,8 +618,10 @@
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ],
 					"stutterstep::delay_stutter" : [  ],
 					"patcher[4]::VFX_stutter" : [  ],
-					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
-					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
+					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -686,8 +686,6 @@
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
 					"Loopers::dual_loopers[1]" : [  ],
-					"plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
-					"plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[1]::dry_preamp_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector_mono::octaver_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[2]::plugin_selector::Dry-ish_FX_plugin1_rnbo_or_plugin" : [  ],
@@ -724,8 +722,10 @@
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ],
 					"stutterstep::delay_stutter" : [  ],
 					"patcher[4]::VFX_stutter" : [  ],
-					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
-					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
+					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -790,8 +790,6 @@
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
 					"Loopers::dual_loopers[1]" : [  ],
-					"plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
-					"plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[1]::dry_preamp_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector_mono::octaver_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[2]::plugin_selector::Dry-ish_FX_plugin1_rnbo_or_plugin" : [  ],
@@ -828,8 +826,10 @@
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ],
 					"stutterstep::delay_stutter" : [  ],
 					"patcher[4]::VFX_stutter" : [  ],
-					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
-					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
+					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -894,8 +894,6 @@
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
 					"Loopers::dual_loopers[1]" : [  ],
-					"plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
-					"plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[1]::dry_preamp_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector_mono::octaver_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[2]::plugin_selector::Dry-ish_FX_plugin1_rnbo_or_plugin" : [  ],
@@ -932,8 +930,10 @@
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ],
 					"stutterstep::delay_stutter" : [  ],
 					"patcher[4]::VFX_stutter" : [  ],
-					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
-					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
+					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -998,8 +998,6 @@
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
 					"Loopers::dual_loopers[1]" : [  ],
-					"plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
-					"plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[1]::dry_preamp_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector_mono::octaver_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[2]::plugin_selector::Dry-ish_FX_plugin1_rnbo_or_plugin" : [  ],
@@ -1036,8 +1034,10 @@
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ],
 					"stutterstep::delay_stutter" : [  ],
 					"patcher[4]::VFX_stutter" : [  ],
-					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
-					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
+					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -1102,8 +1102,6 @@
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
 					"Loopers::dual_loopers[1]" : [  ],
-					"plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
-					"plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[1]::dry_preamp_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector_mono::octaver_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[2]::plugin_selector::Dry-ish_FX_plugin1_rnbo_or_plugin" : [  ],
@@ -1140,8 +1138,10 @@
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ],
 					"stutterstep::delay_stutter" : [  ],
 					"patcher[4]::VFX_stutter" : [  ],
-					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
-					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
+					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -1206,8 +1206,6 @@
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
 					"Loopers::dual_loopers[1]" : [  ],
-					"plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
-					"plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[1]::dry_preamp_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector_mono::octaver_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[2]::plugin_selector::Dry-ish_FX_plugin1_rnbo_or_plugin" : [  ],
@@ -1244,8 +1242,10 @@
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ],
 					"stutterstep::delay_stutter" : [  ],
 					"patcher[4]::VFX_stutter" : [  ],
-					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
-					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
+					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -1310,8 +1310,6 @@
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
 					"Loopers::dual_loopers[1]" : [  ],
-					"plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
-					"plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[1]::dry_preamp_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector_mono::octaver_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[2]::plugin_selector::Dry-ish_FX_plugin1_rnbo_or_plugin" : [  ],
@@ -1348,8 +1346,10 @@
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ],
 					"stutterstep::delay_stutter" : [  ],
 					"patcher[4]::VFX_stutter" : [  ],
-					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
-					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
+					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -1414,8 +1414,6 @@
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
 					"Loopers::dual_loopers[1]" : [  ],
-					"plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
-					"plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[1]::dry_preamp_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector_mono::octaver_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[2]::plugin_selector::Dry-ish_FX_plugin1_rnbo_or_plugin" : [  ],
@@ -1452,8 +1450,10 @@
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ],
 					"stutterstep::delay_stutter" : [  ],
 					"patcher[4]::VFX_stutter" : [  ],
-					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
-					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
+					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -1518,8 +1518,6 @@
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
 					"Loopers::dual_loopers[1]" : [  ],
-					"plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
-					"plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[1]::dry_preamp_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector_mono::octaver_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[2]::plugin_selector::Dry-ish_FX_plugin1_rnbo_or_plugin" : [  ],
@@ -1556,8 +1554,10 @@
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ],
 					"stutterstep::delay_stutter" : [  ],
 					"patcher[4]::VFX_stutter" : [  ],
-					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
-					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
+					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -1622,8 +1622,6 @@
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
 					"Loopers::dual_loopers[1]" : [  ],
-					"plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
-					"plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[1]::dry_preamp_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector_mono::octaver_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[2]::plugin_selector::Dry-ish_FX_plugin1_rnbo_or_plugin" : [  ],
@@ -1660,8 +1658,10 @@
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ],
 					"stutterstep::delay_stutter" : [  ],
 					"patcher[4]::VFX_stutter" : [  ],
-					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
-					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
+					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -1726,8 +1726,6 @@
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
 					"Loopers::dual_loopers[1]" : [  ],
-					"plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
-					"plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[1]::dry_preamp_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector_mono::octaver_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[2]::plugin_selector::Dry-ish_FX_plugin1_rnbo_or_plugin" : [  ],
@@ -1764,8 +1762,10 @@
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ],
 					"stutterstep::delay_stutter" : [  ],
 					"patcher[4]::VFX_stutter" : [  ],
-					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
-					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
+					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -1830,8 +1830,6 @@
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
 					"Loopers::dual_loopers[1]" : [  ],
-					"plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
-					"plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[1]::dry_preamp_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector_mono::octaver_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[2]::plugin_selector::Dry-ish_FX_plugin1_rnbo_or_plugin" : [  ],
@@ -1868,8 +1866,10 @@
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ],
 					"stutterstep::delay_stutter" : [  ],
 					"patcher[4]::VFX_stutter" : [  ],
-					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
-					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
+					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -1934,8 +1934,6 @@
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
 					"Loopers::dual_loopers[1]" : [  ],
-					"plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
-					"plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[1]::dry_preamp_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector_mono::octaver_rnbo_or_plugin" : [  ],
 					"plugin_or_rnbo_selector[2]::plugin_selector::Dry-ish_FX_plugin1_rnbo_or_plugin" : [  ],
@@ -1972,8 +1970,10 @@
 					"plugin_or_rnbo_selector[3]::delays_comp_rnbo_or_plugin" : [  ],
 					"stutterstep::delay_stutter" : [  ],
 					"patcher[4]::VFX_stutter" : [  ],
-					"plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
-					"plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
+					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
 				}
 
 			}

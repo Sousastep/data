@@ -43,7 +43,7 @@
 								}
 ,
 								"comp" : 								{
-									"value" : 50.0
+									"value" : 39.0
 								}
 ,
 								"lookahead" : 								{
@@ -55,7 +55,7 @@
 								}
 ,
 								"himid" : 								{
-									"value" : 2.0
+									"value" : 0.0
 								}
 ,
 								"attack" : 								{
@@ -69,8 +69,8 @@
  ],
 					"active" : [ "active", 1 ],
 					"weighting" : [ 1 ],
-					"output gain[1]" : [ -17.952755905511815 ],
-					"input gain[1]" : [ 7.181102362204712 ]
+					"output gain[1]" : [ -9.826771653543304 ],
+					"input gain[1]" : [ 3.779527559055101 ]
 				}
 
 			}

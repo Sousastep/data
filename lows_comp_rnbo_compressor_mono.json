@@ -52,7 +52,7 @@
 								}
 ,
 								"comp" : 								{
-									"value" : 0.0
+									"value" : 40.0
 								}
 ,
 								"lookahead" : 								{
@@ -64,8 +64,8 @@
 						}
  ],
 					"active" : [ "active", 1 ],
-					"output gain[1]" : [ 7.559055118110223 ],
-					"input gain[1]" : [ 10.0 ]
+					"output gain[1]" : [ -7.0 ],
+					"input gain[1]" : [ 24.0 ]
 				}
 
 			}

@@ -1906,11 +1906,6 @@
 										"gain" : 1.0
 									}
 , 									{
-										"in" : 39,
-										"out" : 73,
-										"gain" : 1.0
-									}
-, 									{
 										"in" : 12,
 										"out" : 71,
 										"gain" : 1.0
@@ -1943,6 +1938,11 @@
 , 									{
 										"in" : 22,
 										"out" : 20,
+										"gain" : 1.0
+									}
+, 									{
+										"in" : 36,
+										"out" : 73,
 										"gain" : 1.0
 									}
  ]
@@ -2051,15 +2051,15 @@
 					"Drum Clip Stutter Enable (trig)::available transition options[1]::when to control" : [ 3 ],
 					"Drum Clip Stutter Enable (trig)::available transition options[1]::tuba or button" : [ 0 ],
 					"Drum Clip Stutter Enable (trig)::available transition options[2]::when to relinquish var1" : [ 1 ],
-					"Drum Clip Stutter Enable (trig)::available transition options[2]::when to relinquish var2" : [ 0 ],
-					"Drum Clip Stutter Enable (trig)::available transition options[2]::when to relinquish var1[1]" : [ 1 ],
-					"Drum Clip Stutter Enable (trig)::available transition options[2]::when to relinquish var2[1]" : [ 1 ],
-					"Drum Clip Stutter Enable (trig)::available transition options[2]::when to control" : [ 3 ],
-					"Drum Clip Stutter Enable (trig)::available transition options[2]::tuba or button" : [ 0 ],
+					"Drum Clip Stutter Enable (trig)::available transition options[2]::when to relinquish var2" : [ 1 ],
+					"Drum Clip Stutter Enable (trig)::available transition options[2]::when to relinquish var1[1]" : [ 0 ],
+					"Drum Clip Stutter Enable (trig)::available transition options[2]::when to relinquish var2[1]" : [ 0 ],
+					"Drum Clip Stutter Enable (trig)::available transition options[2]::when to control" : [ 2 ],
+					"Drum Clip Stutter Enable (trig)::available transition options[2]::tuba or button" : [ 1 ],
 					"Drum Clip Stutter Enable (trig)::available transition options[3]::when to relinquish var1" : [ 2 ],
 					"Drum Clip Stutter Enable (trig)::available transition options[3]::when to relinquish var2" : [ 1 ],
 					"Drum Clip Stutter Enable (trig)::available transition options[3]::when to relinquish var1[1]" : [ 0 ],
-					"Drum Clip Stutter Enable (trig)::available transition options[3]::when to relinquish var2[1]" : [ 1 ],
+					"Drum Clip Stutter Enable (trig)::available transition options[3]::when to relinquish var2[1]" : [ 0 ],
 					"Drum Clip Stutter Enable (trig)::available transition options[3]::when to control" : [ 1 ],
 					"Drum Clip Stutter Enable (trig)::available transition options[3]::tuba or button" : [ 0 ],
 					"Drum Clip Stutter Enable (trig)::available transition options::when to relinquish var1" : [ 0 ],
@@ -3192,8 +3192,8 @@
 					"Main Input Delay Fdbk 1 (uni)::available transition options::when to relinquish var2[1]" : [ 0 ],
 					"Main Input Delay Fdbk 1 (uni)::available transition options::when to control" : [ 2 ],
 					"Main Input Delay Fdbk 1 (uni)::available transition options::tuba or button" : [ 1 ],
-					"LFO Floor Envelope Curve (bi)::invert_control" : [ 1 ],
-					"LFO Floor Envelope Curve (bi)::curve[1]" : [ -12.0 ],
+					"LFO Floor Envelope Curve (bi)::invert_control" : [ 0 ],
+					"LFO Floor Envelope Curve (bi)::curve[1]" : [ -8.85039370078734 ],
 					"LFO Floor Envelope Curve (bi)::value to set when control relinquished" : [ 0.5 ],
 					"LFO Floor Envelope Curve (bi)::curve polarity" : [ 1.0 ],
 					"LFO Floor Envelope Curve (bi)::available transition options[1]::when to relinquish var1" : [ 0 ],

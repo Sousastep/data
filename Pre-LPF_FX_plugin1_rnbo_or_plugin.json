@@ -1,11 +1,11 @@
 {
 	"pattrstorage" : 	{
-		"name" : "Dry-ish_FX_plugin1_rnbo_or_plugin",
+		"name" : "Pre-LPF_FX_plugin1_rnbo_or_plugin",
 		"slots" : 		{
 			"1" : 			{
 				"id" : 1,
 				"data" : 				{
-					"rnbo_or_plugin" : [ 1 ]
+					"rnbo_or_plugin" : [ 0 ]
 				}
 
 			}

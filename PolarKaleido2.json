@@ -189,7 +189,7 @@
 					"offset2" : [ 0 ],
 					"ISF-pattrstorage::preset-description" : [ "idle 1" ],
 					"time2::invert" : [ 0.0 ],
-					"time2::linkphasor_rate" : [ 0.12 ],
+					"time2::linkphasor_rate" : [ 1.0 ],
 					"time2::param_ctrl" : [ 1.0 ],
 					"time2::pitch_range_high" : [ 340.0 ],
 					"time2::pitch_range_low" : [ 70.0 ],
@@ -341,15 +341,15 @@
 					"xfade::slide_down" : [ 0 ],
 					"xfade::slide_up" : [ 0 ],
 					"xfade::function_visualizer_clear_line::function_visualizer_floats::function" : [ 1.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 1.0, 1.0, 0, 0.0, "curve" ],
-					"time3::invert" : [  ],
-					"time3::linkphasor_rate" : [  ],
-					"time3::param_ctrl" : [  ],
-					"time3::pitch_range_high" : [  ],
-					"time3::pitch_range_low" : [  ],
-					"time3::rslider" : [  ],
-					"time3::slide_down" : [  ],
-					"time3::slide_up" : [  ],
-					"time3::function_visualizer_clear_line::function_visualizer_floats::function" : [  ]
+					"time3::invert" : [ 0.0 ],
+					"time3::linkphasor_rate" : [ 1.0 ],
+					"time3::param_ctrl" : [ 1.0 ],
+					"time3::pitch_range_high" : [ 340.0 ],
+					"time3::pitch_range_low" : [ 70.0 ],
+					"time3::rslider" : [ 0.0, 1.0 ],
+					"time3::slide_down" : [ 0 ],
+					"time3::slide_up" : [ 0 ],
+					"time3::function_visualizer_clear_line::function_visualizer_floats::function" : [ 1.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 1.0, 1.0, 0, 0.0, "curve" ]
 				}
 
 			}

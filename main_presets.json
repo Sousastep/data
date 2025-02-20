@@ -13,7 +13,7 @@
 					"sustain fx chooser::Pre-LPF_FX_randomize" : [ 5.0 ],
 					"post-crossfade fx chooser::Post-Crossfade_FX_plugin_choice" : [ 2, 0, 1.0 ],
 					"post-crossfade fx chooser::Post-Crossfade_FX_randomize" : [ 5.0 ],
-					"attack fx chooser::Dry-ish_FX_plugin_choice" : [ 2, 0, 1.0 ],
+					"attack fx chooser::Dry-ish_FX_plugin_choice" : [ 0, 0, 1.0 ],
 					"attack fx chooser::Dry-ish_FX_randomize" : [ 5.0 ],
 					"mod params::aux_power" : [ 0.0 ],
 					"mod params::aux_phase_offset" : [ 76.377952755905639 ],

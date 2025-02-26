@@ -1896,16 +1896,6 @@
 										"gain" : 1.0
 									}
 , 									{
-										"in" : 47,
-										"out" : 0,
-										"gain" : 1.0
-									}
-, 									{
-										"in" : 47,
-										"out" : 31,
-										"gain" : 1.0
-									}
-, 									{
 										"in" : 12,
 										"out" : 71,
 										"gain" : 1.0
@@ -1926,13 +1916,18 @@
 										"gain" : 1.0
 									}
 , 									{
-										"in" : 20,
-										"out" : 21,
+										"in" : 37,
+										"out" : 0,
 										"gain" : 1.0
 									}
 , 									{
-										"in" : 21,
-										"out" : 24,
+										"in" : 47,
+										"out" : 1,
+										"gain" : 1.0
+									}
+, 									{
+										"in" : 41,
+										"out" : 31,
 										"gain" : 1.0
 									}
 , 									{
@@ -1941,7 +1936,17 @@
 										"gain" : 1.0
 									}
 , 									{
-										"in" : 36,
+										"in" : 20,
+										"out" : 24,
+										"gain" : 1.0
+									}
+, 									{
+										"in" : 21,
+										"out" : 21,
+										"gain" : 1.0
+									}
+, 									{
+										"in" : 39,
 										"out" : 73,
 										"gain" : 1.0
 									}
@@ -2266,9 +2271,9 @@
 					"LFO Sync-Free Crossfade (uni)::available transition options::when to control" : [ 2 ],
 					"LFO Sync-Free Crossfade (uni)::available transition options::tuba or button" : [ 3 ],
 					"LFO Ceiling Envelope Curve (bi)::invert_control" : [ 1 ],
-					"LFO Ceiling Envelope Curve (bi)::curve[1]" : [ -6.0 ],
+					"LFO Ceiling Envelope Curve (bi)::curve[1]" : [ 22.346456692913307 ],
 					"LFO Ceiling Envelope Curve (bi)::value to set when control relinquished" : [ 0.5 ],
-					"LFO Ceiling Envelope Curve (bi)::curve polarity" : [ 1.0 ],
+					"LFO Ceiling Envelope Curve (bi)::curve polarity" : [ 0.0 ],
 					"LFO Ceiling Envelope Curve (bi)::available transition options[1]::when to relinquish var1" : [ 2 ],
 					"LFO Ceiling Envelope Curve (bi)::available transition options[1]::when to relinquish var2" : [ 1 ],
 					"LFO Ceiling Envelope Curve (bi)::available transition options[1]::when to relinquish var1[1]" : [ 0 ],
@@ -2939,7 +2944,7 @@
 					"LFO Ceiling Envelope Curve (bi)[1]::available transition options::when to control" : [ 2 ],
 					"LFO Ceiling Envelope Curve (bi)[1]::available transition options::tuba or button" : [ 1 ],
 					"Envelope Crossfade Position (bi)[1]::invert_control" : [ 0 ],
-					"Envelope Crossfade Position (bi)[1]::curve[1]" : [ 0.787401574803259 ],
+					"Envelope Crossfade Position (bi)[1]::curve[1]" : [ -41.732283464566734 ],
 					"Envelope Crossfade Position (bi)[1]::value to set when control relinquished" : [ 0.0 ],
 					"Envelope Crossfade Position (bi)[1]::curve polarity" : [ 0.0 ],
 					"Envelope Crossfade Position (bi)[1]::available transition options[1]::when to relinquish var1" : [ 1 ],
@@ -2995,15 +3000,15 @@
 					"LFO Duty Cycle (bi)[1]::available transition options::when to control" : [ 2 ],
 					"LFO Duty Cycle (bi)[1]::available transition options::tuba or button" : [ 1 ],
 					"LFO Swing Amount (uni)[1]::invert_control" : [ 0 ],
-					"LFO Swing Amount (uni)[1]::curve[1]" : [ -9.0 ],
+					"LFO Swing Amount (uni)[1]::curve[1]" : [ 46.118110236220453 ],
 					"LFO Swing Amount (uni)[1]::value to set when control relinquished" : [ 0.0 ],
 					"LFO Swing Amount (uni)[1]::curve polarity" : [ 0.0 ],
 					"LFO Swing Amount (uni)[1]::available transition options[1]::when to relinquish var1" : [ 1 ],
 					"LFO Swing Amount (uni)[1]::available transition options[1]::when to relinquish var2" : [ 1 ],
 					"LFO Swing Amount (uni)[1]::available transition options[1]::when to relinquish var1[1]" : [ 0 ],
 					"LFO Swing Amount (uni)[1]::available transition options[1]::when to relinquish var2[1]" : [ 0 ],
-					"LFO Swing Amount (uni)[1]::available transition options[1]::when to control" : [ 1 ],
-					"LFO Swing Amount (uni)[1]::available transition options[1]::tuba or button" : [ 0 ],
+					"LFO Swing Amount (uni)[1]::available transition options[1]::when to control" : [ 2 ],
+					"LFO Swing Amount (uni)[1]::available transition options[1]::tuba or button" : [ 1 ],
 					"LFO Swing Amount (uni)[1]::available transition options[2]::when to relinquish var1" : [ 0 ],
 					"LFO Swing Amount (uni)[1]::available transition options[2]::when to relinquish var2" : [ 0 ],
 					"LFO Swing Amount (uni)[1]::available transition options[2]::when to relinquish var1[1]" : [ 1 ],
@@ -3020,8 +3025,8 @@
 					"LFO Swing Amount (uni)[1]::available transition options::when to relinquish var2" : [ 1 ],
 					"LFO Swing Amount (uni)[1]::available transition options::when to relinquish var1[1]" : [ 0 ],
 					"LFO Swing Amount (uni)[1]::available transition options::when to relinquish var2[1]" : [ 0 ],
-					"LFO Swing Amount (uni)[1]::available transition options::when to control" : [ 1 ],
-					"LFO Swing Amount (uni)[1]::available transition options::tuba or button" : [ 0 ],
+					"LFO Swing Amount (uni)[1]::available transition options::when to control" : [ 2 ],
+					"LFO Swing Amount (uni)[1]::available transition options::tuba or button" : [ 1 ],
 					"patcher[2]::controller_bindings_preset_initial" : [ 1 ],
 					"LFO Auto-Wah Pause (uni)::invert_control" : [ 0 ],
 					"LFO Auto-Wah Pause (uni)::curve[1]" : [ 52.755905511810887 ],
@@ -3192,10 +3197,10 @@
 					"Main Input Delay Fdbk 1 (uni)::available transition options::when to relinquish var2[1]" : [ 0 ],
 					"Main Input Delay Fdbk 1 (uni)::available transition options::when to control" : [ 2 ],
 					"Main Input Delay Fdbk 1 (uni)::available transition options::tuba or button" : [ 1 ],
-					"LFO Floor Envelope Curve (bi)::invert_control" : [ 0 ],
-					"LFO Floor Envelope Curve (bi)::curve[1]" : [ -8.85039370078734 ],
-					"LFO Floor Envelope Curve (bi)::value to set when control relinquished" : [ 0.5 ],
-					"LFO Floor Envelope Curve (bi)::curve polarity" : [ 1.0 ],
+					"LFO Floor Envelope Curve (bi)::invert_control" : [ 1 ],
+					"LFO Floor Envelope Curve (bi)::curve[1]" : [ -37.196850393700643 ],
+					"LFO Floor Envelope Curve (bi)::value to set when control relinquished" : [ 0.0 ],
+					"LFO Floor Envelope Curve (bi)::curve polarity" : [ 0.0 ],
 					"LFO Floor Envelope Curve (bi)::available transition options[1]::when to relinquish var1" : [ 0 ],
 					"LFO Floor Envelope Curve (bi)::available transition options[1]::when to relinquish var2" : [ 1 ],
 					"LFO Floor Envelope Curve (bi)::available transition options[1]::when to relinquish var1[1]" : [ 0 ],

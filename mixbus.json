@@ -5,19 +5,19 @@
 			"1" : 			{
 				"id" : 1,
 				"data" : 				{
-					"u617004316" : [ -5.0 ],
+					"u617004316" : [ -11.0 ],
 					"u617004316[1]" : [ 0.0 ],
 					"u617004316[2]" : [ 0.0 ],
-					"u617004316[3]" : [ -6.0 ],
+					"u617004316[3]" : [ 0.0 ],
 					"u617004316[4]" : [ 0.0 ],
 					"u617004316[5]" : [ 0.0 ],
 					"autosave" : [ 1 ],
 					"attack_low::muted" : [ 0.0 ],
-					"attack_octave::muted" : [ 0.0 ],
-					"sustain_octave::muted" : [ 0.0 ],
+					"attack_octave::muted" : [ 1.0 ],
+					"sustain_octave::muted" : [ 1.0 ],
 					"attackFX::muted" : [ 0.0 ],
-					"sustainFX::muted" : [ 0.0 ],
-					"sustain_low::muted" : [ 0.0 ]
+					"sustainFX::muted" : [ 1.0 ],
+					"sustain_low::muted" : [ 1.0 ]
 				}
 
 			}

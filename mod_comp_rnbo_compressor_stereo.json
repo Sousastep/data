@@ -55,7 +55,7 @@
 								}
 ,
 								"himid" : 								{
-									"value" : 16.0
+									"value" : 12.0
 								}
 ,
 								"attack" : 								{
@@ -69,8 +69,8 @@
  ],
 					"active" : [ "active", 1 ],
 					"weighting" : [ 1 ],
-					"output gain[1]" : [ -8.0 ],
-					"input gain[1]" : [ -6.0 ]
+					"output gain[1]" : [ -12.913385826771648 ],
+					"input gain[1]" : [ -12.0 ]
 				}
 
 			}

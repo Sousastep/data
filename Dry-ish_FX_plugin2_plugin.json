@@ -4,7 +4,7 @@
 		"slots" : 		{
 			"1" : 			{
 				"id" : 1,
-				"name" : "The Drop",
+				"name" : "MicroPitch",
 				"data" : 				{
 					"plugin" : [ 						{
 							"filetype" : "C74Snapshot",
@@ -28,7 +28,7 @@
 
 						}
  ],
-					"latency" : [ 58 ]
+					"latency" : [ 8 ]
 				}
 
 			}

@@ -18,7 +18,7 @@
 					"u471002486[3]" : [ 0.0 ],
 					"software_or_hardware_delays_2" : [ 0 ],
 					"software_or_hardware_delays_3" : [ 1 ],
-					"software_or_hardware_delays_4" : [ 1 ],
+					"software_or_hardware_delays_4" : [ 0 ],
 					"allow main reverb send to mute dry signal" : [ 1.0 ],
 					"function" : [ 1.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 1.0, 1.0, 0, -0.045, "curve" ]
 				}

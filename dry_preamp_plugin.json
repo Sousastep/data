@@ -4,31 +4,31 @@
 		"slots" : 		{
 			"1" : 			{
 				"id" : 1,
-				"name" : "Pre TridA",
+				"name" : "Pro-Q 3",
 				"data" : 				{
 					"plugin" : [ 						{
 							"filetype" : "C74Snapshot",
 							"version" : 2,
 							"minorversion" : 0,
-							"name" : "Pre TridA",
-							"origin" : "Pre TridA.auinfo",
+							"name" : "Pro-Q 3",
+							"origin" : "Pro-Q 3.auinfo",
 							"type" : "AudioUnit",
 							"subtype" : "MidiEffect",
 							"embed" : 1,
 							"snapshot" : 							{
-								"pluginname" : "Pre TridA.auinfo",
-								"plugindisplayname" : "Pre TridA",
+								"pluginname" : "Pro-Q 3.auinfo",
+								"plugindisplayname" : "Pro-Q 3",
 								"pluginsavedname" : "",
-								"pluginsaveduniqueid" : 1951750209,
+								"pluginsaveduniqueid" : 1631927376,
 								"version" : 1,
 								"isbank" : 0,
 								"isbase64" : 1,
-								"blob" : "3223.hAGaoMGcv.C1AHv.DTfAGfPBJrvDTTgEWvUag4VclE1XzUmbkIGUjEFcgwUYrUVak4Fcs3VXsU1WP.wPu4Fcx8FarUlbfLEcgQWYWMWchQWdvU1U1Ulbyk1atQEc4AWYT4VXsUlDAIGc08TDBPB..............LD...P..........HvO.B......C7Cf.......A.........T..........F.........vA+........fvOpn5p....I7yHWq....fB.........rvO........L7iJptJ...PC9nLvCB...3vO.B......O..........D.........DwO.B......R.........vD.........PgOc+xF....U7Cf......fE.........bA.........X7iJptJ...PF+........nwOpn5p....a7C........G9nppqB...zwO........d7iJptJ...vG+.........B.........g.........fH.........LB.........j.........PI.........XxO........27C........N+........jyO........57C.......vN+........vyO........87C.......fO+........7yO.........8C.......PP+........HD.........CA.........Q.........TD.........FA........vQ.........fD.........IA........fR.........rD.........LA........PS.........3D.........OA.........T.........DE.........RA........vT.....HMCM3PDQESTxD8CPDELYMEckIWYuARRtE8CRn0TzUlbk8FHOUGcOEQB1IiLfLWYxkVXrkldgQWZu4lN5DlbigVZ1UFHw.CHv.xMf.CH2.xMfPTYlEVcrQGH1.xTzUlbk8FHxjCH2.RPxQWcxkVXf.CHf.CHv.BLf.CHw.BLf.CHfDiMx.iLxDSL4DCHw.CHw3BNt.iK0PiMv.BLf.CHv.BLf.CHv.BLf.CHf.CHv.hLf.CHv.BLfDSMfLDZgIWXiQWYxk1bzk1XyABNfLEc4wVYywxNfPCHTkGbkABNfPUYsAGagQWYf.CHv.BLfbCHv.BLf.CHv.BLf.CHzHCHv.BLf.CH1.RPiQWZ1UFHw.hMfHTdvE1byABLfDiMfLDZtDiNfDCLv.BR5ABRPYDHv.RL1.xPn4RL5.RLx.xZHoGHLAkQf.CHwXCHCglKwnCHwTCHqgjdfvDTFABLfDSMfLDZtDiNfHSMffjdffDTFARLfDSMfLDZtDiNfTCLffjdffDTFABLfDSMfLDZtDiNfjCHqgjdfvDTFARLfDyMfLDZtDiNfHTYrwFHw.hQxUVbf.iK1XiM1XiM1jCHwbCHCglKwnCHBUFarARLfbTXo4FHv3hMyjSN4jSN4.RL2.xPn4RL5.hPkwFafHCHFIWYwABLfDyMfLDZtDiNfHTYrwFHx.xQgklaf.iK0.RL0.xPn4RL5.RQtElXrUFHEEEHw.hLv.xPn4RL5.BRocFZSgVYrYFHFIWYwABLfHCLfLDZtDiNffTZmg1TnUFalAxQgklaf.iK0.RL1.xPn4RL5.RRtAWczAxQgklaf.CHwjCHCglKwnCHL81cSgVYrYFHFIWYwABLtXiM1XiM1XSNfDSNfLDZtDiNfvza2MEZkwlYfbTXo4FHv3xL4XCHwbCHCglKwnCHOUGcvUGcfPkbo0FHv3BMyHCLv.CLw.RL4.xPn4RL5.BTnE1bkAhTkYWYxMWYf.CHwXCHCglKxnCHw.CLffjdffDTFABLfDiMfLDZtHiNfDiLfrFR5ABSPYDHv.RL1.xPn4hL5.RL0.xZHoGHLAkQf.CHwTCHCglKxnCHxTCHHoGHHAkQfDCHwTCHCglKxnCH0.CHHoGHHAkQf.CHwTCHCglKxnCH4.xZHoGHLAkQfDCHwbCHCglKxnCHBUFarARLfXjbkEGHv3hM1XiM1XiM4.RL2.xPn4hL5.hPkwFafDCHGEVZtABLtXyL4jSN4jSNfDyMfLDZtHiNfHTYrwFHx.hQxUVbf.CHwbCHCglKxnCHBUFarAhLfbTXo4FHv3RMfDSMfLDZtHiNfTjagIFakARQQARLfHCLfLDZtHiNffTZmg1TnUFalAhQxUVbf.CHx.CHCglKxnCHHk1YnMEZkwlYfbTXo4FHv3RMfDiMfLDZtHiNfjjavUGcfbTXo4FHv.RL4.xPn4hL5.BSuc2TnUFalAhQxUVbf.iK1XiM1XiM1jCHwjCHCglKxnCHL81cSgVYrYFHGEVZtABLtLSN1.CLv.yLfDyMfLDZtHiNf7TczAWczABUxkVaf.iKzLiLv.CLvDCHwjCHCglKxnCHPgVXyUFHRUlckI2bkABLfDiLfzTRDkDHCgVXt4VYrABLfDSLfLEckIWYuABSo41ZfDCHwDCHSQWYxU1afzzajUFHv.RLv.hUgIWZgQWZu41bf.CHzLCHv.RL3.RSoQVZC8lazI2arwVYx4TXsUFHyHCH...........................................HwPCHe8ERW8USgAGbkQ1WeACHz.x+++++fDCMf70WHc0WMEFbvUFYe8ULfPCH+++++CRL0.xWegzUe0TXvAWYj80Ww.CHz.x+++++fDSMf70WHc0WMEFbvUFYe8ULw.BMf7++++OHwTCHe8ERW8USgAGbkQ1WeEiLfPCH+++++CRL0.xWegzUe0TXvAWYj80WwLCHz.x+++++fDSMf70WHc0WMEFbvUFYe8ULz.BMf7++++OHwTCHe8ERW8USgAGbkQ1WeESMfPCH+++++CRL0.xWegzUe0TXvAWYj80WwXCHz.x+++++fDSMf70WHc0WMEFbvUFYe8UL2.BMf7++++OHwTCHe8ERW8USgAGbkQ1WeECNfPCH+++++CRL0.xWegzUe0TXvAWYj80WwjCHz.x+++++fDCMf70WHc0WMEFbvUFYe8kLfPCH+++++CRLz.xWegzUe0TXvAWYj80Wy.BMf7++++OHwPCHe8ERW8USgAGbkQ1WeQCHz.x+++++fDCMf70WHc0WMEFbvUFYe8UMfPCH+++++CRLz.xWegzUe0TXvAWYj80W1.BMf7++++OHwPCHe8ERW8USgAGbkQ1WecCHz.x+++++fDCMf70WHc0WMEFbvUFYe8ENfPCH+++++CRLz.xWegzUe0TXvAWYj80W4.BMf7++++OHwDCHe8USgAGbkQ1WeACHz.x+++++fDSLf70WMEFbvUFYe8ULfPCH+++++CRLx.xWe0TXvAWYj80Ww.CHz.x+++++fDiLf70WMEFbvUFYe8ULw.BMf7++++OHwHCHe8USgAGbkQ1WeEiLfPCH+++++CRLx.xWe0TXvAWYj80WwLCHz.x+++++fDiLf70WMEFbvUFYe8ULz.BMf7++++OHwHCHe8USgAGbkQ1WeESMfPCH+++++CRLx.xWe0TXvAWYj80WwXCHz.x+++++fDiLf70WMEFbvUFYe8UL2.BMf7++++OHwHCHe8USgAGbkQ1WeECNfPCH+++++CRLx.xWe0TXvAWYj80WwjCHz.x+++++fDSLf70WMEFbvUFYe8kLfPCH+++++CRLw.xWe0TXvAWYj80Wy.BMf7++++OHwDCHe8USgAGbkQ1WeQCHz.x+++++fDSLf70WMEFbvUFYe8UMfPCH+++++CRLw.xWe0TXvAWYj80W1.BMf7++++OHwDCHe8USgAGbkQ1WecCHz.x+++++fDSLf70WMEFbvUFYe8ENfPCH+++++CRLw.xWe0TXvAWYj80W4.BMf7++++OHxjCHe80TTEDUE80WRUzTEIkUEQzWe0TRDkzPO4jQIcDH4fCH77CdswFH1Ulbyk1at0iHw3BLh.RYtM1ajklam0iH0QmYsfiH+3iB7H2auQmauQVY9nPB7zVZjk1Xu4lYocFHtEVak0iHh.hYgMFcuIWd8HBLh7hOJvyKx81az41ajUlOJn.HxbCHe80TTEDUE80WRUzTEIkUEQzWe0zSDkjQIUDQfDCHwnfDTIUPRAA.RDVcsYFVU4FcoQGakQF.H.PF.XB.q..N.rD.SAvV..F.kAfZBHo.WJPlBro.dJ.nBnp.sJ.tLHCC2vPNL3C.......f.A..........F...................CGA"
+								"blob" : "1688.hAGaoMGcv.i0AHv.DTfAGfPBJr.CWMWchQWdvUFWsEla0YVXiQWcxUlbeAAEFElXFkFazUlbPwVcmklaSQWXzUFUtEVakQEc4AWYWYWYxMWZu4lDFE0LvIgQgIlQOEQAjajQBMU.....lE.......9C...3OLmMMAAEteFD........f+....9Cz72wO.........9C....P...f+..............f+n8beDD..............9C...3O....+.........3O.....A...9C..............9i1y8QP..............3O...f+....7C........f+.....D...3O..............3OZO2GAA.............f+....9C...vO.........9C....P...f+..............f+n8beDD..............9C...3O....+.........3O.....A...9C..............9i1y8QP..............3O...f+....7C........f+.....D...3O..............3OZO2GAA.............f+....9C...vO.........9C....P...f+..............f+n8beDD..............9C...3O....+.........3O.....A...9C..............9i1y8QP..............3O...f+....7C........f+.....D...3O..............3OZO2GAA.............f+....9C...vO.........9C....P...f+..............f+n8beDD..............9C...3O....+.........3O.....A...9C..............9i1y8QP..............3O...f+....7C........f+.....D...3O..............3OZO2GAA.............f+....9C...vO.........9C....P...f+..............f+n8beDD..............9C...3O....+.........3O.....A...9C..............9i1y8QP..............3O...f+....7C........f+.....D...3O..............3OZO2GAA.............f+....9C...vO.........9C....P...f+..............f+n8beDD..............9C...3O....+.........3O.....A...9C..............9i1y8QP..............3O...f+....7C........f+.....D...3O..............3OZO2GAA.............f+....9C...vO.........9C....P...f+..............f+n8beDD..............9C...3O....+.........3O.....A...9C..............9i1y8QP..............3O...f+....7C........f+.....D...3O..............3OZO2GAA.............f+....9C...vO.........9C....P...f+..............f+n8beDD..............9C...3O....+.........3O.....A...9C..............9i1y8QP..............3O...f+....7C........f+.....D...3O..............3O...f+....................................9C...3O...f+B...9C...DP...f.A...AD........f+....9C...DP..........................................................................................................................................fQQMCbC....7.....QkYVX0wFcfLUYzQWZtc1+++++A....j.....Tx8VKQABJ0jR.....CU2TVE..........eAwCDUlYgUGazAxTkQGco41YRDVcsYFD...B.TA.c.fJ.DD.FAvR.LE.XAPWFTjAWY.W........BD..........M...................F3E"
 							}
 
 						}
  ],
-					"latency" : [ 32 ]
+					"latency" : [ 0 ]
 				}
 
 			}

@@ -9,11 +9,12 @@
 					"bleed[1]" : [ -70.0 ],
 					"pitchMixSustain" : [ 48.03149606299219 ],
 					"pitchMixAttack" : [ 66.929133858267733 ],
+					"freq_detect" : [ 2 ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [ 0, 0, 1.0 ],
 					"sustain fx chooser::Pre-LPF_FX_randomize" : [ 5.0 ],
 					"post-crossfade fx chooser::Post-Crossfade_FX_plugin_choice" : [ 2, 0, 1.0 ],
 					"post-crossfade fx chooser::Post-Crossfade_FX_randomize" : [ 2.0 ],
-					"attack fx chooser::Dry-ish_FX_plugin_choice" : [ 1, 0, 1.0 ],
+					"attack fx chooser::Dry-ish_FX_plugin_choice" : [ 3, 0, 1.0 ],
 					"attack fx chooser::Dry-ish_FX_randomize" : [ 3.0 ],
 					"mod params::aux_power" : [ 0.0 ],
 					"mod params::aux_phase_offset" : [ 76.377952755905639 ],
@@ -27,7 +28,7 @@
 					"mod params::low_SnTrSq" : [ 0 ],
 					"mod params::low_duty_cycle" : [ 0.0 ],
 					"mod params::low_floor" : [ 0.0 ],
-					"mod params::verylow_power" : [ 0.0 ],
+					"mod params::verylow_power" : [ -40.944881889763707 ],
 					"mod params::verylow_phase_offset" : [ 45.598425196850378 ],
 					"mod params::verylow_SnTrSq" : [ 0 ],
 					"mod params::verylow_duty_cycle" : [ 0.0 ],
@@ -35,21 +36,21 @@
 					"mod params::rez_min" : [ 0 ],
 					"mod params::rez_max" : [ 73 ],
 					"mod params::wah_or_trem" : [ 0 ],
-					"mod params::high_phase_offset[1]" : [ 31.0 ],
+					"mod params::high_phase_offset[1]" : [ 40.0 ],
 					"mod params::high_duty_cycle" : [ 0.0 ],
 					"mod params::filter-type" : [ 0 ],
-					"mod params::ceil_env_smooth" : [ 100.000000000000014 ],
+					"mod params::ceil_env_smooth" : [ 100.000000000000057 ],
 					"mod params::floor_env_smooth" : [ 100.000000000000014 ],
 					"mod params::diode-saturation" : [ 0.0 ],
 					"mod params::high_SnTrSq_randomize" : [ 0 ],
 					"mod params::randomize-LPF-type" : [ 0 ],
-					"mod params::env sens[1]" : [ 1.2 ],
-					"mod params::high_pow" : [ 10.6299212598426 ],
+					"mod params::env sens[1]" : [ 1.0 ],
+					"mod params::high_pow" : [ 22.834645669291309 ],
 					"mod params::floor_y_pos" : [ 0.212598425196851 ],
 					"mod params::x_pos" : [ 0.0 ],
 					"mod params::ceil_y_pos" : [ 0.228346456692913 ],
 					"mod params::ceil_max" : [ 0.90511811023622 ],
-					"mod params::floor_max" : [ 0.590551181102362 ],
+					"mod params::floor_max" : [ 0.724409448818897 ],
 					"mod params::pre-rate_phase_offset_high" : [ 0.0 ],
 					"mod params::pre-rate_phase_offset_low" : [ 0.0 ],
 					"mod params::pre-rate_phase_offset_verylow" : [ 0.0 ],
@@ -58,9 +59,10 @@
 					"mod params::very_low_squareness" : [ 0.0 ],
 					"mod params::low_squareness" : [ 0.0 ],
 					"mod params::u109007424" : [ -100.0 ],
-					"mod params::transient_detect::slide_down[1]" : [ 97.682892495178947 ],
-					"mod params::transient_detect::threshold" : [ 0.585669781931464 ],
-					"mod params::transient_detect::hysteresis" : [ 0.311526479750779 ],
+					"mod params::transient_detect::slide_down[1]" : [ 142.286444409208087 ],
+					"mod params::transient_detect::hysteresis" : [ 0.3 ],
+					"mod params::transient_detect::u208032528" : [ 25.0 ],
+					"mod params::transient_detect::u208032528[1]" : [ 1.0 ],
 					"umenu_presets::main_preset_initial" : [ 1 ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [ 1 ],
 					"metronome[1]::metronome_settings[1]" : [ 1 ],
@@ -104,7 +106,9 @@
 					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [ 1 ],
 					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [ 1 ],
 					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [ 1 ],
-					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [ 1 ]
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [ 1 ],
+					"reese_bass::reese_bass" : [ 1 ],
+					"plugin_or_rnbo_selector[5]::dryish_eq_rnbo_or_plugin" : [ 1 ]
 				}
 
 			}
@@ -116,6 +120,7 @@
 					"bleed[1]" : [  ],
 					"pitchMixSustain" : [  ],
 					"pitchMixAttack" : [  ],
+					"freq_detect" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_randomize" : [  ],
 					"post-crossfade fx chooser::Post-Crossfade_FX_plugin_choice" : [  ],
@@ -166,8 +171,9 @@
 					"mod params::low_squareness" : [  ],
 					"mod params::u109007424" : [  ],
 					"mod params::transient_detect::slide_down[1]" : [  ],
-					"mod params::transient_detect::threshold" : [  ],
 					"mod params::transient_detect::hysteresis" : [  ],
+					"mod params::transient_detect::u208032528" : [  ],
+					"mod params::transient_detect::u208032528[1]" : [  ],
 					"umenu_presets::main_preset_initial" : [  ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
@@ -211,7 +217,9 @@
 					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
 					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
 					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
-					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ],
+					"reese_bass::reese_bass" : [  ],
+					"plugin_or_rnbo_selector[5]::dryish_eq_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -223,6 +231,7 @@
 					"bleed[1]" : [  ],
 					"pitchMixSustain" : [  ],
 					"pitchMixAttack" : [  ],
+					"freq_detect" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_randomize" : [  ],
 					"post-crossfade fx chooser::Post-Crossfade_FX_plugin_choice" : [  ],
@@ -273,8 +282,9 @@
 					"mod params::low_squareness" : [  ],
 					"mod params::u109007424" : [  ],
 					"mod params::transient_detect::slide_down[1]" : [  ],
-					"mod params::transient_detect::threshold" : [  ],
 					"mod params::transient_detect::hysteresis" : [  ],
+					"mod params::transient_detect::u208032528" : [  ],
+					"mod params::transient_detect::u208032528[1]" : [  ],
 					"umenu_presets::main_preset_initial" : [  ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
@@ -318,7 +328,9 @@
 					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
 					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
 					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
-					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ],
+					"reese_bass::reese_bass" : [  ],
+					"plugin_or_rnbo_selector[5]::dryish_eq_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -330,6 +342,7 @@
 					"bleed[1]" : [  ],
 					"pitchMixSustain" : [  ],
 					"pitchMixAttack" : [  ],
+					"freq_detect" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_randomize" : [  ],
 					"post-crossfade fx chooser::Post-Crossfade_FX_plugin_choice" : [  ],
@@ -380,8 +393,9 @@
 					"mod params::low_squareness" : [  ],
 					"mod params::u109007424" : [  ],
 					"mod params::transient_detect::slide_down[1]" : [  ],
-					"mod params::transient_detect::threshold" : [  ],
 					"mod params::transient_detect::hysteresis" : [  ],
+					"mod params::transient_detect::u208032528" : [  ],
+					"mod params::transient_detect::u208032528[1]" : [  ],
 					"umenu_presets::main_preset_initial" : [  ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
@@ -425,7 +439,9 @@
 					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
 					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
 					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
-					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ],
+					"reese_bass::reese_bass" : [  ],
+					"plugin_or_rnbo_selector[5]::dryish_eq_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -437,6 +453,7 @@
 					"bleed[1]" : [  ],
 					"pitchMixSustain" : [  ],
 					"pitchMixAttack" : [  ],
+					"freq_detect" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_randomize" : [  ],
 					"post-crossfade fx chooser::Post-Crossfade_FX_plugin_choice" : [  ],
@@ -487,8 +504,9 @@
 					"mod params::low_squareness" : [  ],
 					"mod params::u109007424" : [  ],
 					"mod params::transient_detect::slide_down[1]" : [  ],
-					"mod params::transient_detect::threshold" : [  ],
 					"mod params::transient_detect::hysteresis" : [  ],
+					"mod params::transient_detect::u208032528" : [  ],
+					"mod params::transient_detect::u208032528[1]" : [  ],
 					"umenu_presets::main_preset_initial" : [  ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
@@ -532,7 +550,9 @@
 					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
 					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
 					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
-					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ],
+					"reese_bass::reese_bass" : [  ],
+					"plugin_or_rnbo_selector[5]::dryish_eq_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -544,6 +564,7 @@
 					"bleed[1]" : [  ],
 					"pitchMixSustain" : [  ],
 					"pitchMixAttack" : [  ],
+					"freq_detect" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_randomize" : [  ],
 					"post-crossfade fx chooser::Post-Crossfade_FX_plugin_choice" : [  ],
@@ -594,8 +615,9 @@
 					"mod params::low_squareness" : [  ],
 					"mod params::u109007424" : [  ],
 					"mod params::transient_detect::slide_down[1]" : [  ],
-					"mod params::transient_detect::threshold" : [  ],
 					"mod params::transient_detect::hysteresis" : [  ],
+					"mod params::transient_detect::u208032528" : [  ],
+					"mod params::transient_detect::u208032528[1]" : [  ],
 					"umenu_presets::main_preset_initial" : [  ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
@@ -639,7 +661,9 @@
 					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
 					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
 					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
-					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ],
+					"reese_bass::reese_bass" : [  ],
+					"plugin_or_rnbo_selector[5]::dryish_eq_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -651,6 +675,7 @@
 					"bleed[1]" : [  ],
 					"pitchMixSustain" : [  ],
 					"pitchMixAttack" : [  ],
+					"freq_detect" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_randomize" : [  ],
 					"post-crossfade fx chooser::Post-Crossfade_FX_plugin_choice" : [  ],
@@ -701,8 +726,9 @@
 					"mod params::low_squareness" : [  ],
 					"mod params::u109007424" : [  ],
 					"mod params::transient_detect::slide_down[1]" : [  ],
-					"mod params::transient_detect::threshold" : [  ],
 					"mod params::transient_detect::hysteresis" : [  ],
+					"mod params::transient_detect::u208032528" : [  ],
+					"mod params::transient_detect::u208032528[1]" : [  ],
 					"umenu_presets::main_preset_initial" : [  ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
@@ -746,7 +772,9 @@
 					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
 					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
 					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
-					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ],
+					"reese_bass::reese_bass" : [  ],
+					"plugin_or_rnbo_selector[5]::dryish_eq_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -758,6 +786,7 @@
 					"bleed[1]" : [  ],
 					"pitchMixSustain" : [  ],
 					"pitchMixAttack" : [  ],
+					"freq_detect" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_randomize" : [  ],
 					"post-crossfade fx chooser::Post-Crossfade_FX_plugin_choice" : [  ],
@@ -808,8 +837,9 @@
 					"mod params::low_squareness" : [  ],
 					"mod params::u109007424" : [  ],
 					"mod params::transient_detect::slide_down[1]" : [  ],
-					"mod params::transient_detect::threshold" : [  ],
 					"mod params::transient_detect::hysteresis" : [  ],
+					"mod params::transient_detect::u208032528" : [  ],
+					"mod params::transient_detect::u208032528[1]" : [  ],
 					"umenu_presets::main_preset_initial" : [  ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
@@ -853,7 +883,9 @@
 					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
 					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
 					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
-					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ],
+					"reese_bass::reese_bass" : [  ],
+					"plugin_or_rnbo_selector[5]::dryish_eq_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -865,6 +897,7 @@
 					"bleed[1]" : [  ],
 					"pitchMixSustain" : [  ],
 					"pitchMixAttack" : [  ],
+					"freq_detect" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_randomize" : [  ],
 					"post-crossfade fx chooser::Post-Crossfade_FX_plugin_choice" : [  ],
@@ -915,8 +948,9 @@
 					"mod params::low_squareness" : [  ],
 					"mod params::u109007424" : [  ],
 					"mod params::transient_detect::slide_down[1]" : [  ],
-					"mod params::transient_detect::threshold" : [  ],
 					"mod params::transient_detect::hysteresis" : [  ],
+					"mod params::transient_detect::u208032528" : [  ],
+					"mod params::transient_detect::u208032528[1]" : [  ],
 					"umenu_presets::main_preset_initial" : [  ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
@@ -960,7 +994,9 @@
 					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
 					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
 					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
-					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ],
+					"reese_bass::reese_bass" : [  ],
+					"plugin_or_rnbo_selector[5]::dryish_eq_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -972,6 +1008,7 @@
 					"bleed[1]" : [  ],
 					"pitchMixSustain" : [  ],
 					"pitchMixAttack" : [  ],
+					"freq_detect" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_randomize" : [  ],
 					"post-crossfade fx chooser::Post-Crossfade_FX_plugin_choice" : [  ],
@@ -1022,8 +1059,9 @@
 					"mod params::low_squareness" : [  ],
 					"mod params::u109007424" : [  ],
 					"mod params::transient_detect::slide_down[1]" : [  ],
-					"mod params::transient_detect::threshold" : [  ],
 					"mod params::transient_detect::hysteresis" : [  ],
+					"mod params::transient_detect::u208032528" : [  ],
+					"mod params::transient_detect::u208032528[1]" : [  ],
 					"umenu_presets::main_preset_initial" : [  ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
@@ -1067,7 +1105,9 @@
 					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
 					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
 					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
-					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ],
+					"reese_bass::reese_bass" : [  ],
+					"plugin_or_rnbo_selector[5]::dryish_eq_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -1079,6 +1119,7 @@
 					"bleed[1]" : [  ],
 					"pitchMixSustain" : [  ],
 					"pitchMixAttack" : [  ],
+					"freq_detect" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_randomize" : [  ],
 					"post-crossfade fx chooser::Post-Crossfade_FX_plugin_choice" : [  ],
@@ -1129,8 +1170,9 @@
 					"mod params::low_squareness" : [  ],
 					"mod params::u109007424" : [  ],
 					"mod params::transient_detect::slide_down[1]" : [  ],
-					"mod params::transient_detect::threshold" : [  ],
 					"mod params::transient_detect::hysteresis" : [  ],
+					"mod params::transient_detect::u208032528" : [  ],
+					"mod params::transient_detect::u208032528[1]" : [  ],
 					"umenu_presets::main_preset_initial" : [  ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
@@ -1174,7 +1216,9 @@
 					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
 					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
 					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
-					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ],
+					"reese_bass::reese_bass" : [  ],
+					"plugin_or_rnbo_selector[5]::dryish_eq_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -1186,6 +1230,7 @@
 					"bleed[1]" : [  ],
 					"pitchMixSustain" : [  ],
 					"pitchMixAttack" : [  ],
+					"freq_detect" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_randomize" : [  ],
 					"post-crossfade fx chooser::Post-Crossfade_FX_plugin_choice" : [  ],
@@ -1236,8 +1281,9 @@
 					"mod params::low_squareness" : [  ],
 					"mod params::u109007424" : [  ],
 					"mod params::transient_detect::slide_down[1]" : [  ],
-					"mod params::transient_detect::threshold" : [  ],
 					"mod params::transient_detect::hysteresis" : [  ],
+					"mod params::transient_detect::u208032528" : [  ],
+					"mod params::transient_detect::u208032528[1]" : [  ],
 					"umenu_presets::main_preset_initial" : [  ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
@@ -1281,7 +1327,9 @@
 					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
 					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
 					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
-					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ],
+					"reese_bass::reese_bass" : [  ],
+					"plugin_or_rnbo_selector[5]::dryish_eq_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -1293,6 +1341,7 @@
 					"bleed[1]" : [  ],
 					"pitchMixSustain" : [  ],
 					"pitchMixAttack" : [  ],
+					"freq_detect" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_randomize" : [  ],
 					"post-crossfade fx chooser::Post-Crossfade_FX_plugin_choice" : [  ],
@@ -1343,8 +1392,9 @@
 					"mod params::low_squareness" : [  ],
 					"mod params::u109007424" : [  ],
 					"mod params::transient_detect::slide_down[1]" : [  ],
-					"mod params::transient_detect::threshold" : [  ],
 					"mod params::transient_detect::hysteresis" : [  ],
+					"mod params::transient_detect::u208032528" : [  ],
+					"mod params::transient_detect::u208032528[1]" : [  ],
 					"umenu_presets::main_preset_initial" : [  ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
@@ -1388,7 +1438,9 @@
 					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
 					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
 					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
-					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ],
+					"reese_bass::reese_bass" : [  ],
+					"plugin_or_rnbo_selector[5]::dryish_eq_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -1400,6 +1452,7 @@
 					"bleed[1]" : [  ],
 					"pitchMixSustain" : [  ],
 					"pitchMixAttack" : [  ],
+					"freq_detect" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_randomize" : [  ],
 					"post-crossfade fx chooser::Post-Crossfade_FX_plugin_choice" : [  ],
@@ -1450,8 +1503,9 @@
 					"mod params::low_squareness" : [  ],
 					"mod params::u109007424" : [  ],
 					"mod params::transient_detect::slide_down[1]" : [  ],
-					"mod params::transient_detect::threshold" : [  ],
 					"mod params::transient_detect::hysteresis" : [  ],
+					"mod params::transient_detect::u208032528" : [  ],
+					"mod params::transient_detect::u208032528[1]" : [  ],
 					"umenu_presets::main_preset_initial" : [  ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
@@ -1495,7 +1549,9 @@
 					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
 					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
 					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
-					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ],
+					"reese_bass::reese_bass" : [  ],
+					"plugin_or_rnbo_selector[5]::dryish_eq_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -1507,6 +1563,7 @@
 					"bleed[1]" : [  ],
 					"pitchMixSustain" : [  ],
 					"pitchMixAttack" : [  ],
+					"freq_detect" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_randomize" : [  ],
 					"post-crossfade fx chooser::Post-Crossfade_FX_plugin_choice" : [  ],
@@ -1557,8 +1614,9 @@
 					"mod params::low_squareness" : [  ],
 					"mod params::u109007424" : [  ],
 					"mod params::transient_detect::slide_down[1]" : [  ],
-					"mod params::transient_detect::threshold" : [  ],
 					"mod params::transient_detect::hysteresis" : [  ],
+					"mod params::transient_detect::u208032528" : [  ],
+					"mod params::transient_detect::u208032528[1]" : [  ],
 					"umenu_presets::main_preset_initial" : [  ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
@@ -1602,7 +1660,9 @@
 					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
 					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
 					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
-					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ],
+					"reese_bass::reese_bass" : [  ],
+					"plugin_or_rnbo_selector[5]::dryish_eq_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -1614,6 +1674,7 @@
 					"bleed[1]" : [  ],
 					"pitchMixSustain" : [  ],
 					"pitchMixAttack" : [  ],
+					"freq_detect" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_randomize" : [  ],
 					"post-crossfade fx chooser::Post-Crossfade_FX_plugin_choice" : [  ],
@@ -1664,8 +1725,9 @@
 					"mod params::low_squareness" : [  ],
 					"mod params::u109007424" : [  ],
 					"mod params::transient_detect::slide_down[1]" : [  ],
-					"mod params::transient_detect::threshold" : [  ],
 					"mod params::transient_detect::hysteresis" : [  ],
+					"mod params::transient_detect::u208032528" : [  ],
+					"mod params::transient_detect::u208032528[1]" : [  ],
 					"umenu_presets::main_preset_initial" : [  ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
@@ -1709,7 +1771,9 @@
 					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
 					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
 					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
-					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ],
+					"reese_bass::reese_bass" : [  ],
+					"plugin_or_rnbo_selector[5]::dryish_eq_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -1721,6 +1785,7 @@
 					"bleed[1]" : [  ],
 					"pitchMixSustain" : [  ],
 					"pitchMixAttack" : [  ],
+					"freq_detect" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_randomize" : [  ],
 					"post-crossfade fx chooser::Post-Crossfade_FX_plugin_choice" : [  ],
@@ -1771,8 +1836,9 @@
 					"mod params::low_squareness" : [  ],
 					"mod params::u109007424" : [  ],
 					"mod params::transient_detect::slide_down[1]" : [  ],
-					"mod params::transient_detect::threshold" : [  ],
 					"mod params::transient_detect::hysteresis" : [  ],
+					"mod params::transient_detect::u208032528" : [  ],
+					"mod params::transient_detect::u208032528[1]" : [  ],
 					"umenu_presets::main_preset_initial" : [  ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
@@ -1816,7 +1882,9 @@
 					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
 					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
 					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
-					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ],
+					"reese_bass::reese_bass" : [  ],
+					"plugin_or_rnbo_selector[5]::dryish_eq_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -1828,6 +1896,7 @@
 					"bleed[1]" : [  ],
 					"pitchMixSustain" : [  ],
 					"pitchMixAttack" : [  ],
+					"freq_detect" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_randomize" : [  ],
 					"post-crossfade fx chooser::Post-Crossfade_FX_plugin_choice" : [  ],
@@ -1878,8 +1947,9 @@
 					"mod params::low_squareness" : [  ],
 					"mod params::u109007424" : [  ],
 					"mod params::transient_detect::slide_down[1]" : [  ],
-					"mod params::transient_detect::threshold" : [  ],
 					"mod params::transient_detect::hysteresis" : [  ],
+					"mod params::transient_detect::u208032528" : [  ],
+					"mod params::transient_detect::u208032528[1]" : [  ],
 					"umenu_presets::main_preset_initial" : [  ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
@@ -1923,7 +1993,9 @@
 					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
 					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
 					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
-					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ],
+					"reese_bass::reese_bass" : [  ],
+					"plugin_or_rnbo_selector[5]::dryish_eq_rnbo_or_plugin" : [  ]
 				}
 
 			}
@@ -1935,6 +2007,7 @@
 					"bleed[1]" : [  ],
 					"pitchMixSustain" : [  ],
 					"pitchMixAttack" : [  ],
+					"freq_detect" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_plugin_choice" : [  ],
 					"sustain fx chooser::Pre-LPF_FX_randomize" : [  ],
 					"post-crossfade fx chooser::Post-Crossfade_FX_plugin_choice" : [  ],
@@ -1985,8 +2058,9 @@
 					"mod params::low_squareness" : [  ],
 					"mod params::u109007424" : [  ],
 					"mod params::transient_detect::slide_down[1]" : [  ],
-					"mod params::transient_detect::threshold" : [  ],
 					"mod params::transient_detect::hysteresis" : [  ],
+					"mod params::transient_detect::u208032528" : [  ],
+					"mod params::transient_detect::u208032528[1]" : [  ],
 					"umenu_presets::main_preset_initial" : [  ],
 					"plugin_or_rnbo_selector[6]::main_limiter_rnbo_or_plugin" : [  ],
 					"metronome[1]::metronome_settings[1]" : [  ],
@@ -2030,7 +2104,9 @@
 					"patcher[5]::plugin_or_rnbo_selector_mono[2]::octaver_comp_rnbo_or_plugin" : [  ],
 					"patcher[5]::plugin_or_rnbo_selector_mono[1]::lows_comp_rnbo_or_plugin" : [  ],
 					"patcher[5]::plugin_or_rnbo_selector[5]::mod_comp_rnbo_or_plugin" : [  ],
-					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ]
+					"patcher[5]::plugin_or_rnbo_selector[7]::dry_comp_rnbo_or_plugin" : [  ],
+					"reese_bass::reese_bass" : [  ],
+					"plugin_or_rnbo_selector[5]::dryish_eq_rnbo_or_plugin" : [  ]
 				}
 
 			}

@@ -35,11 +35,11 @@
 								}
 ,
 								"sustain" : 								{
-									"value" : 80.0
+									"value" : 160.0
 								}
 ,
 								"himidfq" : 								{
-									"value" : 1200.0
+									"value" : 2000.0
 								}
 ,
 								"comp" : 								{
@@ -55,7 +55,7 @@
 								}
 ,
 								"himid" : 								{
-									"value" : 4.0
+									"value" : 12.0
 								}
 ,
 								"attack" : 								{
@@ -70,7 +70,7 @@
 					"active" : [ "active", 1 ],
 					"weighting" : [ 1 ],
 					"output gain[1]" : [ -10.0 ],
-					"input gain[1]" : [ 9.0 ]
+					"input gain[1]" : [ 0.0 ]
 				}
 
 			}

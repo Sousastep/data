@@ -1,0 +1,21 @@
+{
+	"pattrstorage" : 	{
+		"name" : "pitch_detection",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"freq_detect" : [ 2 ],
+					"highthresh" : [ 0.671023965141612 ],
+					"lowthresh" : [ 0.616557734204793 ],
+					"fft" : [ 2 ],
+					"algo" : [ "algorithm", 2 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

@@ -7,14 +7,14 @@
 				"data" : 				{
 					"transient_helper" : [ 1 ],
 					"env_decay" : [ 1461.041272997053056 ],
-					"noise_gate" : [ 0.217191940415768 ],
+					"noise_gate" : [ 0.193463126856446 ],
 					"interpolate_crossfades" : [ 100.0 ],
 					"env_attack" : [ 8.0 ],
 					"lock_low_mod" : [ 0 ],
 					"lock_very_low_mod" : [ 0 ],
 					"low_crossfade_offset" : [ 32.283464566929041 ],
 					"crossfade_env_sens" : [ 0.7 ],
-					"mix_env_logic::env_bottom" : [ 16.0 ],
+					"mix_env_logic::env_bottom" : [ 1.0 ],
 					"mix_env_logic::env_top" : [ 99.0 ],
 					"mix_env_logic::easing_function" : [ 1 ],
 					"mix_env_logic::invert" : [ 1 ]

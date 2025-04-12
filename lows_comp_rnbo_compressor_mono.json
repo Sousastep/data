@@ -48,7 +48,7 @@
 ,
 								"__presetid" : "compressor_mono",
 								"attack" : 								{
-									"value" : 2.0
+									"value" : 60.0
 								}
 ,
 								"comp" : 								{
@@ -64,8 +64,8 @@
 						}
  ],
 					"active" : [ "active", 1 ],
-					"output gain[1]" : [ -7.0 ],
-					"input gain[1]" : [ 0.0 ]
+					"output gain[1]" : [ 0.0 ],
+					"input gain[1]" : [ 11.338582677165334 ]
 				}
 
 			}

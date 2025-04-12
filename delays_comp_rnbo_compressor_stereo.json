@@ -69,7 +69,7 @@
  ],
 					"active" : [ "active", 1 ],
 					"weighting" : [ 1 ],
-					"output gain[1]" : [ -8.0 ],
+					"output gain[1]" : [ -12.0 ],
 					"input gain[1]" : [ -7.559055118110215 ]
 				}
 
